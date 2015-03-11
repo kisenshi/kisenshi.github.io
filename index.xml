@@ -7,8 +7,17 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>The content of this site is licensed under a Creative Commons Attribution 4.0 International License</copyright>
-    <lastBuildDate>Wed, 11 Mar 2015 00:08:41 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 11 Mar 2015 15:57:49 +0000</lastBuildDate>
     <atom:link href="http://kispygr.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>2015_03_11_my_first_hackathon</title>
+      <link>http://kispygr.github.io/post/2015_03_11_my_first_hackathon/</link>
+      <pubDate>Wed, 11 Mar 2015 15:57:49 +0000</pubDate>
+      
+      <guid>http://kispygr.github.io/post/2015_03_11_my_first_hackathon/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>For more details...</title>
@@ -52,7 +61,7 @@
 
 &lt;h3 id=&#34;ongoing:4fadc87212928c5df3c9c351c91fa60d&#34;&gt;Ongoing&lt;/h3&gt;
 
-&lt;p&gt;&lt;a target=&#34;_blank&#34; title=&#34;Artificial Intelligence&#34; href=&#34;https://www.edx.org/course/artificial-intelligence-uc-berkeleyx-cs188-1x-0#.VP-GrfmsWSo&#34;&gt;&lt;img class=&#34;logo_img&#34; src=&#34;http://kispygr.github.io/img/portfolio/logo_site_edx.png&#34; alt=&#34;edX&#34;/&gt;&lt;/a&gt; Artificial Intelligence&lt;/p&gt;
+&lt;p&gt;&lt;a target=&#34;_blank&#34; title=&#34;Artificial Intelligence&#34; href=&#34;https://www.edx.org/course/artificial-intelligence-uc-berkeleyx-cs188-1x-0#.VP-GrfmsWSo&#34;&gt;&lt;img class=&#34;logo_img&#34; src=&#34;http://kispygr.github.io/img/portfolio/logo_edx_site.png&#34; alt=&#34;edX&#34;/&gt;&lt;/a&gt; Artificial Intelligence&lt;/p&gt;
 
 &lt;p&gt;&lt;a target=&#34;_blank&#34; title=&#34;Developing Android Apps&#34; href=&#34;https://www.udacity.com/course/ud853&#34;&gt;&lt;img class=&#34;logo_img&#34; src=&#34;http://kispygr.github.io/img/portfolio/logo_udacity.png&#34; alt=&#34;Udacity&#34;/&gt;&lt;/a&gt; Developing Android Apps&lt;/p&gt;
 </description>
