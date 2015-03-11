@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Portfolios on Cheese with posts</title>
+    <link>http://kispygr.github.io/portfolio/</link>
+    <description>Recent content in Portfolios on Cheese with posts</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>The content of this site is licensed under a Creative Commons Attribution 4.0 International License</copyright>
+    <lastBuildDate>Wed, 11 Mar 2015 00:08:41 +0000</lastBuildDate>
+    <atom:link href="http://kispygr.github.io/portfolio/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Summary</title>
+      <link>http://kispygr.github.io/portfolio/summary/</link>
+      <pubDate>Tue, 10 Mar 2015 03:21:00 +0000</pubDate>
+      
+      <guid>http://kispygr.github.io/portfolio/summary/</guid>
+      <description>
+
+&lt;h3 id=&#34;who-i-am:d0426fb2678d00bb8f22609868e62cae&#34;&gt;Who I am&lt;/h3&gt;
+
+&lt;p&gt;I am a &lt;strong&gt;computer engineer&lt;/strong&gt; (5 years degree) who has worked for almost two years as a &lt;strong&gt;full stack&lt;/strong&gt; web developer in a company based in London. In back end I have experience mostly with PHP, but I can &lt;strong&gt;easily adapt&lt;/strong&gt; and work with new languages and environments. I like &lt;strong&gt;facing problems&lt;/strong&gt; and I always try to find the best way to solve them, even if I don´t have the required knowledge for it at the beginning. I like &lt;strong&gt;learning&lt;/strong&gt;, &lt;strong&gt;improving&lt;/strong&gt; myself and I am not afraid of &lt;strong&gt;challenges&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;h3 id=&#34;my-interests:d0426fb2678d00bb8f22609868e62cae&#34;&gt;My interests&lt;/h3&gt;
+
+&lt;p&gt;I am looking for the opportunity to work in a &lt;strong&gt;dynamic, fresh and social environment&lt;/strong&gt;; taking part of a great team and having the chance to evolve, improve my skills and acquire new ones. My current interests include &lt;em&gt;Software Engineering&lt;/em&gt;, &lt;em&gt;Artificial Intelligence&lt;/em&gt;, mobile and responsive development and &lt;em&gt;User Experience&lt;/em&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Tech I know</title>
+      <link>http://kispygr.github.io/portfolio/tech/</link>
+      <pubDate>Tue, 10 Mar 2015 16:39:12 +0000</pubDate>
+      
+      <guid>http://kispygr.github.io/portfolio/tech/</guid>
+      <description>
+
+&lt;h3 id=&#34;full-stack-web-development-mobile:41e441ed1949396cba3a30ae96a3edd2&#34;&gt;Full stack web development &amp;amp; mobile&lt;/h3&gt;
+
+&lt;p&gt;&lt;a target=&#34;_blank&#34; title=&#34;PHP&#34; href=&#34;http://php.net/&#34;&gt;&lt;img class=&#34;logo_img&#34; src=&#34;http://kispygr.github.io/img/portfolio/logo_php.png&#34; alt=&#34;PHP&#34;/&gt;&lt;/a&gt;
+&lt;a title=&#34;HTML&#34; href=&#34;#&#34;&gt;&lt;img class=&#34;logo_img&#34; src=&#34;http://kispygr.github.io/img/portfolio/logo_html5.png&#34; alt=&#34;HTML&#34;/&gt;&lt;/a&gt;
+&lt;a title=&#34;CSS&#34; href=&#34;#&#34;&gt;&lt;img class=&#34;logo_img&#34; src=&#34;http://kispygr.github.io/img/portfolio/logo_css3.png&#34; alt=&#34;CSS&#34;/&gt;&lt;/a&gt;
+&lt;a title=&#34;JavaScript&#34; href=&#34;#&#34;&gt;&lt;img class=&#34;logo_img&#34; src=&#34;http://kispygr.github.io/img/portfolio/logo_js.png&#34; alt=&#34;JavaScript&#34;/&gt;&lt;/a&gt;
+&lt;a target=&#34;_blank&#34; title=&#34;jQuery&#34; href=&#34;http://jquery.com/&#34;&gt;&lt;img class=&#34;logo_img&#34; src=&#34;http://kispygr.github.io/img/portfolio/logo_jquery.png&#34; alt=&#34;jQuery&#34;/&gt;&lt;/a&gt;
+&lt;a target=&#34;_blank&#34; title=&#34;mySQL&#34; href=&#34;http://www.mysql.com/&#34;&gt;&lt;img class=&#34;logo_img&#34; src=&#34;http://kispygr.github.io/img/portfolio/logo_mysql.png&#34; alt=&#34;mySQL&#34;/&gt;&lt;/a&gt;
+AJAX&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;Basics of&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a target=&#34;_blank&#34; title=&#34;Python&#34; href=&#34;https://www.python.org/&#34;&gt;&lt;img class=&#34;logo_img&#34; src=&#34;http://kispygr.github.io/img/portfolio/logo_python.png&#34; alt=&#34;Python&#34;/&gt;&lt;/a&gt;
+&lt;a target=&#34;_blank&#34; title=&#34;Android development&#34; href=&#34;http://developer.android.com/index.html&#34;&gt;&lt;img class=&#34;logo_img&#34; src=&#34;http://kispygr.github.io/img/portfolio/logo_android.png&#34; alt=&#34;Android development&#34;/&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;coding-tools-software-frameworks:41e441ed1949396cba3a30ae96a3edd2&#34;&gt;Coding / Tools / Software / Frameworks&lt;/h3&gt;
+
+&lt;p&gt;&lt;a target=&#34;_blank&#34; title=&#34;Sublime Text&#34; href=&#34;http://www.sublimetext.com/&#34;&gt;&lt;img class=&#34;logo_img&#34; src=&#34;http://kispygr.github.io/img/portfolio/logo_sublime_text.png&#34; alt=&#34;Sublime Text&#34;/&gt;&lt;/a&gt;
+&lt;a target=&#34;_blank&#34; title=&#34;Notepad++&#34; href=&#34;http://notepad-plus-plus.org/&#34;&gt;&lt;img class=&#34;logo_img&#34; src=&#34;http://kispygr.github.io/img/portfolio/logo_notepad_plus_plus.png&#34; alt=&#34;Notepad++&#34;/&gt;&lt;/a&gt;
+&lt;a target=&#34;_blank&#34; title=&#34;GIT&#34; href=&#34;http://git-scm.com/&#34;&gt;&lt;img class=&#34;logo_img&#34; src=&#34;http://kispygr.github.io/img/portfolio/logo_git.png&#34; alt=&#34;GIT&#34;/&gt;&lt;/a&gt;
+&lt;a target=&#34;_blank&#34; title=&#34;Trello&#34; href=&#34;https://trello.com/&#34;&gt;&lt;img class=&#34;logo_img&#34; src=&#34;http://kispygr.github.io/img/portfolio/logo_trello.png&#34; alt=&#34;Trello&#34;/&gt;&lt;/a&gt;
+&lt;a target=&#34;_blank&#34; title=&#34;Microsoft Office&#34; href=&#34;http://products.office.com/en-GB/&#34;&gt;&lt;img class=&#34;logo_img&#34; src=&#34;http://kispygr.github.io/img/portfolio/logo_moffice.png&#34; alt=&#34;Microsoft Office&#34;/&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;Basics of&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a target=&#34;_blank&#34; title=&#34;Bootstrap&#34; href=&#34;http://getbootstrap.com/&#34;&gt;&lt;img class=&#34;logo_img&#34; src=&#34;http://kispygr.github.io/img/portfolio/logo_bootstrap.png&#34; alt=&#34;Bootstrap&#34;/&gt;&lt;/a&gt;
+&lt;a target=&#34;_blank&#34; title=&#34;Codeigniter&#34; href=&#34;http://www.codeigniter.com/&#34;&gt;&lt;img class=&#34;logo_img&#34; src=&#34;http://kispygr.github.io/img/portfolio/logo_codeigniter.png&#34; alt=&#34;Codeigniter&#34;/&gt;&lt;/a&gt;
+&lt;a target=&#34;_blank&#34; title=&#34;Netbeans&#34; href=&#34;https://netbeans.org/&#34;&gt;&lt;img class=&#34;logo_img&#34; src=&#34;http://kispygr.github.io/img/portfolio/logo_netbeans.png&#34; alt=&#34;Netbeans&#34;/&gt;&lt;/a&gt;
+&lt;a target=&#34;_blank&#34; title=&#34;SVN Subversion&#34; href=&#34;https://subversion.apache.org/&#34;&gt;&lt;img class=&#34;logo_img&#34; src=&#34;http://kispygr.github.io/img/portfolio/logo_svn.png&#34; alt=&#34;SVN&#34;/&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;other-programming-languages:41e441ed1949396cba3a30ae96a3edd2&#34;&gt;Other programming languages&lt;/h3&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;Basics of&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a title=&#34;ANSI C&#34; href=&#34;#&#34;&gt;&lt;img class=&#34;logo_img&#34; src=&#34;http://kispygr.github.io/img/portfolio/logo_c.png&#34; alt=&#34;C&#34;/&gt;&lt;/a&gt;
+&lt;a title=&#34;JAVA&#34; href=&#34;#&#34;&gt;&lt;img class=&#34;logo_img&#34; src=&#34;http://kispygr.github.io/img/portfolio/logo_java.png&#34; alt=&#34;JAVA&#34;/&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;os:41e441ed1949396cba3a30ae96a3edd2&#34;&gt;OS&lt;/h3&gt;
+
+&lt;p&gt;&lt;a target=&#34;_blank&#34; title=&#34;Windows&#34; href=&#34;http://windows.microsoft.com/&#34;&gt;&lt;img class=&#34;logo_img&#34; src=&#34;http://kispygr.github.io/img/portfolio/logo_windows.png&#34; alt=&#34;Windows&#34;/&gt;&lt;/a&gt;
+&lt;a target=&#34;_blank&#34; title=&#34;Linux - Ubuntu&#34; href=&#34;http://www.ubuntu.com/&#34;&gt;&lt;img class=&#34;logo_img&#34; src=&#34;http://kispygr.github.io/img/portfolio/logo_linux.png&#34; alt=&#34;Linux Ubuntu&#34;/&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;web-cms:41e441ed1949396cba3a30ae96a3edd2&#34;&gt;Web CMS&lt;/h3&gt;
+
+&lt;p&gt;&lt;a target=&#34;_blank&#34; title=&#34;Wordpress&#34; href=&#34;http://windows.microsoft.com/&#34;&gt;&lt;img class=&#34;logo_img&#34; src=&#34;http://kispygr.github.io/img/portfolio/logo_wordpress.png&#34; alt=&#34;Wordpress&#34;/&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;spoken-languages:41e441ed1949396cba3a30ae96a3edd2&#34;&gt;Spoken languages&lt;/h3&gt;
+
+&lt;p&gt;&lt;a title=&#34;English&#34; href=&#34;#&#34;&gt;&lt;img class=&#34;logo_img&#34; src=&#34;http://kispygr.github.io/img/portfolio/logo_english.png&#34; alt=&#34;English&#34;/&gt;&lt;/a&gt;
+&lt;a title=&#34;Spanish&#34; href=&#34;#&#34;&gt;&lt;img class=&#34;logo_img&#34; src=&#34;http://kispygr.github.io/img/portfolio/logo_spanish.png&#34; alt=&#34;Spanish&#34;/&gt;&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Some of my code</title>
+      <link>http://kispygr.github.io/portfolio/projects/</link>
+      <pubDate>Tue, 10 Mar 2015 21:00:27 +0000</pubDate>
+      
+      <guid>http://kispygr.github.io/portfolio/projects/</guid>
+      <description>
+
+&lt;h2 id=&#34;find-me-in-github-a-target-blank-href-https-github-com-kispygr-img-src-img-portfolio-logo-github-png-alt-github-a:3c42bb4157bf51d85ae7ffc4e1685909&#34;&gt;Find me in GitHub &lt;a target=&#34;_blank&#34; href=&#34;https://github.com/kispygr&#34;&gt;&lt;img src=&#34;http://kispygr.github.io/img/portfolio/logo_github.png&#34; alt=&#34;GitHub&#34;/&gt;&lt;/a&gt;&lt;/h2&gt;
+
+&lt;p&gt;Some code that can be shared with the world&lt;/p&gt;
+
+&lt;h3 id=&#34;code-your-own-adventure-a-target-blank-href-https-github-com-binaryberry-code-your-own-aventure-img-src-img-portfolio-logo-github-small-png-alt-github-a:3c42bb4157bf51d85ae7ffc4e1685909&#34;&gt;Code-Your-Own-Adventure &lt;a target=&#34;_blank&#34; href=&#34;https://github.com/binaryberry/Code-Your-Own-Aventure&#34;&gt;&lt;img src=&#34;http://kispygr.github.io/img/portfolio/logo_github_small.png&#34; alt=&#34;GitHub&#34;/&gt;&lt;/a&gt;&lt;/h3&gt;
+
+&lt;p&gt;Prototype built with &lt;strong&gt;&lt;em&gt;Ruby&lt;/em&gt;&lt;/strong&gt; Sinatra and &lt;strong&gt;&lt;em&gt;Bootstrap&lt;/em&gt;&lt;/strong&gt; for the &lt;strong&gt;&lt;em&gt;IWDHackathon&lt;/em&gt;&lt;/strong&gt; organised by &lt;a target=&#34;_blank&#34; href=&#34;http://www.talentedheads.com/2015/02/10/female-hackathon-planned-london-celebrate-international-womens-day/&#34;&gt;Talented Heads&lt;/a&gt; the weekend of the 7th and 8th of March of 2015.
+The theme was &lt;em&gt;Make it Happen – Diversity in Tech&lt;/em&gt;. The winning solution developed was a story telling platform to teach children coding basics and encourage them to keep trying until they are able to create the perfect story.&lt;/p&gt;
+
+&lt;p&gt;For more details, refer to this blog entrance.&lt;/p&gt;
+
+&lt;h3 id=&#34;sunshine-version-2-a-target-blank-href-https-github-com-kispygr-sunshine-version-2-tree-mybranch-img-src-img-portfolio-logo-github-small-png-alt-github-a:3c42bb4157bf51d85ae7ffc4e1685909&#34;&gt;Sunshine-Version-2 &lt;a target=&#34;_blank&#34; href=&#34;https://github.com/kispygr/Sunshine-Version-2/tree/mybranch&#34;&gt;&lt;img src=&#34;http://kispygr.github.io/img/portfolio/logo_github_small.png&#34; alt=&#34;GitHub&#34;/&gt;&lt;/a&gt;&lt;/h3&gt;
+
+&lt;p&gt;Project provided to follow up the &lt;strong&gt;&lt;em&gt;&lt;a target=&#34;_blank&#34; href=&#34;https://www.udacity.com/course/ud853&#34;&gt;Developing Android Apps&lt;/a&gt;&lt;/em&gt;&lt;/strong&gt; course of Udacity.&lt;/p&gt;
+
+&lt;p&gt;I forked the repository and created my own branch (&lt;em&gt;mybranch&lt;/em&gt;) to be able to track my modifications along the course. As I am currently taking this course, the app is not finished yet.&lt;/p&gt;
+
+&lt;hr/&gt;
+
+&lt;p&gt;I am also coding some &lt;strong&gt;&lt;em&gt;Python&lt;/em&gt;&lt;/strong&gt; to complete the projects in edX&amp;rsquo;s &lt;strong&gt;&lt;em&gt;&lt;a target=&#34;_blank&#34; href=&#34;https://www.edx.org/course/artificial-intelligence-uc-berkeleyx-cs188-1x-0#.VP9l8_msV8E&#34;&gt;Artificial Intelligence&lt;/a&gt;&lt;/em&gt;&lt;/strong&gt; course. However, we were asked by the instructors not to upload the code to a public repository.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Some recent courses</title>
+      <link>http://kispygr.github.io/portfolio/courses/</link>
+      <pubDate>Tue, 10 Mar 2015 21:53:09 +0000</pubDate>
+      
+      <guid>http://kispygr.github.io/portfolio/courses/</guid>
+      <description>
+
+&lt;p&gt;List of online courses that I have recently completed or I am taking at the moment.&lt;/p&gt;
+
+&lt;h3 id=&#34;february-2015:4fadc87212928c5df3c9c351c91fa60d&#34;&gt;February 2015&lt;/h3&gt;
+
+&lt;p&gt;&lt;a target=&#34;_blank&#34; title=&#34;UX Design for Mobile Developers&#34; href=&#34;https://www.udacity.com/course/ud849&#34;&gt;&lt;img class=&#34;logo_img&#34; src=&#34;http://kispygr.github.io/img/portfolio/logo_udacity.png&#34; alt=&#34;Udacity&#34;/&gt;&lt;/a&gt; UX Design for Mobile Developers&lt;/p&gt;
+
+&lt;p&gt;&lt;a target=&#34;_blank&#34; title=&#34;Responsive Web Design Fundamentals&#34; href=&#34;https://www.udacity.com/course/ud893&#34;&gt;&lt;img class=&#34;logo_img&#34; src=&#34;http://kispygr.github.io/img/portfolio/logo_udacity.png&#34; alt=&#34;Udacity&#34;/&gt;&lt;/a&gt; Responsive Web Design Fundamentals&lt;/p&gt;
+
+&lt;p&gt;&lt;a target=&#34;_blank&#34; title=&#34;How to Use Git and GitHub&#34; href=&#34;https://www.udacity.com/course/ud775&#34;&gt;&lt;img class=&#34;logo_img&#34; src=&#34;http://kispygr.github.io/img/portfolio/logo_udacity.png&#34; alt=&#34;Udacity&#34;/&gt;&lt;/a&gt; How to Use Git and GitHub&lt;/p&gt;
+
+&lt;h3 id=&#34;ongoing:4fadc87212928c5df3c9c351c91fa60d&#34;&gt;Ongoing&lt;/h3&gt;
+
+&lt;p&gt;&lt;a target=&#34;_blank&#34; title=&#34;Artificial Intelligence&#34; href=&#34;https://www.edx.org/course/artificial-intelligence-uc-berkeleyx-cs188-1x-0#.VP-GrfmsWSo&#34;&gt;&lt;img class=&#34;logo_img&#34; src=&#34;http://kispygr.github.io/img/portfolio/logo_edx.png&#34; alt=&#34;edX&#34;/&gt;&lt;/a&gt; Artificial Intelligence&lt;/p&gt;
+
+&lt;p&gt;&lt;a target=&#34;_blank&#34; title=&#34;Developing Android Apps&#34; href=&#34;https://www.udacity.com/course/ud853&#34;&gt;&lt;img class=&#34;logo_img&#34; src=&#34;http://kispygr.github.io/img/portfolio/logo_udacity.png&#34; alt=&#34;Udacity&#34;/&gt;&lt;/a&gt; Developing Android Apps&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>For more details...</title>
+      <link>http://kispygr.github.io/portfolio/more/</link>
+      <pubDate>Wed, 11 Mar 2015 00:08:41 +0000</pubDate>
+      
+      <guid>http://kispygr.github.io/portfolio/more/</guid>
+      <description>&lt;p&gt;For detailed information about my professional experience and education, please refer to my LinkedIn profile.&lt;/p&gt;
+
+&lt;p&gt;&lt;a target=&#34;_blank&#34; title=&#34;My LinkedIn profile&#34; href=&#34;https://uk.linkedin.com/in/cguerreromero/en&#34;&gt;&lt;img class=&#34;logo_img&#34; src=&#34;http://kispygr.github.io/img/portfolio/logo_linkedIn.png&#34; alt=&#34;LinkedIn&#34;/&gt;&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
