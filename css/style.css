@@ -35,3 +35,37 @@ footer div{
 .footer_icon{
 	height: 32px;
 }
+
+.small_link{
+	font-size: small;
+}
+
+.header_index{
+	max-height: 250px;
+	margin: 0 auto;
+}
+
+.header_post{
+	max-height: 350px;
+	margin: 0 auto;
+}
+
+.post_img_right{
+	float:right;
+	max-height: 300px;
+	margin-left: 20px;
+	margin-top: 5px;
+	margin-bottom: 5px;
+}
+
+.post_img_left{
+	float:left;
+	max-height: 300px;
+	margin-right: 20px;
+	margin-top: 5px;
+	margin-bottom: 5px;
+}
+
+.text-center {
+	text-align: center;
+}

@@ -11,12 +11,59 @@
     <atom:link href="http://kispygr.github.io/categories/experiences/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>2015_03_11_my_first_hackathon</title>
+      <title>My first Hackathon</title>
       <link>http://kispygr.github.io/post/2015_03_11_my_first_hackathon/</link>
       <pubDate>Wed, 11 Mar 2015 15:57:49 +0000</pubDate>
       
       <guid>http://kispygr.github.io/post/2015_03_11_my_first_hackathon/</guid>
-      <description></description>
+      <description>&lt;p&gt;I&amp;rsquo;ve recently realised how big the tech community is here in London (I was completely blind before) and the amount of interesting events, meetups and workshops that can be found almost daily around the city. Last weekend I decided to attend to my first Hackathon and, although on Sunday I was completely exhausted, it was such a great experience!&lt;/p&gt;
+
+&lt;p&gt;The hackathon was organised by &lt;a href=&#34;http://www.talentedheads.com/2015/02/10/female-hackathon-planned-london-celebrate-international-womens-day/&#34; target=&#34;_blank&#34;&gt;&lt;strong&gt;Talented Heads&lt;/strong&gt;&lt;/a&gt; and hosted by &lt;a href=&#34;http://www.makersacademy.com/&#34; target=&#34;_blank&#34;&gt;&lt;strong&gt;Makers Academy&lt;/strong&gt;&lt;/a&gt; to celebrate the International Women&amp;rsquo;s day, encourage diversity in tech and inspire more women to join this amazing industry.&lt;/p&gt;
+
+&lt;p&gt;When I arrived at Makers Academy (really cool) offices on Saturday morning, all I knew was that we would build a project based on the theme &lt;em&gt;Make it Happen - Diversity in Tech&lt;/em&gt; and I needed to bring my laptop, curiosity and imagination; so I could not imagine what all we were there were about to achieve!&lt;/p&gt;
+
+&lt;blockquote class=&#34;twitter-tweet tw-align-center&#34; lang=&#34;en-gb&#34;&gt;&lt;p&gt;These are the women who will &lt;a href=&#34;https://twitter.com/hashtag/MakeItHappen?src=hash&#34;&gt;#MakeItHappen&lt;/a&gt; in tech in the future. &lt;a href=&#34;https://twitter.com/hashtag/iwdhackathon?src=hash&#34;&gt;#iwdhackathon&lt;/a&gt; you go girls x &lt;a href=&#34;http://t.co/SBgSLWslvx&#34;&gt;pic.twitter.com/SBgSLWslvx&lt;/a&gt;&lt;/p&gt;&amp;mdash; Talented Heads (@TalentedHeads) &lt;a href=&#34;https://twitter.com/TalentedHeads/status/574161010057211906&#34;&gt;March 7, 2015&lt;/a&gt;&lt;/blockquote&gt;
+
+&lt;p&gt;After introducing ourselves and some talking, we were divided into groups to come up with an idea to solve one of the problems we had isolated during the brainstorming. The interesting thing at this point is that, unlike other Hackathons, where the team meanly consists of technical profiles, our teams were formed by women with different skills. This approach provided us various points of view and encouraged us to collaborate to be able to achieve our goals.&lt;/p&gt;
+
+&lt;p&gt;&lt;img class=&#34;post_img_right img-responsive&#34; src=&#34;http://kispygr.github.io/img/posts/my_first_hackathon/cyoa_team.jpg&#34; alt=&#34;CYOA team&#34;&gt;
+My team was formed by two &lt;strong&gt;designers&lt;/strong&gt; (&lt;a href=&#34;https://twitter.com/lowndesjo&#34; target=&#34;_blank&#34;&gt;Jo&lt;/a&gt; and &lt;a href=&#34;https://twitter.com/JessicaLeach6&#34; target=&#34;_blank&#34;&gt;Jess&lt;/a&gt;), two &lt;strong&gt;marketers&lt;/strong&gt; (&lt;a href=&#34;https://twitter.com/SuzeShardlow&#34; target=&#34;_blank&#34;&gt;Suze&lt;/a&gt; and &lt;a href=&#34;https://twitter.com/alessia_camera&#34; target=&#34;_blank&#34;&gt;Alessia&lt;/a&gt;) and two &lt;strong&gt;developers&lt;/strong&gt; (&lt;a href=&#34;https://twitter.com/binaryberry&#34; target=&#34;_blank&#34;&gt;Tatiana&lt;/a&gt; and myself). I have to admit that we were very lucky as, without knowing each other at all, it turned out that we had different skills that complemented perfectly.&lt;/p&gt;
+
+&lt;p&gt;We decided to focus on &lt;strong&gt;childhood&lt;/strong&gt;. We thought that the problem starts during this period, as there are lot of stereotypes and biases surrounding boys&amp;rsquo; and girls&amp;rsquo; daily environment that may affect the way they decide to live their life, and the decisions they take in the future. In general, girls use to get frustrated and give up easily when there is a problem, and the society doesn&amp;rsquo;t encourage them to keep trying and to not be afraid of failure.&lt;/p&gt;
+
+&lt;p&gt;After lot of deliberation, we came up with an idea we all loved: develop an &lt;strong&gt;educational story-telling platform&lt;/strong&gt; to teach the basic principles of coding and problem solving through interactive exercises. Children would access the platform and create stories based in their favourite fairy tales. Depending on their actions and answers, &lt;strong&gt;the story would change&lt;/strong&gt; (or even conclude) and the more they would progress in the story following &amp;ldquo;the correct path&amp;rdquo;, the more they would be rewarded.&lt;/p&gt;
+
+&lt;p&gt;Once the idea was clear, it was time to start working and transform it in a real product to be shown the next day. It was needed a deep analysis, a marketing strategy, a research to find out possible competitors, a working prototype (oriented to the proper target), cute designs for the children&amp;hellip; and a bear, the bear was important! And we had just 24 hours to make it happen!&lt;/p&gt;
+
+&lt;blockquote class=&#34;twitter-tweet tw-align-center&#34; lang=&#34;en-gb&#34;&gt;&lt;p&gt;We are back with lots of smiles! Brainstorming whilst having breakfast. &lt;a href=&#34;https://twitter.com/hashtag/IWD2015?src=hash&#34;&gt;#IWD2015&lt;/a&gt; &lt;a href=&#34;https://twitter.com/hashtag/IWDHackathon?src=hash&#34;&gt;#IWDHackathon&lt;/a&gt; &lt;a href=&#34;https://twitter.com/hashtag/makingithappen?src=hash&#34;&gt;#makingithappen&lt;/a&gt; &lt;a href=&#34;http://t.co/4MISeaEjlw&#34;&gt;pic.twitter.com/4MISeaEjlw&lt;/a&gt;&lt;/p&gt;&amp;mdash; Daria Taylor (@daria_taylor) &lt;a href=&#34;https://twitter.com/daria_taylor/status/574513998701395968&#34;&gt;March 8, 2015&lt;/a&gt;&lt;/blockquote&gt;
+
+&lt;p&gt;For the technical part, we opted for using Ruby (with &lt;a href=&#34;http://www.sinatrarb.com/&#34; target=&#34;_blank&#34;&gt;Sinatra&lt;/a&gt;) and &lt;a href=&#34;http://getbootstrap.com/&#34; target=&#34;_blank&#34;&gt;Bootstrap&lt;/a&gt;. I had never used Ruby before so I needed to set up the environment and Tatiana spent some time explaining me the basics of Ruby and how Sinatra was structured. It took us some time to be able to actually start working in the product, but we managed quite well and I am very happy with what we were able to produce.
+Collaborating, talking, sharing different opinions and ideas (and eating all the delicious food, juices and coffee provided by the lovely organizers) all my team was able to achieve a surprising good quality work in such a short period of time; &lt;a href=&#34;https://code-your-own-adventure.herokuapp.com/&#34; target=&#34;_blank&#34;&gt;&lt;strong&gt;Code Your Own Adventure&lt;/strong&gt;&lt;/a&gt; was born and it was ready to be shown to the world!&lt;/p&gt;
+
+&lt;p class=&#34;text-center&#34;&gt;
+    &lt;a href=&#34;https://code-your-own-adventure.herokuapp.com/&#34; target=&#34;_blank&#34;&gt;
+        &lt;img src=&#34;http://kispygr.github.io/img/posts/my_first_hackathon/cyoa_logo.png&#34; alt=&#34;CYOA logo&#34;&gt;
+    &lt;/a&gt;
+&lt;/p&gt;
+
+&lt;p&gt;Pitching time! The moment to present the product we had been working on during the weekend had arrived, and everyone was tired, but really excited. The other two teams presented some really good ideas as well. One of them was &lt;a href=&#34;https://twitter.com/techmentr&#34; target=&#34;_blank&#34;&gt;&lt;strong&gt;TechMentr&lt;/strong&gt;&lt;/a&gt;, a platform to match mentors and mentees in tech; and &lt;strong&gt;Co(de)Create&lt;/strong&gt;, an e-learning platform oriented to support small projects.&lt;/p&gt;
+
+&lt;p&gt;To judge the projects, there was a jury conformed by &lt;a href=&#34;https://twitter.com/coderinheels&#34; target=&#34;_blank&#34;&gt;Gen Ashley&lt;/a&gt;, from &lt;a href=&#34;http://www.meetup.com/Women-Who-Code-London/&#34; target=&#34;_blank&#34;&gt;&lt;em&gt;Women Who Code&lt;/em&gt;&lt;/a&gt;, &lt;a href=&#34;https://twitter.com/mseckington&#34; target=&#34;_blank&#34;&gt;Melinda&lt;/a&gt; from &lt;em&gt;FutureLearn&lt;/em&gt; and Clarice from &lt;a href=&#34;http://www.codefirstgirls.org.uk/&#34; target=&#34;_blank&#34;&gt;&lt;em&gt;Codefirst:Girls&lt;/em&gt;&lt;/a&gt;. After much deliberation, they announced &lt;strong&gt;Code Your Own Adventure&lt;/strong&gt; as the winning idea!!!!&lt;/p&gt;
+
+&lt;blockquote class=&#34;twitter-tweet tw-align-center&#34; lang=&#34;en-gb&#34;&gt;&lt;p&gt;&lt;a href=&#34;https://twitter.com/hashtag/IWDHackathon?src=hash&#34;&gt;#IWDHackathon&lt;/a&gt; teams also talked about marketing for (not just the tech aspect of) the ideas/products they developed. &lt;a href=&#34;http://t.co/91tUiEBe2X&#34;&gt;pic.twitter.com/91tUiEBe2X&lt;/a&gt;&lt;/p&gt;&amp;mdash; Gen A (@coderinheels) &lt;a href=&#34;https://twitter.com/coderinheels/status/574592772071624704&#34;&gt;March 8, 2015&lt;/a&gt;&lt;/blockquote&gt;
+
+&lt;p&gt;Amazing, &lt;strong&gt;our team had won&lt;/strong&gt;!!!! We were so happy and could not believe it!&lt;/p&gt;
+
+&lt;p&gt;Since we started working on it, I knew it was a great idea, but I didn&amp;rsquo;t expect to win. To be honest, I was having such a good time during the whole weekend and the environment was so friendly that I didn&amp;rsquo;t have the feeling to be in &amp;ldquo;a competition&amp;rdquo;, but we were; and there were &lt;strong&gt;prizes&lt;/strong&gt;!!! We are going to receive a £75 amazon voucher, isn&amp;rsquo;t that great??! My earphones broke last week (and I cannot live without music), so I have quite clear what I am going to spend it on! I include Jess&amp;rsquo; tweet below with a photo of us with the jury so you can see by yourself how happy we were!&lt;/p&gt;
+
+&lt;blockquote class=&#34;twitter-tweet tw-align-center&#34; lang=&#34;en-gb&#34;&gt;&lt;p&gt;Code Your Own Adventure! Winning team at IWD hackathon &lt;a href=&#34;https://twitter.com/SuzeShardlow&#34;&gt;@SuzeShardlow&lt;/a&gt; &lt;a href=&#34;https://twitter.com/binaryberry&#34;&gt;@binaryberry&lt;/a&gt; &lt;a href=&#34;https://twitter.com/lowndesjo&#34;&gt;@lowndesjo&lt;/a&gt; &lt;a href=&#34;https://twitter.com/CamTechWomen&#34;&gt;@CamTechWomen&lt;/a&gt; &lt;a href=&#34;http://t.co/5KuODwN28v&#34;&gt;pic.twitter.com/5KuODwN28v&lt;/a&gt;&lt;/p&gt;&amp;mdash; Jessica Leach (@JessicaLeach6) &lt;a href=&#34;https://twitter.com/JessicaLeach6/status/574665613551013889&#34;&gt;March 8, 2015&lt;/a&gt;&lt;/blockquote&gt;
+
+&lt;p&gt;In summary, it was a &lt;strong&gt;great experience&lt;/strong&gt;, I met &lt;strong&gt;amazing women&lt;/strong&gt; passionate about &lt;strong&gt;tech&lt;/strong&gt;, I had fun and learnt a lot. Although on Sunday afternoon I was exhausted (both mentally and physically), it worth it and I would do it again! I have the feeling that I will be seen participating in many other Hackathons in the future.&lt;/p&gt;
+
+&lt;p&gt;Thanks the rest of attendees, the jury and the organizers for the amazing pics. It was possible and&amp;hellip;&lt;/p&gt;
+
+&lt;h2 class=&#34;text-center&#34;&gt;WE MADE IT HAPPEN!&lt;/h2&gt;
+</description>
     </item>
     
   </channel>
