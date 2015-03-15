@@ -56,6 +56,7 @@ footer div{
 	margin-left: 20px;
 	margin-top: 5px;
 	margin-bottom: 5px;
+	max-width: 50%;
 }
 
 .post_img_left{
@@ -64,6 +65,11 @@ footer div{
 	margin-right: 20px;
 	margin-top: 5px;
 	margin-bottom: 5px;
+	max-width: 50%;
+}
+
+.post_img{
+	margin: 20px 0px;
 }
 
 .text-center {
