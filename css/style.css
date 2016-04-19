@@ -15,6 +15,10 @@ footer div{
 	background: #fff;
 }
 
+.footer_container{
+	margin-top: -1px;
+}
+
 .p_left_img{
 	width: 120px;
 	margin-right: 10px;
