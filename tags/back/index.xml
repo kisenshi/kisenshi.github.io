@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Others on Cheese with posts</title>
-    <link>http://kispygr.github.io/tags/others/</link>
-    <description>Recent content in Others on Cheese with posts</description>
+    <title>Back on Cheese with posts</title>
+    <link>http://kispygr.github.io/tags/back/</link>
+    <description>Recent content in Back on Cheese with posts</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>The content of this site is licensed under a Creative Commons Attribution 4.0 International License</copyright>
     <lastBuildDate>Thu, 28 Apr 2016 21:11:11 +0100</lastBuildDate>
-    <atom:link href="http://kispygr.github.io/tags/others/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://kispygr.github.io/tags/back/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Hello world, I&#39;m back</title>
@@ -23,16 +23,6 @@
 &lt;p&gt;I&amp;rsquo;ve been updating and fixing some issues in the site and I&amp;rsquo;m ready to start writing again! I have some topic ideas, cool events in the agenda and the excitement of sharing them with the world.&lt;/p&gt;
 
 &lt;p&gt;Keep an eye on the site because some cheese with posts is being cooked!&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Hello world!</title>
-      <link>http://kispygr.github.io/post/2015_03_10_hello_world/</link>
-      <pubDate>Tue, 10 Mar 2015 23:54:28 +0000</pubDate>
-      
-      <guid>http://kispygr.github.io/post/2015_03_10_hello_world/</guid>
-      <description>&lt;p&gt;The first post has to be this one!&lt;/p&gt;
 </description>
     </item>
     
