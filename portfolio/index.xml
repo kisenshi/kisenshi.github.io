@@ -2,82 +2,82 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Portfolios on Cheese with posts</title>
-    <link>http://kispygr.github.io/portfolio/</link>
+    <link>http://kisenshi.github.io/portfolio/</link>
     <description>Recent content in Portfolios on Cheese with posts</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>The content of this site is licensed under a Creative Commons Attribution 4.0 International License</copyright>
     <lastBuildDate>Wed, 11 Mar 2015 00:08:41 +0000</lastBuildDate>
-    <atom:link href="http://kispygr.github.io/portfolio/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://kisenshi.github.io/portfolio/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>For more details...</title>
-      <link>http://kispygr.github.io/portfolio/more/</link>
+      <link>http://kisenshi.github.io/portfolio/more/</link>
       <pubDate>Wed, 11 Mar 2015 00:08:41 +0000</pubDate>
       
-      <guid>http://kispygr.github.io/portfolio/more/</guid>
+      <guid>http://kisenshi.github.io/portfolio/more/</guid>
       <description>&lt;p&gt;For detailed information about my professional experience and education, please refer to my LinkedIn profile.&lt;/p&gt;
 
-&lt;p&gt;&lt;a target=&#34;_blank&#34; title=&#34;My LinkedIn profile&#34; href=&#34;https://uk.linkedin.com/in/cguerreromero/en&#34;&gt;&lt;img class=&#34;logo_img&#34; src=&#34;http://kispygr.github.io/img/portfolio/logo_linkedIn.png&#34; alt=&#34;LinkedIn&#34;/&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a target=&#34;_blank&#34; title=&#34;My LinkedIn profile&#34; href=&#34;https://uk.linkedin.com/in/cguerreromero/en&#34;&gt;&lt;img class=&#34;logo_img&#34; src=&#34;http://kisenshi.github.io/img/portfolio/logo_linkedIn.png&#34; alt=&#34;LinkedIn&#34;/&gt;&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Some courses</title>
-      <link>http://kispygr.github.io/portfolio/courses/</link>
+      <link>http://kisenshi.github.io/portfolio/courses/</link>
       <pubDate>Tue, 10 Mar 2015 21:53:09 +0000</pubDate>
       
-      <guid>http://kispygr.github.io/portfolio/courses/</guid>
+      <guid>http://kisenshi.github.io/portfolio/courses/</guid>
       <description>
 
 &lt;p&gt;List of online courses that I have completed.&lt;/p&gt;
 
 &lt;h3 id=&#34;february-2015:4fadc87212928c5df3c9c351c91fa60d&#34;&gt;February 2015&lt;/h3&gt;
 
-&lt;p&gt;&lt;a target=&#34;_blank&#34; title=&#34;UX Design for Mobile Developers&#34; href=&#34;https://www.udacity.com/course/ud849&#34;&gt;&lt;img class=&#34;logo_img&#34; src=&#34;http://kispygr.github.io/img/portfolio/logo_udacity.png&#34; alt=&#34;Udacity&#34;/&gt;&lt;/a&gt; UX Design for Mobile Developers&lt;/p&gt;
+&lt;p&gt;&lt;a target=&#34;_blank&#34; title=&#34;UX Design for Mobile Developers&#34; href=&#34;https://www.udacity.com/course/ud849&#34;&gt;&lt;img class=&#34;logo_img&#34; src=&#34;http://kisenshi.github.io/img/portfolio/logo_udacity.png&#34; alt=&#34;Udacity&#34;/&gt;&lt;/a&gt; UX Design for Mobile Developers&lt;/p&gt;
 
-&lt;p&gt;&lt;a target=&#34;_blank&#34; title=&#34;Responsive Web Design Fundamentals&#34; href=&#34;https://www.udacity.com/course/ud893&#34;&gt;&lt;img class=&#34;logo_img&#34; src=&#34;http://kispygr.github.io/img/portfolio/logo_udacity.png&#34; alt=&#34;Udacity&#34;/&gt;&lt;/a&gt; Responsive Web Design Fundamentals&lt;/p&gt;
+&lt;p&gt;&lt;a target=&#34;_blank&#34; title=&#34;Responsive Web Design Fundamentals&#34; href=&#34;https://www.udacity.com/course/ud893&#34;&gt;&lt;img class=&#34;logo_img&#34; src=&#34;http://kisenshi.github.io/img/portfolio/logo_udacity.png&#34; alt=&#34;Udacity&#34;/&gt;&lt;/a&gt; Responsive Web Design Fundamentals&lt;/p&gt;
 
-&lt;p&gt;&lt;a target=&#34;_blank&#34; title=&#34;How to Use Git and GitHub&#34; href=&#34;https://www.udacity.com/course/ud775&#34;&gt;&lt;img class=&#34;logo_img&#34; src=&#34;http://kispygr.github.io/img/portfolio/logo_udacity.png&#34; alt=&#34;Udacity&#34;/&gt;&lt;/a&gt; How to Use Git and GitHub&lt;/p&gt;
+&lt;p&gt;&lt;a target=&#34;_blank&#34; title=&#34;How to Use Git and GitHub&#34; href=&#34;https://www.udacity.com/course/ud775&#34;&gt;&lt;img class=&#34;logo_img&#34; src=&#34;http://kisenshi.github.io/img/portfolio/logo_udacity.png&#34; alt=&#34;Udacity&#34;/&gt;&lt;/a&gt; How to Use Git and GitHub&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Some of my code</title>
-      <link>http://kispygr.github.io/portfolio/projects/</link>
+      <link>http://kisenshi.github.io/portfolio/projects/</link>
       <pubDate>Tue, 10 Mar 2015 21:00:27 +0000</pubDate>
       
-      <guid>http://kispygr.github.io/portfolio/projects/</guid>
+      <guid>http://kisenshi.github.io/portfolio/projects/</guid>
       <description>
 
-&lt;h2 id=&#34;find-me-in-github-a-target-blank-href-https-github-com-kispygr-img-src-img-portfolio-logo-github-png-alt-github-a:3c42bb4157bf51d85ae7ffc4e1685909&#34;&gt;Find me in GitHub &lt;a target=&#34;_blank&#34; href=&#34;https://github.com/kispygr&#34;&gt;&lt;img src=&#34;http://kispygr.github.io/img/portfolio/logo_github.png&#34; alt=&#34;GitHub&#34;/&gt;&lt;/a&gt;&lt;/h2&gt;
+&lt;h2 id=&#34;find-me-in-github-a-target-blank-href-https-github-com-kisenshi-img-src-img-portfolio-logo-github-png-alt-github-a:3c42bb4157bf51d85ae7ffc4e1685909&#34;&gt;Find me in GitHub &lt;a target=&#34;_blank&#34; href=&#34;https://github.com/kisenshi&#34;&gt;&lt;img src=&#34;http://kisenshi.github.io/img/portfolio/logo_github.png&#34; alt=&#34;GitHub&#34;/&gt;&lt;/a&gt;&lt;/h2&gt;
 
 &lt;p&gt;Some code that can be shared with the world&lt;/p&gt;
 
-&lt;h3 id=&#34;cheesewithposts-a-target-blank-href-https-github-com-kispygr-cheesewithposts-img-src-img-portfolio-logo-github-small-png-alt-github-a:3c42bb4157bf51d85ae7ffc4e1685909&#34;&gt;cheesewithposts &lt;a target=&#34;_blank&#34; href=&#34;https://github.com/kispygr/cheesewithposts&#34;&gt;&lt;img src=&#34;http://kispygr.github.io/img/portfolio/logo_github_small.png&#34; alt=&#34;GitHub&#34;/&gt;&lt;/a&gt;&lt;/h3&gt;
+&lt;h3 id=&#34;cheesewithposts-a-target-blank-href-https-github-com-kisenshi-cheesewithposts-img-src-img-portfolio-logo-github-small-png-alt-github-a:3c42bb4157bf51d85ae7ffc4e1685909&#34;&gt;cheesewithposts &lt;a target=&#34;_blank&#34; href=&#34;https://github.com/kisenshi/cheesewithposts&#34;&gt;&lt;img src=&#34;http://kisenshi.github.io/img/portfolio/logo_github_small.png&#34; alt=&#34;GitHub&#34;/&gt;&lt;/a&gt;&lt;/h3&gt;
 
 &lt;p&gt;This is the code of the blog that generates the site you´re visiting!&lt;/p&gt;
 
 &lt;p&gt;I´m working in a post that will explain with detail how the blog is built; but briefly, I use something called &lt;a target=&#34;_blank&#34; href=&#34;http://gohugo.io/&#34;&gt;Hugo&lt;/a&gt;, which is amazing and allows me to have 100% control of everything; exactly what I was looking for.&lt;/p&gt;
 
-&lt;h3 id=&#34;kispygr-github-io-a-target-blank-href-https-github-com-kispygr-kispygr-github-io-img-src-img-portfolio-logo-github-small-png-alt-github-a:3c42bb4157bf51d85ae7ffc4e1685909&#34;&gt;kispygr.github.io &lt;a target=&#34;_blank&#34; href=&#34;https://github.com/kispygr/kispygr.github.io&#34;&gt;&lt;img src=&#34;http://kispygr.github.io/img/portfolio/logo_github_small.png&#34; alt=&#34;GitHub&#34;/&gt;&lt;/a&gt;&lt;/h3&gt;
+&lt;h3 id=&#34;kisenshi-github-io-a-target-blank-href-https-github-com-kisenshi-kisenshi-github-io-img-src-img-portfolio-logo-github-small-png-alt-github-a:3c42bb4157bf51d85ae7ffc4e1685909&#34;&gt;kisenshi.github.io &lt;a target=&#34;_blank&#34; href=&#34;https://github.com/kisenshi/kisenshi.github.io&#34;&gt;&lt;img src=&#34;http://kisenshi.github.io/img/portfolio/logo_github_small.png&#34; alt=&#34;GitHub&#34;/&gt;&lt;/a&gt;&lt;/h3&gt;
 
 &lt;p&gt;This is the static blog and portfolio code once it has been generated and deployed. Basically, it&amp;rsquo;s the site you are visiting at the moment!&lt;/p&gt;
 
-&lt;h3 id=&#34;code-your-own-adventure-a-target-blank-href-https-github-com-binaryberry-code-your-own-aventure-img-src-img-portfolio-logo-github-small-png-alt-github-a:3c42bb4157bf51d85ae7ffc4e1685909&#34;&gt;Code-Your-Own-Adventure &lt;a target=&#34;_blank&#34; href=&#34;https://github.com/binaryberry/Code-Your-Own-Aventure&#34;&gt;&lt;img src=&#34;http://kispygr.github.io/img/portfolio/logo_github_small.png&#34; alt=&#34;GitHub&#34;/&gt;&lt;/a&gt;&lt;/h3&gt;
+&lt;h3 id=&#34;code-your-own-adventure-a-target-blank-href-https-github-com-binaryberry-code-your-own-aventure-img-src-img-portfolio-logo-github-small-png-alt-github-a:3c42bb4157bf51d85ae7ffc4e1685909&#34;&gt;Code-Your-Own-Adventure &lt;a target=&#34;_blank&#34; href=&#34;https://github.com/binaryberry/Code-Your-Own-Aventure&#34;&gt;&lt;img src=&#34;http://kisenshi.github.io/img/portfolio/logo_github_small.png&#34; alt=&#34;GitHub&#34;/&gt;&lt;/a&gt;&lt;/h3&gt;
 
 &lt;p&gt;Prototype built with &lt;strong&gt;&lt;em&gt;Ruby&lt;/em&gt;&lt;/strong&gt; Sinatra and &lt;strong&gt;&lt;em&gt;Bootstrap&lt;/em&gt;&lt;/strong&gt; for the &lt;strong&gt;&lt;em&gt;IWDHackathon&lt;/em&gt;&lt;/strong&gt; organised by &lt;a target=&#34;_blank&#34; href=&#34;http://www.talentedheads.com/2015/02/10/female-hackathon-planned-london-celebrate-international-womens-day/&#34;&gt;Talented Heads&lt;/a&gt; the weekend of the 7th and 8th of March of 2015.
 The theme was &lt;em&gt;Make it Happen – Diversity in Tech&lt;/em&gt;. The winning solution developed was a story telling platform to teach children coding basics and encourage them to keep trying until they are able to create the perfect story.&lt;/p&gt;
 
-&lt;p&gt;For more details, refer to &lt;a href=&#34;http://kispygr.github.io/post/2015_03_11_my_first_hackathon&#34;&gt;this blog entrance&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;For more details, refer to &lt;a href=&#34;http://kisenshi.github.io/post/2015_03_11_my_first_hackathon&#34;&gt;this blog entrance&lt;/a&gt;.&lt;/p&gt;
 
-&lt;h3 id=&#34;project-euler-solutions-a-target-blank-href-https-github-com-binaryberry-project-euler-solutions-img-src-img-portfolio-logo-github-small-png-alt-github-a:3c42bb4157bf51d85ae7ffc4e1685909&#34;&gt;project_euler_solutions &lt;a target=&#34;_blank&#34; href=&#34;https://github.com/binaryberry/project_euler_solutions&#34;&gt;&lt;img src=&#34;http://kispygr.github.io/img/portfolio/logo_github_small.png&#34; alt=&#34;GitHub&#34;/&gt;&lt;/a&gt;&lt;/h3&gt;
+&lt;h3 id=&#34;project-euler-solutions-a-target-blank-href-https-github-com-binaryberry-project-euler-solutions-img-src-img-portfolio-logo-github-small-png-alt-github-a:3c42bb4157bf51d85ae7ffc4e1685909&#34;&gt;project_euler_solutions &lt;a target=&#34;_blank&#34; href=&#34;https://github.com/binaryberry/project_euler_solutions&#34;&gt;&lt;img src=&#34;http://kisenshi.github.io/img/portfolio/logo_github_small.png&#34; alt=&#34;GitHub&#34;/&gt;&lt;/a&gt;&lt;/h3&gt;
 
 &lt;p&gt;My solutions to &lt;a target=&#34;_blank&#34; href=&#34;https://projecteuler.net/&#34;&gt;&lt;strong&gt;Project Euler&lt;/strong&gt;&lt;/a&gt; problems. For those who don´t know, Project Euler is an online platform that contains lot of problems to solve. I like solving problems and I thought it was a fun way to start using &lt;strong&gt;Python&lt;/strong&gt; and get familiar with the language.&lt;/p&gt;
 
 &lt;p&gt;Please note that I publish in here my solutions, if you are using the platform I recommend &lt;strong&gt;not to spoil yourself&lt;/strong&gt;, give a try and solve them in your own; where is the fun in using my solutions as yours?&lt;/p&gt;
 
-&lt;h3 id=&#34;hackerrank-solutions-a-target-blank-href-https-github-com-kispygr-hackerrank-solutions-img-src-img-portfolio-logo-github-small-png-alt-github-a:3c42bb4157bf51d85ae7ffc4e1685909&#34;&gt;hackerrank_solutions &lt;a target=&#34;_blank&#34; href=&#34;https://github.com/kispygr/hackerrank_solutions&#34;&gt;&lt;img src=&#34;http://kispygr.github.io/img/portfolio/logo_github_small.png&#34; alt=&#34;GitHub&#34;/&gt;&lt;/a&gt;&lt;/h3&gt;
+&lt;h3 id=&#34;hackerrank-solutions-a-target-blank-href-https-github-com-kisenshi-hackerrank-solutions-img-src-img-portfolio-logo-github-small-png-alt-github-a:3c42bb4157bf51d85ae7ffc4e1685909&#34;&gt;hackerrank_solutions &lt;a target=&#34;_blank&#34; href=&#34;https://github.com/kisenshi/hackerrank_solutions&#34;&gt;&lt;img src=&#34;http://kisenshi.github.io/img/portfolio/logo_github_small.png&#34; alt=&#34;GitHub&#34;/&gt;&lt;/a&gt;&lt;/h3&gt;
 
 &lt;p&gt;My solutions to &lt;a target=&#34;_blank&#34; href=&#34;https://www.hackerrank.com/&#34;&gt;&lt;strong&gt;Hackerrank&lt;/strong&gt;&lt;/a&gt; challenges, which is another cool platform with lot of problems related with algorithms, statistics, machine learning, natural language processing&amp;hellip; and contests.&lt;/p&gt;
 
@@ -87,63 +87,63 @@ The theme was &lt;em&gt;Make it Happen – Diversity in Tech&lt;/em&gt;. The win
     
     <item>
       <title>Tech I know</title>
-      <link>http://kispygr.github.io/portfolio/tech/</link>
+      <link>http://kisenshi.github.io/portfolio/tech/</link>
       <pubDate>Tue, 10 Mar 2015 16:39:12 +0000</pubDate>
       
-      <guid>http://kispygr.github.io/portfolio/tech/</guid>
+      <guid>http://kisenshi.github.io/portfolio/tech/</guid>
       <description>
 
 &lt;p&gt;Here&amp;rsquo;s a list of some of the tech I&amp;rsquo;ve crossed path with since the beginning of times&amp;hellip; Just some examples, I&amp;rsquo;m an easy-learner and flexible person so I try to adapt to use whatever is needed or best for the task. Being open minded in tech is a must!&lt;/p&gt;
 
 &lt;h3 id=&#34;full-stack-web-development:41e441ed1949396cba3a30ae96a3edd2&#34;&gt;Full stack web development&lt;/h3&gt;
 
-&lt;p&gt;&lt;a target=&#34;_blank&#34; title=&#34;Python&#34; href=&#34;https://www.python.org/&#34;&gt;&lt;img class=&#34;logo_img&#34; src=&#34;http://kispygr.github.io/img/portfolio/logo_python.png&#34; alt=&#34;Python&#34;/&gt;&lt;/a&gt;
-&lt;a target=&#34;_blank&#34; title=&#34;PHP&#34; href=&#34;http://php.net/&#34;&gt;&lt;img class=&#34;logo_img&#34; src=&#34;http://kispygr.github.io/img/portfolio/logo_php.png&#34; alt=&#34;PHP&#34;/&gt;&lt;/a&gt;
-&lt;a title=&#34;JavaScript&#34; href=&#34;#&#34;&gt;&lt;img class=&#34;logo_img&#34; src=&#34;http://kispygr.github.io/img/portfolio/logo_js.png&#34; alt=&#34;JavaScript&#34;/&gt;&lt;/a&gt;
-&lt;a target=&#34;_blank&#34; title=&#34;jQuery&#34; href=&#34;http://jquery.com/&#34;&gt;&lt;img class=&#34;logo_img&#34; src=&#34;http://kispygr.github.io/img/portfolio/logo_jquery.png&#34; alt=&#34;jQuery&#34;/&gt;&lt;/a&gt;
-&lt;a target=&#34;_blank&#34; title=&#34;mySQL&#34; href=&#34;http://www.mysql.com/&#34;&gt;&lt;img class=&#34;logo_img&#34; src=&#34;http://kispygr.github.io/img/portfolio/logo_mysql.png&#34; alt=&#34;mySQL&#34;/&gt;&lt;/a&gt;
-&lt;a target=&#34;_blank&#34; title=&#34;PostgreSQL&#34; href=&#34;http://www.postgresql.org/&#34;&gt;&lt;img class=&#34;logo_img&#34; src=&#34;http://kispygr.github.io/img/portfolio/logo_postgresql.png&#34; alt=&#34;PostgreSQL&#34;/&gt;&lt;/a&gt;
-&lt;a title=&#34;HTML&#34; href=&#34;#&#34;&gt;&lt;img class=&#34;logo_img&#34; src=&#34;http://kispygr.github.io/img/portfolio/logo_html5.png&#34; alt=&#34;HTML&#34;/&gt;&lt;/a&gt;
-&lt;a title=&#34;CSS&#34; href=&#34;#&#34;&gt;&lt;img class=&#34;logo_img&#34; src=&#34;http://kispygr.github.io/img/portfolio/logo_css3.png&#34; alt=&#34;CSS&#34;/&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a target=&#34;_blank&#34; title=&#34;Python&#34; href=&#34;https://www.python.org/&#34;&gt;&lt;img class=&#34;logo_img&#34; src=&#34;http://kisenshi.github.io/img/portfolio/logo_python.png&#34; alt=&#34;Python&#34;/&gt;&lt;/a&gt;
+&lt;a target=&#34;_blank&#34; title=&#34;PHP&#34; href=&#34;http://php.net/&#34;&gt;&lt;img class=&#34;logo_img&#34; src=&#34;http://kisenshi.github.io/img/portfolio/logo_php.png&#34; alt=&#34;PHP&#34;/&gt;&lt;/a&gt;
+&lt;a title=&#34;JavaScript&#34; href=&#34;#&#34;&gt;&lt;img class=&#34;logo_img&#34; src=&#34;http://kisenshi.github.io/img/portfolio/logo_js.png&#34; alt=&#34;JavaScript&#34;/&gt;&lt;/a&gt;
+&lt;a target=&#34;_blank&#34; title=&#34;jQuery&#34; href=&#34;http://jquery.com/&#34;&gt;&lt;img class=&#34;logo_img&#34; src=&#34;http://kisenshi.github.io/img/portfolio/logo_jquery.png&#34; alt=&#34;jQuery&#34;/&gt;&lt;/a&gt;
+&lt;a target=&#34;_blank&#34; title=&#34;mySQL&#34; href=&#34;http://www.mysql.com/&#34;&gt;&lt;img class=&#34;logo_img&#34; src=&#34;http://kisenshi.github.io/img/portfolio/logo_mysql.png&#34; alt=&#34;mySQL&#34;/&gt;&lt;/a&gt;
+&lt;a target=&#34;_blank&#34; title=&#34;PostgreSQL&#34; href=&#34;http://www.postgresql.org/&#34;&gt;&lt;img class=&#34;logo_img&#34; src=&#34;http://kisenshi.github.io/img/portfolio/logo_postgresql.png&#34; alt=&#34;PostgreSQL&#34;/&gt;&lt;/a&gt;
+&lt;a title=&#34;HTML&#34; href=&#34;#&#34;&gt;&lt;img class=&#34;logo_img&#34; src=&#34;http://kisenshi.github.io/img/portfolio/logo_html5.png&#34; alt=&#34;HTML&#34;/&gt;&lt;/a&gt;
+&lt;a title=&#34;CSS&#34; href=&#34;#&#34;&gt;&lt;img class=&#34;logo_img&#34; src=&#34;http://kisenshi.github.io/img/portfolio/logo_css3.png&#34; alt=&#34;CSS&#34;/&gt;&lt;/a&gt;&lt;/p&gt;
 
 &lt;h3 id=&#34;other-programming-languages:41e441ed1949396cba3a30ae96a3edd2&#34;&gt;Other programming languages&lt;/h3&gt;
 
 &lt;p&gt;&lt;strong&gt;&lt;em&gt;Basics of&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;a title=&#34;ANSI C&#34; href=&#34;#&#34;&gt;&lt;img class=&#34;logo_img&#34; src=&#34;http://kispygr.github.io/img/portfolio/logo_c.png&#34; alt=&#34;C&#34;/&gt;&lt;/a&gt;
-&lt;a title=&#34;JAVA&#34; href=&#34;#&#34;&gt;&lt;img class=&#34;logo_img&#34; src=&#34;http://kispygr.github.io/img/portfolio/logo_java.png&#34; alt=&#34;JAVA&#34;/&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a title=&#34;ANSI C&#34; href=&#34;#&#34;&gt;&lt;img class=&#34;logo_img&#34; src=&#34;http://kisenshi.github.io/img/portfolio/logo_c.png&#34; alt=&#34;C&#34;/&gt;&lt;/a&gt;
+&lt;a title=&#34;JAVA&#34; href=&#34;#&#34;&gt;&lt;img class=&#34;logo_img&#34; src=&#34;http://kisenshi.github.io/img/portfolio/logo_java.png&#34; alt=&#34;JAVA&#34;/&gt;&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;Also LISP, Prolog and VBA&lt;/p&gt;
 
 &lt;h3 id=&#34;coding-tools-software-frameworks:41e441ed1949396cba3a30ae96a3edd2&#34;&gt;Coding / Tools / Software / Frameworks&lt;/h3&gt;
 
-&lt;p&gt;&lt;a target=&#34;_blank&#34; title=&#34;Django&#34; href=&#34;https://www.djangoproject.com/&#34;&gt;&lt;img class=&#34;logo_img&#34; src=&#34;http://kispygr.github.io/img/portfolio/logo_django.png&#34; alt=&#34;Django&#34;/&gt;&lt;/a&gt;
-&lt;a target=&#34;_blank&#34; title=&#34;PyCharm&#34; href=&#34;https://www.jetbrains.com/pycharm/&#34;&gt;&lt;img class=&#34;logo_img&#34; src=&#34;http://kispygr.github.io/img/portfolio/logo_pycharm.png&#34; alt=&#34;PyCharm&#34;/&gt;&lt;/a&gt;
-&lt;a target=&#34;_blank&#34; title=&#34;Sublime Text&#34; href=&#34;http://www.sublimetext.com/&#34;&gt;&lt;img class=&#34;logo_img&#34; src=&#34;http://kispygr.github.io/img/portfolio/logo_sublime_text.png&#34; alt=&#34;Sublime Text&#34;/&gt;&lt;/a&gt;
-&lt;a target=&#34;_blank&#34; title=&#34;Notepad++&#34; href=&#34;http://notepad-plus-plus.org/&#34;&gt;&lt;img class=&#34;logo_img&#34; src=&#34;http://kispygr.github.io/img/portfolio/logo_notepad_plus_plus.png&#34; alt=&#34;Notepad++&#34;/&gt;&lt;/a&gt;
-&lt;a target=&#34;_blank&#34; title=&#34;GIT&#34; href=&#34;http://git-scm.com/&#34;&gt;&lt;img class=&#34;logo_img&#34; src=&#34;http://kispygr.github.io/img/portfolio/logo_git.png&#34; alt=&#34;GIT&#34;/&gt;&lt;/a&gt;
-&lt;a target=&#34;_blank&#34; title=&#34;Trello&#34; href=&#34;https://trello.com/&#34;&gt;&lt;img class=&#34;logo_img&#34; src=&#34;http://kispygr.github.io/img/portfolio/logo_trello.png&#34; alt=&#34;Trello&#34;/&gt;&lt;/a&gt;
-&lt;a target=&#34;_blank&#34; title=&#34;Microsoft Office&#34; href=&#34;http://products.office.com/en-GB/&#34;&gt;&lt;img class=&#34;logo_img&#34; src=&#34;http://kispygr.github.io/img/portfolio/logo_moffice.png&#34; alt=&#34;Microsoft Office&#34;/&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a target=&#34;_blank&#34; title=&#34;Django&#34; href=&#34;https://www.djangoproject.com/&#34;&gt;&lt;img class=&#34;logo_img&#34; src=&#34;http://kisenshi.github.io/img/portfolio/logo_django.png&#34; alt=&#34;Django&#34;/&gt;&lt;/a&gt;
+&lt;a target=&#34;_blank&#34; title=&#34;PyCharm&#34; href=&#34;https://www.jetbrains.com/pycharm/&#34;&gt;&lt;img class=&#34;logo_img&#34; src=&#34;http://kisenshi.github.io/img/portfolio/logo_pycharm.png&#34; alt=&#34;PyCharm&#34;/&gt;&lt;/a&gt;
+&lt;a target=&#34;_blank&#34; title=&#34;Sublime Text&#34; href=&#34;http://www.sublimetext.com/&#34;&gt;&lt;img class=&#34;logo_img&#34; src=&#34;http://kisenshi.github.io/img/portfolio/logo_sublime_text.png&#34; alt=&#34;Sublime Text&#34;/&gt;&lt;/a&gt;
+&lt;a target=&#34;_blank&#34; title=&#34;Notepad++&#34; href=&#34;http://notepad-plus-plus.org/&#34;&gt;&lt;img class=&#34;logo_img&#34; src=&#34;http://kisenshi.github.io/img/portfolio/logo_notepad_plus_plus.png&#34; alt=&#34;Notepad++&#34;/&gt;&lt;/a&gt;
+&lt;a target=&#34;_blank&#34; title=&#34;GIT&#34; href=&#34;http://git-scm.com/&#34;&gt;&lt;img class=&#34;logo_img&#34; src=&#34;http://kisenshi.github.io/img/portfolio/logo_git.png&#34; alt=&#34;GIT&#34;/&gt;&lt;/a&gt;
+&lt;a target=&#34;_blank&#34; title=&#34;Trello&#34; href=&#34;https://trello.com/&#34;&gt;&lt;img class=&#34;logo_img&#34; src=&#34;http://kisenshi.github.io/img/portfolio/logo_trello.png&#34; alt=&#34;Trello&#34;/&gt;&lt;/a&gt;
+&lt;a target=&#34;_blank&#34; title=&#34;Microsoft Office&#34; href=&#34;http://products.office.com/en-GB/&#34;&gt;&lt;img class=&#34;logo_img&#34; src=&#34;http://kisenshi.github.io/img/portfolio/logo_moffice.png&#34; alt=&#34;Microsoft Office&#34;/&gt;&lt;/a&gt;&lt;/p&gt;
 
 &lt;h3 id=&#34;os:41e441ed1949396cba3a30ae96a3edd2&#34;&gt;OS&lt;/h3&gt;
 
-&lt;p&gt;&lt;a target=&#34;_blank&#34; title=&#34;Mac OS X&#34; href=&#34;http://www.apple.com/uk/osx/&#34;&gt;&lt;img class=&#34;logo_img&#34; src=&#34;http://kispygr.github.io/img/portfolio/logo_mac.png&#34; alt=&#34;Mac OS X&#34;/&gt;&lt;/a&gt;
-&lt;a target=&#34;_blank&#34; title=&#34;Windows&#34; href=&#34;http://windows.microsoft.com/&#34;&gt;&lt;img class=&#34;logo_img&#34; src=&#34;http://kispygr.github.io/img/portfolio/logo_windows.png&#34; alt=&#34;Windows&#34;/&gt;&lt;/a&gt;
-&lt;a target=&#34;_blank&#34; title=&#34;Linux - Ubuntu&#34; href=&#34;http://www.ubuntu.com/&#34;&gt;&lt;img class=&#34;logo_img&#34; src=&#34;http://kispygr.github.io/img/portfolio/logo_linux.png&#34; alt=&#34;Linux Ubuntu&#34;/&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a target=&#34;_blank&#34; title=&#34;Mac OS X&#34; href=&#34;http://www.apple.com/uk/osx/&#34;&gt;&lt;img class=&#34;logo_img&#34; src=&#34;http://kisenshi.github.io/img/portfolio/logo_mac.png&#34; alt=&#34;Mac OS X&#34;/&gt;&lt;/a&gt;
+&lt;a target=&#34;_blank&#34; title=&#34;Windows&#34; href=&#34;http://windows.microsoft.com/&#34;&gt;&lt;img class=&#34;logo_img&#34; src=&#34;http://kisenshi.github.io/img/portfolio/logo_windows.png&#34; alt=&#34;Windows&#34;/&gt;&lt;/a&gt;
+&lt;a target=&#34;_blank&#34; title=&#34;Linux - Ubuntu&#34; href=&#34;http://www.ubuntu.com/&#34;&gt;&lt;img class=&#34;logo_img&#34; src=&#34;http://kisenshi.github.io/img/portfolio/logo_linux.png&#34; alt=&#34;Linux Ubuntu&#34;/&gt;&lt;/a&gt;&lt;/p&gt;
 
 &lt;h3 id=&#34;spoken-languages:41e441ed1949396cba3a30ae96a3edd2&#34;&gt;Spoken languages&lt;/h3&gt;
 
-&lt;p&gt;&lt;a title=&#34;English&#34; href=&#34;#&#34;&gt;&lt;img class=&#34;logo_img&#34; src=&#34;http://kispygr.github.io/img/portfolio/logo_english.png&#34; alt=&#34;English&#34;/&gt;&lt;/a&gt;
-&lt;a title=&#34;Spanish&#34; href=&#34;#&#34;&gt;&lt;img class=&#34;logo_img&#34; src=&#34;http://kispygr.github.io/img/portfolio/logo_spanish.png&#34; alt=&#34;Spanish&#34;/&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a title=&#34;English&#34; href=&#34;#&#34;&gt;&lt;img class=&#34;logo_img&#34; src=&#34;http://kisenshi.github.io/img/portfolio/logo_english.png&#34; alt=&#34;English&#34;/&gt;&lt;/a&gt;
+&lt;a title=&#34;Spanish&#34; href=&#34;#&#34;&gt;&lt;img class=&#34;logo_img&#34; src=&#34;http://kisenshi.github.io/img/portfolio/logo_spanish.png&#34; alt=&#34;Spanish&#34;/&gt;&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Summary</title>
-      <link>http://kispygr.github.io/portfolio/summary/</link>
+      <link>http://kisenshi.github.io/portfolio/summary/</link>
       <pubDate>Tue, 10 Mar 2015 03:21:00 +0000</pubDate>
       
-      <guid>http://kispygr.github.io/portfolio/summary/</guid>
+      <guid>http://kisenshi.github.io/portfolio/summary/</guid>
       <description>
 
 &lt;h3 id=&#34;who-i-am:d0426fb2678d00bb8f22609868e62cae&#34;&gt;Who I am&lt;/h3&gt;
