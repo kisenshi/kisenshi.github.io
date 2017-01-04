@@ -44,12 +44,14 @@ footer div{
 }
 
 .header_index{
-	max-height: 250px;
+	width: 100%;
+	max-height: 300px;
 	margin: 0 auto;
 }
 
 .header_post{
-	max-height: 350px;
+	width: 100%;
+	max-height: 300px;
 	margin: 0 auto;
 }
 
