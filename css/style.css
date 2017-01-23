@@ -2,7 +2,7 @@ body{
 	color: #333;
 	font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
 	text-align: justify;
-	background-color: #fff;
+	background-color: #65a7ff;
 }
 
 footer div{
@@ -12,6 +12,14 @@ footer div{
 .container{
 	background: #fff;
 	width: 100%;
+	max-width: 1250px;
+}
+
+.navbar {
+	border-radius: 0px;
+	border-right: none;
+	border-left: none;
+	border-top: none;
 }
 
 .footer_container{
