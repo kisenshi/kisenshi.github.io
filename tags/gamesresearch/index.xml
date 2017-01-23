@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cheese with posts</title>
+    <link>http://kisenshi.github.io/tags/gamesresearch/index.xml</link>
+    <description>Recent content on Cheese with posts</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>The content of this site is licensed under a Creative Commons Attribution 4.0 International License</copyright>
+    <atom:link href="http://kisenshi.github.io/tags/gamesresearch/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Hello IGGI!</title>
+      <link>http://kisenshi.github.io/post/2016_09_04_hello_iggi/</link>
+      <pubDate>Wed, 14 Sep 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://kisenshi.github.io/post/2016_09_04_hello_iggi/</guid>
+      <description>&lt;p&gt;I am really excited to finally say &lt;strong&gt;Hello IGGI&lt;/strong&gt; as I am one of the new students in the University of Essex! It is a great opportunity and I can&amp;rsquo;t wait to see what comes out of the next 4 years!&lt;/p&gt;
+
+&lt;p&gt;&lt;h3 class=&#34;text-center&#34;&gt;But wait&amp;hellip; What is IGGI??&lt;/h3&gt;
+&lt;br/&gt;
+Right! I&amp;rsquo;ll explain!&lt;/p&gt;
+
+&lt;p&gt;The &lt;strong&gt;Intelligent Games and Game Intelligence (IGGI)&lt;/strong&gt; PhD programme is the biggest fully funded research programme in &lt;em&gt;Artificial Intelligence&lt;/em&gt; and &lt;em&gt;Games&lt;/em&gt; in the world. It is sponsored by &lt;a href=&#34;https://www.epsrc.ac.uk/&#34; target=&#34;_blank&#34;&gt;EPSRC&lt;/a&gt; and possible thanks to the collaboration of three institutions: &lt;em&gt;University of Essex&lt;/em&gt;, &lt;em&gt;Goldsmiths University of London&lt;/em&gt; and &lt;em&gt;University of York&lt;/em&gt;. For detailed information refer to the &lt;a href=&#34;http://www.iggi.org.uk/&#34; target=&#34;_blank&#34;&gt;IGGI site&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
