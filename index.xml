@@ -211,15 +211,13 @@ Collaborating, talking, sharing different opinions and ideas (and eating all the
 
 &lt;p&gt;Some code that can be shared with the world&lt;/p&gt;
 
-&lt;h3 id=&#34;a-target-blank-href-https-github-com-kisenshi-cheesewithposts-img-src-img-portfolio-logo-github-small-png-alt-github-a-cheesewithposts&#34;&gt;&lt;a target=&#34;_blank&#34; href=&#34;https://github.com/kisenshi/cheesewithposts&#34;&gt;&lt;img src=&#34;http://kisenshi.github.io/img/portfolio/logo_github_small.png&#34; alt=&#34;GitHub&#34;/&gt;&lt;/a&gt; cheesewithposts&lt;/h3&gt;
-
-&lt;p&gt;This is the code of the blog that generates the site you&amp;rsquo;re visiting!&lt;/p&gt;
-
-&lt;p&gt;Very briefly, I use something called &lt;a target=&#34;_blank&#34; href=&#34;http://gohugo.io/&#34;&gt;Hugo&lt;/a&gt;, which is amazing and allows me to have 100% control of everything; exactly what I was looking for.&lt;/p&gt;
-
 &lt;h3 id=&#34;a-target-blank-href-https-github-com-kisenshi-kisenshi-github-io-img-src-img-portfolio-logo-github-small-png-alt-github-a-kisenshi-github-io&#34;&gt;&lt;a target=&#34;_blank&#34; href=&#34;https://github.com/kisenshi/kisenshi.github.io&#34;&gt;&lt;img src=&#34;http://kisenshi.github.io/img/portfolio/logo_github_small.png&#34; alt=&#34;GitHub&#34;/&gt;&lt;/a&gt; kisenshi.github.io&lt;/h3&gt;
 
-&lt;p&gt;This is the static blog and portfolio code once it has been generated and deployed. Basically, it&amp;rsquo;s the site you are visiting at the moment!&lt;/p&gt;
+&lt;p&gt;I use something called &lt;a target=&#34;_blank&#34; href=&#34;http://gohugo.io/&#34;&gt;Hugo&lt;/a&gt;, which is an amazing static webeite engine that allows me to have 100% control of the site; exactly what I was looking for. This repository contains the static code once it has been generated to be published. Basically, it&amp;rsquo;s the site you are visiting at the moment!&lt;/p&gt;
+
+&lt;h3 id=&#34;a-target-blank-href-http-globalgamejam-org-2017-games-her-resonance-img-src-img-portfolio-logo-ggj-png-alt-ggj-a-her-resonance&#34;&gt;&lt;a target=&#34;_blank&#34; href=&#34;http://globalgamejam.org/2017/games/her-resonance&#34;&gt;&lt;img src=&#34;http://kisenshi.github.io/img/portfolio/logo_GGJ.png&#34; alt=&#34;GGJ&#34;/&gt;&lt;/a&gt; Her Resonance&lt;/h3&gt;
+
+&lt;p&gt;Game developed in Unity for the &lt;em&gt;Global Game Jam 2017 (#GGJ17)&lt;/em&gt;  in the 20th-22nd of January 2017.&lt;/p&gt;
 
 &lt;h3 id=&#34;a-target-blank-href-https-github-com-kisenshi-hungrypenguinsgame-img-src-img-portfolio-logo-github-small-png-alt-github-a-hungrypenguinsgame&#34;&gt;&lt;a target=&#34;_blank&#34; href=&#34;https://github.com/kisenshi/HungryPenguinsGame&#34;&gt;&lt;img src=&#34;http://kisenshi.github.io/img/portfolio/logo_github_small.png&#34; alt=&#34;GitHub&#34;/&gt;&lt;/a&gt; HungryPenguinsGame&lt;/h3&gt;
 
