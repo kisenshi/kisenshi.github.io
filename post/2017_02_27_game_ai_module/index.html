@@ -1,0 +1,315 @@
+<!DOCTYPE html>
+<html class="no-js" lang="en-US" prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb#">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="">
+    <meta name="author" content="">
+    <meta name="keyword" content="">
+    <link rel="shortcut icon" href="/img/favicon.ico">
+
+    <title>Game AI Module Project - Portal 2D</title>
+
+ 	
+ 	<link href="/css/bootstrap.min.css" rel="stylesheet">
+	<link href="/css/journal.css" rel="stylesheet">
+
+ 	
+ 	<link href="/css/style.css" rel="stylesheet">
+</head>
+<body lang="en">
+	<div class="container">
+		<div class="row">
+			<div class="navbar navbar-default navbar-inverse" role="navigation">
+				<div class="navbar-header">
+					<button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-responsive-collapse">
+						<span class="icon-bar"></span>
+						<span class="icon-bar"></span>
+						<span class="icon-bar"></span>
+					</button>
+					<a class="navbar-brand" href="http://kisenshi.github.io/">Cheese with posts</a> 
+				</div>
+				<div class="navbar-collapse collapse navbar-responsive-collapse">
+					<ul class="nav navbar-nav navbar-right">
+						<li><a href="http://kisenshi.github.io/">Home</a></li>
+						<li><a href="http://kisenshi.github.io/page/about/">About</a></li>
+						<li><a href="http://kisenshi.github.io/portfolio/">Work</a></li>
+						<li><a href="http://kisenshi.github.io/post/">Blog</a></li>
+					</ul>
+				</div>
+			</div>
+		</div>
+	</div>
+
+<div class="container">	
+	<div class="row">
+		<div class="col-md-offset-1 col-md-10">
+			<h3>Game AI Module Project - Portal 2D</h3>
+				<span class="label label-primary">Mon Feb 27, 2017</span> in 
+				
+					
+					<a href="/categories/iggi">IGGI</a>
+				
+				<br/>
+				<small>
+					
+						<a href="/tags/iggi">#IGGI</a>
+					
+						<a href="/tags/module">#Module</a>
+					
+						<a href="/tags/gameai">#GameAI</a>
+					
+						<a href="/tags/gvgaiframework">#GVGAIframework</a>
+					
+				</small>
+		</div>
+	</div>
+	<div class="row">
+		<div class="col-md-offset-1 col-md-10">
+			<br>
+			
+				<img src="/img/posts/headers/game_ai_module_header.gif" class="img-responsive header_post" alt=""/>
+				<hr/>
+			
+			
+
+<p>As part of the Game AI module I took at <em>Goldsmiths University</em> on February 2017 it was needed to design, implement and playtest an AI-based game. There was no technichal constraints or limitations. The idea was making something that could be useful later for my research and, as I need to use the <em>GVGAI Framework</em>, I opted to use it in order to get familiar with it. <em>Valve</em>&rsquo;s <em>Portal</em> series are in the top of my favourite games list (<a href="http://store.steampowered.com/bundle/234/">check them out</a> if you haven&rsquo;t),  so I decided to make my game based on them.</p>
+
+<h1 id="architecture">Architecture</h1>
+
+<h2 id="gvgai-framework">GVGAI Framework</h2>
+
+<p>The <a href="https://github.com/EssexUniversityMCTS/gvgai">GVGAI Framework</a> it is a JAVA-based open source framework used for the <a href="http://www.gvgai.net/">General Video Game AI Competition</a>.</p>
+
+<p>It supports arcade-style 2D games built in <em>VGDL language</em>. These (1 or 2 player) games can be easily set up to be played by a human or a controller. Because of the GVGAI competition, the framework is fully documented and there are lot of games an sample controllers available.</p>
+
+<p>For the assessment, I simply forked the framework in my own repository to easily create a new game and a controller for it.</p>
+
+<h2 id="vgdl-language">VGDL Language</h2>
+
+<p>The <em>Video Game Definition Language</em> (VGDL) was initially implemented in python and ported to JAVA to be used in the framework for the competition. To create a game, it is just needed to declare two files:</p>
+
+<ul>
+<li><p><em>Game description file</em>. In this file it is declared the termination rules, objects, their interactions and how they should be mapped when defined in the level description file.</p></li>
+
+<li><p><em>Level description file</em>. This file should contain a 2D matrix of symbols corresponding to the elements defined in the mapping section of the game description file.</p></li>
+</ul>
+
+<p>As a detailed explanation about the language can be found in the framework wiki I will not get into details in here. An easy example, taken from the Framework, are the description files for the game Sokoban. As shown, just a couple of lines of code are enough to create a very simple game, pictured below.</p>
+
+<pre><code>BasicGame key_handler=Pulse square_size=40
+	SpriteSet
+        floor &gt; Immovable img=newset/floor2
+        hole   &gt; Immovable color=DARKBLUE img=oryx/cspell4
+        avatar &gt; MovingAvatar img=oryx/knight1
+        box    &gt; Passive img=newset/block1 shrinkfactor=0.8
+        wall &gt; Immovable img=oryx/wall3 autotiling=True
+    LevelMapping
+        0 &gt; floor hole
+        1 &gt; floor box
+        w &gt; floor wall
+        A &gt; floor avatar
+        . &gt; floor
+    InteractionSet
+    	avatar wall &gt; stepBack
+    	box avatar  &gt; bounceForward
+    	box wall box  &gt; undoAll
+    	box hole    &gt; killSprite scoreChange=1
+    TerminationSet
+    	SpriteCounter stype=box    
+    	limit=0 win=True
+</code></pre>
+
+<pre><code>wwwwwwwwwwwww
+w........w..w
+w...1.......w
+w...A.1.w.0ww
+www.w1..wwwww
+w.......w.0.w
+w.1........ww
+w..........ww
+wwwwwwwwwwwww
+</code></pre>
+
+<p><img class="img-responsive post_img_center" src="/img/posts/game_ai_module/sokoban_example.png" alt="Sokoban example"></p>
+
+<h1 id="game">Game</h1>
+
+<p>The game I created for the assessment is based in <em>Valve</em>&rsquo;s <em>Portal</em> where 2 different player have to reach a different goal in order to win:</p>
+
+<ul>
+<li><p><strong>Human (subject)</strong>. Their goal is collecting the cake avoiding being killed, either being shot by the other player or steping into the traps allocated around the level. The player is allowed to move up, down, left or rignt and shoot to create Portals in the walls (one orange &amp; one blue). It is possible to teleport between the Portals created in order to reach different areas of the level.</p></li>
+
+<li><p><strong>Turret</strong>. Its goal is killing the <em>subject</em> before they collect the cake. The player is allowed to move up, down, left or right and shoot a laser that immediately kills the other player.</p></li>
+</ul>
+
+<p>Other elements needed to implement the game are:</p>
+
+<ul>
+<li>Floor and walls. Both characters are allowed to walk over the floor but they can&rsquo;t go through walls so these define the shape of the level.</li>
+<li>Trap. The turret character is allowed to walk through this object as it was floor but it is harmful for the human character as it kills them if they step onto it.</li>
+<li>Cake. Items collectable by the human character that triggers their victory if collected.</li>
+<li>Laser shot. Launched by the turret character when the action is selected. It is a missile that moves in the same direction the player is facing to and kills the human character if hitted before a wall is ecnountered.</li>
+<li>Portal shot (blue or orange). Launched by the human character when the action is selected. It is a missile that moves in the same direction as the player is facing and creates a Portal when hitting a wall.</li>
+<li>Portal (blue or orange). If two portals are created in the level (one orange and one blue), they allow the human character to teleport between them.</li>
+</ul>
+
+<p>Below it has been included a screenshot of the game created containing all the elements described: The turret has shot a laser trying to reach the human player, who has moved down to avoid it. The human player has created two Portals to be able to move to the area below (from the blue Portal to the orange Portal) without stepping into the traps in order to be closer to the cake.</p>
+
+<p><img class="img-responsive post_img_center" src="/img/posts/game_ai_module/game_screenshot.jpg" alt="Game screenshot"></p>
+
+<h2 id="ai-behaviour">AI behaviour</h2>
+
+<p>As part of the assessment, it was needed to include some kind of AI in the game. It was decided to develop a controller for the turret, focused on finding and killing the human. An overview of what it was implemented for the AI behaviour is:</p>
+
+<ul>
+<li>Actions planning.</li>
+<li>Targetting/Searching states.</li>
+<li>Pathfinding: A*</li>
+</ul>
+
+<h3 id="pathfinding">Pathfinding</h3>
+
+<p><img class="img-responsive post_img_right" src="/img/posts/game_ai_module/navigation_matrix.jpg" alt="Navigation matrix"></p>
+
+<p>To allow an efficient way to move around the map, it was decided to use the <strong>A* algorithm</strong>, considering every move with cost 1 and having the distance between the Start and Goal positions as the heuristic.</p>
+
+<p>In order to implement the algorithm, it was needed to identify the navigation matrix (valid positions for the turret), which would be used to identify the valid neighbours on-the-fly when the algorithm was run. For the level created, the navigation matrix is marked in orange-colour in the image on the right.</p>
+
+<p>Once the A* algorithm returned the list of positions that should be followed to reach the desired position, it was needed to convert these into valid actions to be followed by the turret. In the example below, as the turret is orientated to the right and the desired movement implies going down, it is needed to add an &ldquo;extra&rdquo; action to turn and face the desired orientation:</p>
+
+<p><img class="img-responsive post_img_center" src="/img/posts/game_ai_module/positions_to_actions.png" alt="Positions to actions"></p>
+
+<h3 id="states">States</h3>
+
+<h4 id="targetting">Targetting</h4>
+
+<p>If the human is in-sight, the logic is adapted to enter this state and plan the list of actions to kill them. If the turret has a list of actions already planned but the previous state was not <em>targetting</em> the previous plan of actions is unrelevant as this is the most important status.</p>
+
+<h4 id="searching">Searching</h4>
+
+<p>When the human is not in-sight, it is needed to find the best spot to be able to target them. The pathfinding algorithm is called and the actions planned to reach the desired position. If, while these list of actions are being carried out, there is no change of status, the turret would keep following them.</p>
+
+<p><img class="img-responsive post_img_left" src="/img/posts/game_ai_module/areas.jpg" alt="Areas">
+It was needed to take into cosideration the existance of different areas in the level, which are those limited by walls and traps where the human is forced to use a Portal to move between them.</p>
+
+<p>It was included an interruption in the seacrhing plan for the special case of the human not being the same area as they were when the pathfinding algorithm ran. If it is detected that the human has changed from an area to another, a new search is run to update the movement-actions plan in order to get closer to the player.
+<p/><br/></p>
+
+<h3 id="logic-implementation">Logic implementation</h3>
+
+<h4 id="checking-if-human-in-sight">Checking if human in-sight</h4>
+
+<p>To check if the human is in sight, the visible spots in-line with the current position of the character are identified (marked in blue colour in the image below).</p>
+
+<p>Once these spots are identified, it is checked if the agent current position corresponds with one of those or not.</p>
+
+<p><img class="img-responsive post_img_center" src="/img/posts/game_ai_module/human_in_sight_check.jpg" alt="Human-in-sight checking"></p>
+
+<h4 id="targetting-the-human">Targetting the human</h4>
+
+<p>When the human is in sight, the agent should shoot in the correct direction. In order to achieve this, it should change its orientation if it is not facing the human and shoot once the orientation is the correct one.</p>
+
+<p><img class="img-responsive post_img_center" src="/img/posts/game_ai_module/targetting.jpg" alt="Turret targetting the human"></p>
+
+<h4 id="finding-the-best-spot-to-move-to">Finding the best spot to move to</h4>
+
+<p>The best spot of the agent is the closest from where the human is in-sight at the moment. The spots previously identified are used, taking the one of those closest to the turret as goal for the pathfinding algorithm.</p>
+
+<p><img class="img-responsive post_img_center" src="/img/posts/game_ai_module/best_spot.jpg" alt="Identifying the best spot"></p>
+
+<h4 id="dumbing-the-ai">&ldquo;Dumbing&rdquo; the AI</h4>
+
+<p>When the AI was implemented and the game was tested, most of the feedback received was that the AI was too quick and it was <del>impossible</del> too difficult to win the game. Because of this, it was decided to add some <em>doNothing</em> actions when planning the actions to carry out. As a result, even when the logic is the same, it looks like the agent is slower and the player is given a chance to reach the cake before being killed by it.</p>
+
+<h2 id="gameplay-video">Gameplay video</h2>
+
+<p>Below it is included a gameplay for a fully working game, where the turret (Player 1) is controlled automatically by the implemented AI and the human character (player 0) is controlled by a person:</p>
+
+<p class="text-center">
+    <div class="video-container">
+        <iframe src="https://www.youtube.com/embed/kYGupL5YHAk" frameborder="0" allowfullscreen></iframe>
+    </div>
+</p>
+
+<h2 id="the-code">The code</h2>
+
+<p>As mentioned before, the framework was forked <a href="https://github.com/kisenshi/gvgai-gameAI-project">into my own repository</a>, where I created the game and implemented the AI logic. Some bugs were found during the playtesting session (they have been fixed) so the last up-to-date version can be found in the <a href="https://github.com/kisenshi/gvgai-gameAI-project/tree/Portal2D-improvements-and-fixes"><em>Portal2D-improvements-and-fixes</em> branch</a>.</p>
+
+<h3 id="running-the-game">Running the game</h3>
+
+<p>The files created for the game can be found at:</p>
+
+<ul>
+<li><em>src/ModuleGame</em> Main that runs the game.</li>
+<li><em>aimodule/cake.txt</em> Game description file.</li>
+<li><em>aimodule/cake_lvl0.txt</em> Level description file.</li>
+<li><em>src/controllers/aimodule/KillSubject/Agent.java</em> Code of the controller for the turret.</li>
+</ul>
+
+<p>To run the game, it is suggested to follow the <a href="https://github.com/EssexUniversityMCTS/gvgai/wiki/GVG-Framework">instructions provided</a> in the framework wiki.</p>
+
+<hr />
+
+<p>Thank you for reading, I hope you enjoy the game!
+And don&rsquo;t forget to give <em>Valve</em>&rsquo;s <em>Portal</em> games a try because they are really good!! Just bear in mind that&hellip;</p>
+
+<h2 class="text-center">THE CAKE IS A LIE</h2>
+
+		</div>
+	</div>
+	<div class="row">
+		<div class="col-md-offset-1 col-md-10">
+			<div id="disqus_thread"></div>
+<script type="text/javascript">
+	(function() {
+		
+		
+		if (window.location.hostname == "localhost")
+			return;
+
+		var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+		var disqus_shortname = 'cheesewithposts';
+		dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
+		(document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+	})();
+</script>
+<noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+<a href="http://disqus.com/" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
+		</div>
+	</div>
+	<div class="row">
+		<div class="col-md-12">
+			<hr/>
+		</div>
+	</div>	
+</div>
+
+    <div class="container footer_container">
+        <div class="row col-md-12">
+            <footer>
+                <div>
+                    <p>
+                        <a target="_blank" title="Follow me" href="https://twitter.com/kisenshi"><img class="footer_icon" src="/img/footer/logo_twitter.png" alt="Twitter"/></a>
+                        <a target="_blank" title="Find me in GitHub" href="https://github.com/kisenshi"><img class="footer_icon" src="/img/footer/logo_github.png" alt="GitHub"/></a>
+                        <a target="_blank" title="My LinkedIn profile" href="https://uk.linkedin.com/in/cguerreromero/en"><img class="footer_icon" src="/img/footer/logo_linkedIn.png" alt="LinkedIn"/></a>
+                        <a target="_blank" title="Subscribe" href="http://kisenshi.github.io/index.xml"><img class="footer_icon" src="/img/footer/logo_rss.png" alt="Rss"/></a>
+                    </p>
+                    <p>
+                        &copy; 2017 kisenshi ~ Powered By <a target="_blank" href="http://hugo.spf13.com">Hugo</a>. Design based in the theme <a target="_blank" href="https://github.com/mpas/hugo-journal">hugo-journal</a>, which I modified to fit my needs. 
+                    </p>
+                    <p>
+                        The content of this site is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>
+                    </p>
+                </div>
+            </footer>
+        </div>
+    </div>
+
+    
+    
+    <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+    <script src="/js/jquery-min-2.1.1.js"></script>
+    <script src="/js/bootstrap.min-3.1.1.js"></script>
+    </body>
+</html>
