@@ -2,26 +2,15 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Event on Cheese with posts</title>
-    <link>http://kisenshi.github.io/categories/event/</link>
+    <link>http://kisenshi.github.io/tags/event/</link>
     <description>Recent content in Event on Cheese with posts</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>The content of this site is licensed under a Creative Commons Attribution 4.0 International License</copyright>
-    <lastBuildDate>Thu, 28 Sep 2017 19:27:34 +0100</lastBuildDate>
+    <lastBuildDate>Sat, 25 Mar 2017 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://kisenshi.github.io/categories/event/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://kisenshi.github.io/tags/event/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>DEN Entrepreneurship Workshop 2017</title>
-      <link>http://kisenshi.github.io/post/2017_09_19_entrepreneurship_workshop/</link>
-      <pubDate>Thu, 28 Sep 2017 19:27:34 +0100</pubDate>
-      
-      <guid>http://kisenshi.github.io/post/2017_09_19_entrepreneurship_workshop/</guid>
-      <description>On 19-20th September 2017, the Digital Economy Network (DEN), in collaboration with Digital Catapult, organised a two-days entrepreneurship workshop for EPSRC Digital Economy PhD students. As part of IGGI, I had the chance to attend.
-On Tuesday I went to the Digital Catapult&amp;rsquo;s offices (where they have amazing views of St. Pancras!) with the idea of learning as much as possible from those two days, and I certainly did!
-Philip Treleaven, professor at UCL, gave a series of lessons in entrepreneurship, including how to identify the idea, branding and vision, suggestions for the pitch and funding sources.</description>
-    </item>
     
     <item>
       <title>Women Techmakers Summit 2017</title>
@@ -31,16 +20,6 @@ Philip Treleaven, professor at UCL, gave a series of lessons in entrepreneurship
       <guid>http://kisenshi.github.io/post/2017_03_23_wtm2017_google/</guid>
       <description>On 22nd of March 2017, I went to the super cool new Google offices in St Pancras Square to attend the annual Google&amp;rsquo;s International Women&amp;rsquo;s Day Summit organised by WomenTechmakers and, once again, I felt really inspired and lucky to belong to the amazing tech community.
 The agenda looked really interesting so I was really looking forward to it. The registration opened up almost an hour before Sarah Drinkwater kicked off the event, which gave enough time to eat some cheese and delicious cupcakes and meet some of the other amazing attendees.</description>
-    </item>
-    
-    <item>
-      <title>Global Game Jam 2017 - Her Resonance</title>
-      <link>http://kisenshi.github.io/post/2017_01_23_global_game_jam_2017/</link>
-      <pubDate>Mon, 23 Jan 2017 00:00:00 +0000</pubDate>
-      
-      <guid>http://kisenshi.github.io/post/2017_01_23_global_game_jam_2017/</guid>
-      <description>The Global Game Jam (GGJ) is an annual game creation event taking place worldwide in different physical locations. At certain time, a theme is announced and jammers have 48 hours to make a game based on it. Thousands of people participate all around the world, creating thousands of games (more than 7000 games have been created in the 2017 edition) and the number increases every year.
-IGGI signs up every year as one of the GGJ local sites, taking place in one of the collaborating institutions so, as part of the programme, I spent the weekend in York making a game.</description>
     </item>
     
     <item>

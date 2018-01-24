@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Cheese with posts</title>
+    <link>http://kisenshi.github.io/tags/</link>
+    <description>Recent content in Tags on Cheese with posts</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>The content of this site is licensed under a Creative Commons Attribution 4.0 International License</copyright>
+    <lastBuildDate>Thu, 28 Sep 2017 19:27:34 +0100</lastBuildDate>
+    
+	<atom:link href="http://kisenshi.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Entrepreneurship</title>
+      <link>http://kisenshi.github.io/tags/entrepreneurship/</link>
+      <pubDate>Thu, 28 Sep 2017 19:27:34 +0100</pubDate>
+      
+      <guid>http://kisenshi.github.io/tags/entrepreneurship/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Event</title>
+      <link>http://kisenshi.github.io/tags/event/</link>
+      <pubDate>Sat, 25 Mar 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://kisenshi.github.io/tags/event/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gameai</title>
+      <link>http://kisenshi.github.io/tags/gameai/</link>
+      <pubDate>Mon, 27 Feb 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://kisenshi.github.io/tags/gameai/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gamedevelopment</title>
+      <link>http://kisenshi.github.io/tags/gamedevelopment/</link>
+      <pubDate>Mon, 27 Feb 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://kisenshi.github.io/tags/gamedevelopment/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gamejam</title>
+      <link>http://kisenshi.github.io/tags/gamejam/</link>
+      <pubDate>Mon, 23 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://kisenshi.github.io/tags/gamejam/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gamesresearch</title>
+      <link>http://kisenshi.github.io/tags/gamesresearch/</link>
+      <pubDate>Wed, 14 Sep 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://kisenshi.github.io/tags/gamesresearch/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hackathon</title>
+      <link>http://kisenshi.github.io/tags/hackathon/</link>
+      <pubDate>Wed, 11 Mar 2015 15:57:49 +0000</pubDate>
+      
+      <guid>http://kisenshi.github.io/tags/hackathon/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Helloworld</title>
+      <link>http://kisenshi.github.io/tags/helloworld/</link>
+      <pubDate>Tue, 10 Mar 2015 23:54:28 +0000</pubDate>
+      
+      <guid>http://kisenshi.github.io/tags/helloworld/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Iggiphd</title>
+      <link>http://kisenshi.github.io/tags/iggiphd/</link>
+      <pubDate>Thu, 28 Sep 2017 19:27:34 +0100</pubDate>
+      
+      <guid>http://kisenshi.github.io/tags/iggiphd/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Iwd</title>
+      <link>http://kisenshi.github.io/tags/iwd/</link>
+      <pubDate>Sat, 25 Mar 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://kisenshi.github.io/tags/iwd/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tech</title>
+      <link>http://kisenshi.github.io/tags/tech/</link>
+      <pubDate>Sat, 25 Mar 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://kisenshi.github.io/tags/tech/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Womenintech</title>
+      <link>http://kisenshi.github.io/tags/womenintech/</link>
+      <pubDate>Sat, 25 Mar 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://kisenshi.github.io/tags/womenintech/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Workshop</title>
+      <link>http://kisenshi.github.io/tags/workshop/</link>
+      <pubDate>Thu, 28 Sep 2017 19:27:34 +0100</pubDate>
+      
+      <guid>http://kisenshi.github.io/tags/workshop/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

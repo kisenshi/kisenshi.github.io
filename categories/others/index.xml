@@ -1,13 +1,27 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Cheese with posts</title>
-    <link>http://kisenshi.github.io/categories/others/index.xml</link>
-    <description>Recent content on Cheese with posts</description>
+    <title>Others on Cheese with posts</title>
+    <link>http://kisenshi.github.io/categories/others/</link>
+    <description>Recent content in Others on Cheese with posts</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>The content of this site is licensed under a Creative Commons Attribution 4.0 International License</copyright>
-    <atom:link href="http://kisenshi.github.io/categories/others/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 14 Sep 2016 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://kisenshi.github.io/categories/others/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Hello IGGI!</title>
+      <link>http://kisenshi.github.io/post/2016_09_04_hello_iggi/</link>
+      <pubDate>Wed, 14 Sep 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://kisenshi.github.io/post/2016_09_04_hello_iggi/</guid>
+      <description>I am really excited to finally say Hello IGGI as I am one of the new students in the University of Essex! It is a great opportunity and I can&amp;rsquo;t wait to see what comes out of the next 4 years!
+But wait&amp;hellip; What is IGGI??  Right! I&amp;rsquo;ll explain!
+The Intelligent Games and Game Intelligence (IGGI) PhD programme is the biggest fully funded research programme in Artificial Intelligence and Games in the world.</description>
+    </item>
     
     <item>
       <title>Hello world!</title>
@@ -15,8 +29,7 @@
       <pubDate>Tue, 10 Mar 2015 23:54:28 +0000</pubDate>
       
       <guid>http://kisenshi.github.io/post/2015_03_10_hello_world/</guid>
-      <description>&lt;p&gt;The first post has to be this one!&lt;/p&gt;
-</description>
+      <description>The first post has to be this one!</description>
     </item>
     
   </channel>

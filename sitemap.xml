@@ -1,9 +1,25 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://kisenshi.github.io/</loc>
-    <lastmod>2017-09-28T19:27:34+01:00</lastmod>
+    <loc>http://kisenshi.github.io/portfolio/tech/</loc>
+  </url>
+  
+  <url>
+    <loc>http://kisenshi.github.io/portfolio/projects/</loc>
+  </url>
+  
+  <url>
+    <loc>http://kisenshi.github.io/portfolio/publications/</loc>
+  </url>
+  
+  <url>
+    <loc>http://kisenshi.github.io/portfolio/research/</loc>
+  </url>
+  
+  <url>
+    <loc>http://kisenshi.github.io/portfolio/summary/</loc>
   </url>
   
   <url>
@@ -12,7 +28,7 @@
   </url>
   
   <url>
-    <loc>http://kisenshi.github.io/post/2017_03_23_WTM2017_Google/</loc>
+    <loc>http://kisenshi.github.io/post/2017_03_23_wtm2017_google/</loc>
     <lastmod>2017-03-25T00:00:00+00:00</lastmod>
   </url>
   
@@ -46,27 +62,142 @@
   </url>
   
   <url>
+    <loc>http://kisenshi.github.io/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://kisenshi.github.io/</loc>
+    <lastmod>2017-09-28T19:27:34+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://kisenshi.github.io/tags/entrepreneurship/</loc>
+    <lastmod>2017-09-28T19:27:34+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://kisenshi.github.io/tags/event/</loc>
+    <lastmod>2017-03-25T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://kisenshi.github.io/categories/event/</loc>
+    <lastmod>2017-09-28T19:27:34+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://kisenshi.github.io/portfolio/more/</loc>
   </url>
   
   <url>
-    <loc>http://kisenshi.github.io/portfolio/tech/</loc>
+    <loc>http://kisenshi.github.io/tags/gameai/</loc>
+    <lastmod>2017-02-27T00:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://kisenshi.github.io/portfolio/projects/</loc>
+    <loc>http://kisenshi.github.io/tags/gamedevelopment/</loc>
+    <lastmod>2017-02-27T00:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://kisenshi.github.io/portfolio/publications/</loc>
+    <loc>http://kisenshi.github.io/tags/gamejam/</loc>
+    <lastmod>2017-01-23T00:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://kisenshi.github.io/portfolio/research/</loc>
+    <loc>http://kisenshi.github.io/tags/gamesresearch/</loc>
+    <lastmod>2016-09-14T00:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://kisenshi.github.io/portfolio/summary/</loc>
+    <loc>http://kisenshi.github.io/tags/hackathon/</loc>
+    <lastmod>2015-03-11T15:57:49+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://kisenshi.github.io/tags/helloworld/</loc>
+    <lastmod>2015-03-10T23:54:28+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://kisenshi.github.io/categories/iggi/</loc>
+    <lastmod>2017-02-27T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://kisenshi.github.io/tags/iggiphd/</loc>
+    <lastmod>2017-09-28T19:27:34+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://kisenshi.github.io/tags/iwd/</loc>
+    <lastmod>2017-03-25T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://kisenshi.github.io/categories/others/</loc>
+    <lastmod>2016-09-14T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://kisenshi.github.io/page/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://kisenshi.github.io/portfolio/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://kisenshi.github.io/post/</loc>
+    <lastmod>2017-09-28T19:27:34+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://kisenshi.github.io/tags/</loc>
+    <lastmod>2017-09-28T19:27:34+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://kisenshi.github.io/tags/tech/</loc>
+    <lastmod>2017-03-25T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://kisenshi.github.io/tags/womenintech/</loc>
+    <lastmod>2017-03-25T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://kisenshi.github.io/tags/workshop/</loc>
+    <lastmod>2017-09-28T19:27:34+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://kisenshi.github.io/categories/workshop/</loc>
+    <lastmod>2017-09-28T19:27:34+01:00</lastmod>
+    <priority>0</priority>
   </url>
   
 </urlset>

@@ -1,16 +1,27 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Iggi on Cheese with posts</title>
-    <link>http://kisenshi.github.io/categories/iggi/</link>
-    <description>Recent content in Iggi on Cheese with posts</description>
+    <title>Iggiphd on Cheese with posts</title>
+    <link>http://kisenshi.github.io/tags/iggiphd/</link>
+    <description>Recent content in Iggiphd on Cheese with posts</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>The content of this site is licensed under a Creative Commons Attribution 4.0 International License</copyright>
-    <lastBuildDate>Mon, 27 Feb 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 28 Sep 2017 19:27:34 +0100</lastBuildDate>
     
-	<atom:link href="http://kisenshi.github.io/categories/iggi/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://kisenshi.github.io/tags/iggiphd/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>DEN Entrepreneurship Workshop 2017</title>
+      <link>http://kisenshi.github.io/post/2017_09_19_entrepreneurship_workshop/</link>
+      <pubDate>Thu, 28 Sep 2017 19:27:34 +0100</pubDate>
+      
+      <guid>http://kisenshi.github.io/post/2017_09_19_entrepreneurship_workshop/</guid>
+      <description>On 19-20th September 2017, the Digital Economy Network (DEN), in collaboration with Digital Catapult, organised a two-days entrepreneurship workshop for EPSRC Digital Economy PhD students. As part of IGGI, I had the chance to attend.
+On Tuesday I went to the Digital Catapult&amp;rsquo;s offices (where they have amazing views of St. Pancras!) with the idea of learning as much as possible from those two days, and I certainly did!
+Philip Treleaven, professor at UCL, gave a series of lessons in entrepreneurship, including how to identify the idea, branding and vision, suggestions for the pitch and funding sources.</description>
+    </item>
     
     <item>
       <title>Game AI Module Project - Portal 2D</title>

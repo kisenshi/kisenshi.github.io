@@ -1,25 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Portfolio-rsses on Cheese with posts</title>
-    <link>http://kisenshi.github.io/portfolio/index.xml</link>
-    <description>Recent content in Portfolio-rsses on Cheese with posts</description>
+    <title>Portfolios on Cheese with posts</title>
+    <link>http://kisenshi.github.io/portfolio/</link>
+    <description>Recent content in Portfolios on Cheese with posts</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>The content of this site is licensed under a Creative Commons Attribution 4.0 International License</copyright>
-    <atom:link href="http://kisenshi.github.io/portfolio/index.xml" rel="self" type="application/rss+xml" />
     
-    <item>
-      <title>For more details...</title>
-      <link>http://kisenshi.github.io/portfolio/more/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://kisenshi.github.io/portfolio/more/</guid>
-      <description>&lt;p&gt;For detailed information about my professional experience and education, please refer to my LinkedIn profile or drop me a line!&lt;/p&gt;
-
-&lt;p&gt;&lt;a target=&#34;_blank&#34; title=&#34;My LinkedIn profile&#34; href=&#34;https://uk.linkedin.com/in/cguerreromero/en&#34;&gt;&lt;img class=&#34;logo_img&#34; src=&#34;http://kisenshi.github.io/img/portfolio/logo_linkedIn.png&#34; alt=&#34;LinkedIn&#34;/&gt;&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
+	<atom:link href="http://kisenshi.github.io/portfolio/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>Tech I know</title>
@@ -27,55 +17,10 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://kisenshi.github.io/portfolio/tech/</guid>
-      <description>
-
-&lt;p&gt;Here&amp;rsquo;s a list of some of the tech I&amp;rsquo;ve crossed path with since the beginning of times&amp;hellip; Just some examples, I&amp;rsquo;m an &lt;strong&gt;easy-learner and flexible&lt;/strong&gt; person so I try to adapt to use whatever is needed or best for the task. Being open minded in tech is a must!
-&lt;hr&gt;&lt;/p&gt;
-
-&lt;h4 id=&#34;full-stack-web-development&#34;&gt;Full stack web development&lt;/h4&gt;
-
-&lt;p&gt;&lt;a target=&#34;_blank&#34; title=&#34;Python&#34; href=&#34;https://www.python.org/&#34;&gt;&lt;img class=&#34;logo_img&#34; src=&#34;http://kisenshi.github.io/img/portfolio/logo_python.png&#34; alt=&#34;Python&#34;/&gt;&lt;/a&gt;
-&lt;a target=&#34;_blank&#34; title=&#34;PHP&#34; href=&#34;http://php.net/&#34;&gt;&lt;img class=&#34;logo_img&#34; src=&#34;http://kisenshi.github.io/img/portfolio/logo_php.png&#34; alt=&#34;PHP&#34;/&gt;&lt;/a&gt;
-&lt;a title=&#34;JavaScript&#34; href=&#34;#&#34;&gt;&lt;img class=&#34;logo_img&#34; src=&#34;http://kisenshi.github.io/img/portfolio/logo_js.png&#34; alt=&#34;JavaScript&#34;/&gt;&lt;/a&gt;
-&lt;a target=&#34;_blank&#34; title=&#34;jQuery&#34; href=&#34;http://jquery.com/&#34;&gt;&lt;img class=&#34;logo_img&#34; src=&#34;http://kisenshi.github.io/img/portfolio/logo_jquery.png&#34; alt=&#34;jQuery&#34;/&gt;&lt;/a&gt;
-&lt;a target=&#34;_blank&#34; title=&#34;mySQL&#34; href=&#34;http://www.mysql.com/&#34;&gt;&lt;img class=&#34;logo_img&#34; src=&#34;http://kisenshi.github.io/img/portfolio/logo_mysql.png&#34; alt=&#34;mySQL&#34;/&gt;&lt;/a&gt;
-&lt;a target=&#34;_blank&#34; title=&#34;PostgreSQL&#34; href=&#34;http://www.postgresql.org/&#34;&gt;&lt;img class=&#34;logo_img&#34; src=&#34;http://kisenshi.github.io/img/portfolio/logo_postgresql.png&#34; alt=&#34;PostgreSQL&#34;/&gt;&lt;/a&gt;
-&lt;a title=&#34;HTML&#34; href=&#34;#&#34;&gt;&lt;img class=&#34;logo_img&#34; src=&#34;http://kisenshi.github.io/img/portfolio/logo_html5.png&#34; alt=&#34;HTML&#34;/&gt;&lt;/a&gt;
-&lt;a title=&#34;CSS&#34; href=&#34;#&#34;&gt;&lt;img class=&#34;logo_img&#34; src=&#34;http://kisenshi.github.io/img/portfolio/logo_css3.png&#34; alt=&#34;CSS&#34;/&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;h4 id=&#34;other-programming-languages&#34;&gt;Other programming languages&lt;/h4&gt;
-
-&lt;p&gt;&lt;a title=&#34;JAVA&#34; href=&#34;#&#34;&gt;&lt;img class=&#34;logo_img&#34; src=&#34;http://kisenshi.github.io/img/portfolio/logo_java.png&#34; alt=&#34;JAVA&#34;/&gt;&lt;/a&gt;
-&lt;a title=&#34;ANSI C&#34; href=&#34;#&#34;&gt;&lt;img class=&#34;logo_img&#34; src=&#34;http://kisenshi.github.io/img/portfolio/logo_c.png&#34; alt=&#34;C&#34;/&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;h4 id=&#34;also&#34;&gt;Also&lt;/h4&gt;
-
-&lt;p&gt;VGDL, LISP, Prolog and VBA
-&lt;hr&gt;&lt;/p&gt;
-
-&lt;h4 id=&#34;coding-tools-software-frameworks&#34;&gt;Coding / Tools / Software / Frameworks&lt;/h4&gt;
-
-&lt;p&gt;&lt;a target=&#34;_blank&#34; title=&#34;Django&#34; href=&#34;https://www.djangoproject.com/&#34;&gt;&lt;img class=&#34;logo_img&#34; src=&#34;http://kisenshi.github.io/img/portfolio/logo_django.png&#34; alt=&#34;Django&#34;/&gt;&lt;/a&gt;
-&lt;a target=&#34;_blank&#34; title=&#34;PyCharm&#34; href=&#34;https://www.jetbrains.com/pycharm/&#34;&gt;&lt;img class=&#34;logo_img&#34; src=&#34;http://kisenshi.github.io/img/portfolio/logo_pycharm.png&#34; alt=&#34;PyCharm&#34;/&gt;&lt;/a&gt;
-&lt;a target=&#34;_blank&#34; title=&#34;Sublime Text&#34; href=&#34;http://www.sublimetext.com/&#34;&gt;&lt;img class=&#34;logo_img&#34; src=&#34;http://kisenshi.github.io/img/portfolio/logo_sublime_text.png&#34; alt=&#34;Sublime Text&#34;/&gt;&lt;/a&gt;
-&lt;a target=&#34;_blank&#34; title=&#34;Notepad++&#34; href=&#34;http://notepad-plus-plus.org/&#34;&gt;&lt;img class=&#34;logo_img&#34; src=&#34;http://kisenshi.github.io/img/portfolio/logo_notepad_plus_plus.png&#34; alt=&#34;Notepad++&#34;/&gt;&lt;/a&gt;
-&lt;a target=&#34;_blank&#34; title=&#34;GIT&#34; href=&#34;http://git-scm.com/&#34;&gt;&lt;img class=&#34;logo_img&#34; src=&#34;http://kisenshi.github.io/img/portfolio/logo_git.png&#34; alt=&#34;GIT&#34;/&gt;&lt;/a&gt;
-&lt;a target=&#34;_blank&#34; title=&#34;Trello&#34; href=&#34;https://trello.com/&#34;&gt;&lt;img class=&#34;logo_img&#34; src=&#34;http://kisenshi.github.io/img/portfolio/logo_trello.png&#34; alt=&#34;Trello&#34;/&gt;&lt;/a&gt;
-&lt;a target=&#34;_blank&#34; title=&#34;Microsoft Office&#34; href=&#34;http://products.office.com/en-GB/&#34;&gt;&lt;img class=&#34;logo_img&#34; src=&#34;http://kisenshi.github.io/img/portfolio/logo_moffice.png&#34; alt=&#34;Microsoft Office&#34;/&gt;&lt;/a&gt;
-&lt;hr&gt;&lt;/p&gt;
-
-&lt;h4 id=&#34;os&#34;&gt;OS&lt;/h4&gt;
-
-&lt;p&gt;&lt;a target=&#34;_blank&#34; title=&#34;Mac OS X&#34; href=&#34;http://www.apple.com/uk/osx/&#34;&gt;&lt;img class=&#34;logo_img&#34; src=&#34;http://kisenshi.github.io/img/portfolio/logo_mac.png&#34; alt=&#34;Mac OS X&#34;/&gt;&lt;/a&gt;
-&lt;a target=&#34;_blank&#34; title=&#34;Windows&#34; href=&#34;http://windows.microsoft.com/&#34;&gt;&lt;img class=&#34;logo_img&#34; src=&#34;http://kisenshi.github.io/img/portfolio/logo_windows.png&#34; alt=&#34;Windows&#34;/&gt;&lt;/a&gt;
-&lt;a target=&#34;_blank&#34; title=&#34;Linux - Ubuntu&#34; href=&#34;http://www.ubuntu.com/&#34;&gt;&lt;img class=&#34;logo_img&#34; src=&#34;http://kisenshi.github.io/img/portfolio/logo_linux.png&#34; alt=&#34;Linux Ubuntu&#34;/&gt;&lt;/a&gt;
-&lt;hr&gt;&lt;/p&gt;
-
-&lt;h4 id=&#34;spoken-languages&#34;&gt;Spoken languages&lt;/h4&gt;
-
-&lt;p&gt;&lt;a title=&#34;English&#34; href=&#34;#&#34;&gt;&lt;img class=&#34;logo_img&#34; src=&#34;http://kisenshi.github.io/img/portfolio/logo_english.png&#34; alt=&#34;English&#34;/&gt;&lt;/a&gt;
-&lt;a title=&#34;Spanish&#34; href=&#34;#&#34;&gt;&lt;img class=&#34;logo_img&#34; src=&#34;http://kisenshi.github.io/img/portfolio/logo_spanish.png&#34; alt=&#34;Spanish&#34;/&gt;&lt;/a&gt;&lt;/p&gt;
-</description>
+      <description>Here&amp;rsquo;s a list of some of the tech I&amp;rsquo;ve crossed path with since the beginning of times&amp;hellip; Just some examples, I&amp;rsquo;m an easy-learner and flexible person so I try to adapt to use whatever is needed or best for the task. Being open minded in tech is a must! 
+Full stack web development        
+Other programming languages  
+Also VGDL, LISP, Prolog and VBA</description>
     </item>
     
     <item>
@@ -84,51 +29,9 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://kisenshi.github.io/portfolio/projects/</guid>
-      <description>
-
-&lt;p&gt;Some code that can be shared with the world&lt;/p&gt;
-
-&lt;h4 id=&#34;a-target-blank-href-https-github-com-kisenshi-kisenshi-github-io-img-src-img-portfolio-logo-github-small-png-alt-github-a-kisenshi-github-io&#34;&gt;&lt;a target=&#34;_blank&#34; href=&#34;https://github.com/kisenshi/kisenshi.github.io&#34;&gt;&lt;img src=&#34;http://kisenshi.github.io/img/portfolio/logo_github_small.png&#34; alt=&#34;GitHub&#34;/&gt;&lt;/a&gt; kisenshi.github.io&lt;/h4&gt;
-
-&lt;p&gt;I use something called &lt;a target=&#34;_blank&#34; href=&#34;http://gohugo.io/&#34;&gt;Hugo&lt;/a&gt;, which is an amazing static webeite engine that allows me to have 100% control of the site; exactly what I was looking for. This repository contains the static code once it has been generated to be published. Basically, it&amp;rsquo;s the site you are visiting at the moment!
-&lt;hr&gt;&lt;/p&gt;
-
-&lt;h4 id=&#34;a-target-blank-href-https-github-com-kisenshi-gvgai-gameai-project-img-src-img-portfolio-logo-github-small-png-alt-github-a-portal-2d&#34;&gt;&lt;a target=&#34;_blank&#34; href=&#34;https://github.com/kisenshi/gvgai-gameAI-project&#34;&gt;&lt;img src=&#34;http://kisenshi.github.io/img/portfolio/logo_github_small.png&#34; alt=&#34;GitHub&#34;/&gt;&lt;/a&gt; Portal 2D&lt;/h4&gt;
-
-&lt;p&gt;Game developed using the GVGAI framework (forked into my repository) as assessment for the &lt;em&gt;Game AI Module&lt;/em&gt; took at &lt;em&gt;Goldsmiths University&lt;/em&gt; in February 2017. The most up-to-date version can be found in the &lt;a href=&#34;https://github.com/kisenshi/gvgai-gameAI-project/tree/Portal2D-improvements-and-fixes&#34;&gt;&lt;em&gt;Portal2D-improvements-and-fixes&lt;/em&gt;&lt;/a&gt; branch.
-&lt;hr&gt;&lt;/p&gt;
-
-&lt;h4 id=&#34;a-target-blank-href-http-globalgamejam-org-2017-games-her-resonance-img-src-img-portfolio-logo-ggj-png-alt-ggj-a-her-resonance&#34;&gt;&lt;a target=&#34;_blank&#34; href=&#34;http://globalgamejam.org/2017/games/her-resonance&#34;&gt;&lt;img src=&#34;http://kisenshi.github.io/img/portfolio/logo_GGJ.png&#34; alt=&#34;GGJ&#34;/&gt;&lt;/a&gt; Her Resonance&lt;/h4&gt;
-
-&lt;p&gt;Game developed in Unity for the &lt;em&gt;Global Game Jam 2017 (#GGJ17)&lt;/em&gt;  in the 20th-22nd of January 2017.
-&lt;hr&gt;&lt;/p&gt;
-
-&lt;h4 id=&#34;a-target-blank-href-https-github-com-kisenshi-hungrypenguinsgame-img-src-img-portfolio-logo-github-small-png-alt-github-a-hungrypenguinsgame&#34;&gt;&lt;a target=&#34;_blank&#34; href=&#34;https://github.com/kisenshi/HungryPenguinsGame&#34;&gt;&lt;img src=&#34;http://kisenshi.github.io/img/portfolio/logo_github_small.png&#34; alt=&#34;GitHub&#34;/&gt;&lt;/a&gt; HungryPenguinsGame&lt;/h4&gt;
-
-&lt;p&gt;Game developed in Unity as assessment for the &lt;em&gt;Game Development Module&lt;/em&gt; took at &lt;em&gt;Goldsmiths University&lt;/em&gt; in November 2016.
-&lt;hr&gt;&lt;/p&gt;
-
-&lt;h4 id=&#34;a-target-blank-href-https-github-com-kisenshi-project-euler-solutions-img-src-img-portfolio-logo-github-small-png-alt-github-a-project-euler-solutions&#34;&gt;&lt;a target=&#34;_blank&#34; href=&#34;https://github.com/kisenshi/project_euler_solutions&#34;&gt;&lt;img src=&#34;http://kisenshi.github.io/img/portfolio/logo_github_small.png&#34; alt=&#34;GitHub&#34;/&gt;&lt;/a&gt; project_euler_solutions&lt;/h4&gt;
-
-&lt;p&gt;My solutions to &lt;a target=&#34;_blank&#34; href=&#34;https://projecteuler.net/&#34;&gt;&lt;strong&gt;Project Euler&lt;/strong&gt;&lt;/a&gt; problems. For those who don´t know, Project Euler is an online platform that contains lot of problems to solve. I like solving problems and I thought it was a fun way to start using &lt;strong&gt;Python&lt;/strong&gt; and get familiar with the language.&lt;/p&gt;
-
-&lt;p&gt;Please note that I publish in here my solutions, if you are using the platform I recommend &lt;strong&gt;not to spoil yourself&lt;/strong&gt;, give a try and solve them in your own; where is the fun in using my solutions as yours?
-&lt;hr&gt;&lt;/p&gt;
-
-&lt;h4 id=&#34;a-target-blank-href-https-github-com-kisenshi-hackerrank-solutions-img-src-img-portfolio-logo-github-small-png-alt-github-a-hackerrank-solutions&#34;&gt;&lt;a target=&#34;_blank&#34; href=&#34;https://github.com/kisenshi/hackerrank_solutions&#34;&gt;&lt;img src=&#34;http://kisenshi.github.io/img/portfolio/logo_github_small.png&#34; alt=&#34;GitHub&#34;/&gt;&lt;/a&gt; hackerrank_solutions&lt;/h4&gt;
-
-&lt;p&gt;My solutions to &lt;a target=&#34;_blank&#34; href=&#34;https://www.hackerrank.com/&#34;&gt;&lt;strong&gt;Hackerrank&lt;/strong&gt;&lt;/a&gt; challenges, which is another cool platform with lot of problems related with algorithms, statistics, machine learning, natural language processing&amp;hellip; and contests.&lt;/p&gt;
-
-&lt;p&gt;Please try to &lt;strong&gt;solve the problems&lt;/strong&gt; on your own; do not use my solutions as yours, where would be the fun on that?
-&lt;hr&gt;&lt;/p&gt;
-
-&lt;h4 id=&#34;a-target-blank-href-https-github-com-binaryberry-code-your-own-aventure-img-src-img-portfolio-logo-github-small-png-alt-github-a-code-your-own-adventure&#34;&gt;&lt;a target=&#34;_blank&#34; href=&#34;https://github.com/binaryberry/Code-Your-Own-Aventure&#34;&gt;&lt;img src=&#34;http://kisenshi.github.io/img/portfolio/logo_github_small.png&#34; alt=&#34;GitHub&#34;/&gt;&lt;/a&gt; Code-Your-Own-Adventure&lt;/h4&gt;
-
-&lt;p&gt;Prototype built with &lt;strong&gt;&lt;em&gt;Ruby&lt;/em&gt;&lt;/strong&gt; Sinatra and &lt;strong&gt;&lt;em&gt;Bootstrap&lt;/em&gt;&lt;/strong&gt; for the &lt;strong&gt;&lt;em&gt;IWDHackathon&lt;/em&gt;&lt;/strong&gt; organised by &lt;a target=&#34;_blank&#34; href=&#34;http://www.talentedheads.com/2015/02/10/female-hackathon-planned-london-celebrate-international-womens-day/&#34;&gt;Talented Heads&lt;/a&gt; the weekend of the 7th and 8th of March of 2015.
-The theme was &lt;em&gt;Make it Happen – Diversity in Tech&lt;/em&gt;. The winning solution developed was a story telling platform to teach children coding basics and encourage them to keep trying until they are able to create the perfect story.&lt;/p&gt;
-
-&lt;p&gt;For more details, refer to &lt;a href=&#34;http://kisenshi.github.io/post/2015_03_11_my_first_hackathon&#34;&gt;this blog entrance&lt;/a&gt;.&lt;/p&gt;
-</description>
+      <description>Some code that can be shared with the world
+ kisenshi.github.io I use something called Hugo, which is an amazing static webeite engine that allows me to have 100% control of the site; exactly what I was looking for. This repository contains the static code once it has been generated to be published. Basically, it&amp;rsquo;s the site you are visiting at the moment! 
+ Portal 2D Game developed using the GVGAI framework (forked into my repository) as assessment for the Game AI Module took at Goldsmiths University in February 2017.</description>
     </item>
     
     <item>
@@ -137,13 +40,7 @@ The theme was &lt;em&gt;Make it Happen – Diversity in Tech&lt;/em&gt;. The win
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://kisenshi.github.io/portfolio/publications/</guid>
-      <description>
-
-&lt;h4 id=&#34;2017&#34;&gt;2017&lt;/h4&gt;
-
-&lt;p&gt;C. Guerrero-Romero, A. Louis, and D. Perez-Liebana, &lt;a target=&#34;_blank&#34; href=&#34;http://kisenshi.github.io/files/201708_PlayingDiversifying.pdf&#34;&gt;&lt;em&gt;&lt;strong&gt;&amp;ldquo;Beyond Playing to Win: Diversifying
-Heuristics for GVGAI&amp;rdquo;&lt;/strong&gt;&lt;/em&gt;&lt;/a&gt;, &lt;em&gt;Computational Intelligence and Games (CIG)&lt;/em&gt;. IEEE, 2017&lt;/p&gt;
-</description>
+      <description>2017 C. Guerrero-Romero, A. Louis, and D. Perez-Liebana, &amp;ldquo;Beyond Playing to Win: Diversifying Heuristics for GVGAI&amp;rdquo;, Computational Intelligence and Games (CIG). IEEE, 2017</description>
     </item>
     
     <item>
@@ -152,14 +49,7 @@ Heuristics for GVGAI&amp;rdquo;&lt;/strong&gt;&lt;/em&gt;&lt;/a&gt;, &lt;em&gt;C
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://kisenshi.github.io/portfolio/research/</guid>
-      <description>
-
-&lt;h4 id=&#34;gvgp-agents-to-evaluate-automatic-generated-levels&#34;&gt;GVGP​ ​agents​ ​to​ ​evaluate​ ​automatic​ ​generated​ ​levels&lt;/h4&gt;
-
-&lt;p&gt;Procedural Content generation (PCG) refers to the generation of game content via automated processes. The validity of these artifacts should be checked to ensure their playability. Common approaches are game-specific and, although they ensure the playability of the generated content, they are limited by the game they are defined for. To solve this limitation, a strong connection between PCG and General Video Game Playing (referring to algorithms that do not take game-specific knowledge into account) could be established, as general controllers could be used to validate content generated for any game.&lt;/p&gt;
-
-&lt;p&gt;The ultimate goal of my research is creating a system capable of using General Video Game Playing (GVGP) agents to play and evaluate new automated generated levels for games. The evaluator would be formed by different controllers and would be capable of analyzing a provided level of a game without having any previous knowledge about the level or the game. The idea is giving an answer that would determine if a level should be included into the game or not, based on the expectations.&lt;/p&gt;
-</description>
+      <description>GVGP​ ​agents​ ​to​ ​evaluate​ ​automatic​ ​generated​ ​levels Procedural Content generation (PCG) refers to the generation of game content via automated processes. The validity of these artifacts should be checked to ensure their playability. Common approaches are game-specific and, although they ensure the playability of the generated content, they are limited by the game they are defined for. To solve this limitation, a strong connection between PCG and General Video Game Playing (referring to algorithms that do not take game-specific knowledge into account) could be established, as general controllers could be used to validate content generated for any game.</description>
     </item>
     
     <item>
@@ -168,27 +58,17 @@ Heuristics for GVGAI&amp;rdquo;&lt;/strong&gt;&lt;/em&gt;&lt;/a&gt;, &lt;em&gt;C
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://kisenshi.github.io/portfolio/summary/</guid>
-      <description>
-
-&lt;h4 id=&#34;what-i-do&#34;&gt;What I do&lt;/h4&gt;
-
-&lt;p&gt;I&amp;rsquo;m an &lt;em&gt;Intelligent Games and Games Intelligence (IGGI)&lt;/em&gt; &lt;strong&gt;PhD student&lt;/strong&gt; at &lt;em&gt;Queen Mary University of London&lt;/em&gt;.
-&lt;hr&gt;&lt;/p&gt;
-
-&lt;h4 id=&#34;what-i-ve-done&#34;&gt;What I&amp;rsquo;ve done&lt;/h4&gt;
-
-&lt;p&gt;I studied &lt;strong&gt;Computer Engineering&lt;/strong&gt; at &lt;em&gt;Universidad Autonoma de Madrid&lt;/em&gt; (Spain), moved to London and worked as a web developer (in different languages) for a couple of years. I decided to make a change in my career and opted for the Artificial Intelligence and games world, which I&amp;rsquo;m really excited about!
-&lt;hr&gt;&lt;/p&gt;
-
-&lt;h4 id=&#34;my-interests&#34;&gt;My interests&lt;/h4&gt;
-
-&lt;p&gt;My interests include &lt;strong&gt;General Video Game Playing&lt;/strong&gt; (&lt;em&gt;GVGP&lt;/em&gt;), &lt;strong&gt;Procedural Content Generation&lt;/strong&gt; (&lt;em&gt;PCG&lt;/em&gt;) and &lt;strong&gt;automatic evaluation&lt;/strong&gt;.
-&lt;hr&gt;&lt;/p&gt;
-
-&lt;h4 id=&#34;the-iggi-programme&#34;&gt;The IGGI programme&lt;/h4&gt;
-
-&lt;p&gt;I&amp;rsquo;m lucky to be one of the students in the &lt;strong&gt;IGGI&lt;/strong&gt; programme, which is a fully funded research programme in &lt;em&gt;Artificial Intelligence&lt;/em&gt; and &lt;em&gt;Games&lt;/em&gt;, sponsored by &lt;a href=&#34;https://www.epsrc.ac.uk/&#34; target=&#34;_blank&#34;&gt;EPSRC&lt;/a&gt; and possible thanks to the collaboration of the following institutions: &lt;em&gt;Queen Mary University of London&lt;/em&gt;, &lt;em&gt;University of Essex&lt;/em&gt;, &lt;em&gt;Goldsmiths University of London&lt;/em&gt; and &lt;em&gt;University of York&lt;/em&gt;. For detailed information please refer to the &lt;a href=&#34;http://www.iggi.org.uk/&#34;&gt;IGGI site&lt;/a&gt;.&lt;/p&gt;
-</description>
+      <description>What I do I&amp;rsquo;m an Intelligent Games and Games Intelligence (IGGI) PhD student at Queen Mary University of London. 
+What I&amp;rsquo;ve done I studied Computer Engineering at Universidad Autonoma de Madrid (Spain), moved to London and worked as a web developer (in different languages) for a couple of years. I decided to make a change in my career and opted for the Artificial Intelligence and games world, which I&amp;rsquo;m really excited about!</description>
+    </item>
+    
+    <item>
+      <title>For more details...</title>
+      <link>http://kisenshi.github.io/portfolio/more/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://kisenshi.github.io/portfolio/more/</guid>
+      <description>For detailed information about my professional experience and education, please refer to my LinkedIn profile or drop me a line!</description>
     </item>
     
   </channel>

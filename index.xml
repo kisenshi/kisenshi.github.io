@@ -2,409 +2,15 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Cheese with posts</title>
-    <link>http://kisenshi.github.io/index.xml</link>
+    <link>http://kisenshi.github.io/</link>
     <description>Recent content on Cheese with posts</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>The content of this site is licensed under a Creative Commons Attribution 4.0 International License</copyright>
     <lastBuildDate>Thu, 28 Sep 2017 19:27:34 +0100</lastBuildDate>
-    <atom:link href="http://kisenshi.github.io/index.xml" rel="self" type="application/rss+xml" />
     
-    <item>
-      <title>DEN Entrepreneurship Workshop 2017</title>
-      <link>http://kisenshi.github.io/post/2017_09_19_entrepreneurship_workshop/</link>
-      <pubDate>Thu, 28 Sep 2017 19:27:34 +0100</pubDate>
-      
-      <guid>http://kisenshi.github.io/post/2017_09_19_entrepreneurship_workshop/</guid>
-      <description>&lt;p&gt;On 19-20th September 2017, the &lt;a href=&#34;https://digitaleconomynetwork.com/&#34; target=&#34;_blank&#34;&gt;Digital Economy Network (DEN)&lt;/a&gt;, in collaboration with &lt;a href=&#34;https://www.digitalcatapultcentre.org.uk/&#34; target=&#34;_blank&#34;&gt;Digital Catapult&lt;/a&gt;, organised a two-days entrepreneurship workshop for EPSRC Digital Economy PhD students. As part of IGGI, I had the chance to attend.&lt;/p&gt;
-
-&lt;p&gt;On Tuesday I went to the Digital Catapult&amp;rsquo;s offices (where they have amazing views of St. Pancras!) with the idea of learning as much as possible from those two days, and I certainly did!&lt;/p&gt;
-
-&lt;p&gt;&lt;img class=&#34;img-responsive post_img_right&#34; src=&#34;http://kisenshi.github.io/img/posts/201709_DENworkshop/workshop_stpancras.jpg&#34; alt=&#34;Starting up with St Pancras views&#34;&gt;&lt;/p&gt;
-
-&lt;p&gt;Philip Treleaven, professor at UCL, gave a series of lessons in entrepreneurship, including how to identify the idea, branding and vision, suggestions for the pitch and funding sources. These talks were really interesting as they provided a general overview of the steps to follow when you have an idea that you&amp;rsquo;d like to commercialize; or a way to put the researchs out there, converting what you are working, now or in the future, into a company.&lt;/p&gt;
-
-&lt;p&gt;There were also a series of talks given by former UCL students, who has succesfully started companies applying the knowledge they gained during their PhDs. They became with successfull companies like &lt;a href=&#34;http://predictionio.incubator.apache.org/&#34; target=&#34;_blank&#34;&gt;PredictionIO&lt;/a&gt;, &lt;a href=&#34;http://brainpool.ai/&#34; target=&#34;_blank&#34;&gt;Brainpool&lt;/a&gt;, &lt;a href=&#34;https://www.satalia.com/&#34; target=&#34;_blank&#34;&gt;Satalia&lt;/a&gt; and &lt;a href=&#34;http://coinstrats.com/&#34; target=&#34;_blank&#34;&gt;CoinStrats&lt;/a&gt; and shared their stories with us. They provided an insight of what becoming an entrepreneur involves, including the issues they have found during their journeys and what they&amp;rsquo;ve learnt from the experience. They gave a series of really good advices in case we&amp;rsquo;d like to follow their steps in the future and I felt very inspired by them.&lt;/p&gt;
-
-&lt;p&gt;The workshop included a practical session where we had the chance to work with other attendees (PhD students from a range of different Universities) to identify a problem in the society and become with an idea to develop in order to solve it. We were divided into groups to work on a pitch to present the next day in front of the rest of the teams, and a panel, who would decide which team would win the Dragon&amp;rsquo;s DEN Pitching Competition, rewarded with £1000!&lt;/p&gt;
-
-&lt;p&gt;My team, formed by Alex Owen (University of Southampton), Youssef Hamid (Loughborough University) and Yitong Huang (University of Nottingham), became with &lt;strong&gt;&lt;em&gt;CycleRack&lt;/em&gt;&lt;/strong&gt;, which won the competition! The idea was based in the existing problem of the lack of safe bike parking in big cities, which results in thousands of bikes stolen every year. Most of the people living in cities like London live in flats with no storage space, which difficult the storage of their bikes at home or makes it very inconvenient. For most cyclist, parking their bikes in the street at night or at certain times is not an option. The solution we came up with was creating a dynamic social bike parking app, which would take advantage of private&amp;rsquo;s spaces (people&amp;rsquo;s homes or businesses), as secure rental spaces to park other people&amp;rsquo;s bikes for a period of time. It&amp;rsquo;s based on the idea of AirBnB and these kind of &amp;lsquo;on the move&amp;rsquo; social apps that has been successful, applied to a concept that hasn&amp;rsquo;t been tried before. It took us some time to polish the idea and prepare the pitch, but it was really worth it as we were really happy with the final result and the presentation we did. I include a picture of the team when receiving the prize!&lt;/p&gt;
-
-&lt;p&gt;&lt;img class=&#34;img-responsive post_img_center&#34; src=&#34;http://kisenshi.github.io/img/posts/201709_DENworkshop/cycleRack_team.jpg&#34; alt=&#34;CycleRack team picture receiving the prize&#34;&gt;&lt;/p&gt;
-
-&lt;p&gt;Apart from the big prize, there was also a People&amp;rsquo;s Choice Award, based on the choices of the rest of the teams, and rewarded with £250. The team of one of the colleagues in my program, Carlos Gonzalez Diaz (University of York), won this prize with their project &lt;em&gt;EmploAIble&lt;/em&gt;.&lt;/p&gt;
-
-&lt;p&gt;It was a really good experience, I enjoyed the workshop and met other students working in very interesting projects, which I think it is very important as well. Thank you to everyone who work to make it possible!&lt;/p&gt;
-</description>
-    </item>
+	<atom:link href="http://kisenshi.github.io/index.xml" rel="self" type="application/rss+xml" />
     
-    <item>
-      <title>Women Techmakers Summit 2017</title>
-      <link>http://kisenshi.github.io/post/2017_03_23_WTM2017_Google/</link>
-      <pubDate>Sat, 25 Mar 2017 00:00:00 +0000</pubDate>
-      
-      <guid>http://kisenshi.github.io/post/2017_03_23_WTM2017_Google/</guid>
-      <description>&lt;p&gt;On 22nd of March 2017, I went to the super cool new &lt;em&gt;Google&lt;/em&gt; offices in St Pancras Square to attend the annual &lt;em&gt;Google&amp;rsquo;s International Women&amp;rsquo;s Day Summit&lt;/em&gt; organised by &lt;em&gt;WomenTechmakers&lt;/em&gt; and, once again, I felt really inspired and lucky to belong to the amazing tech community.&lt;/p&gt;
-
-&lt;p&gt;The agenda looked really interesting so I was really looking forward to it. The registration opened up almost an hour before &lt;a href=&#34;https://twitter.com/sarahdrinkwater&#34;&gt;&lt;strong&gt;Sarah Drinkwater&lt;/strong&gt;&lt;/a&gt; kicked off the event, which gave enough time to eat some cheese and delicious cupcakes and meet some of the other amazing attendees.&lt;/p&gt;
-
-&lt;p&gt;&lt;img class=&#34;img-responsive post_img_right&#34; src=&#34;http://kisenshi.github.io/img/posts/women_techmakers_2017/jessica_hummel_talk.jpg&#34; alt=&#34;Welcome to the technology circus&#34;&gt;&lt;/p&gt;
-
-&lt;p&gt;The opening remarks with the title &lt;em&gt;&amp;ldquo;Everyone is welcome here&amp;rdquo;&lt;/em&gt;, by &lt;strong&gt;Suzanne Timmons&lt;/strong&gt; (Operations Director at &lt;em&gt;Googler Engagement&lt;/em&gt;) focused on diversity.&lt;/p&gt;
-
-&lt;p&gt;They were followed by the keynote &lt;em&gt;&amp;ldquo;Welcome to the technology circus&amp;rdquo;&lt;/em&gt; by &lt;strong&gt;Jessica Hummel&lt;/strong&gt;, Software Engineer at &lt;em&gt;Google&lt;/em&gt;. She started saying that &amp;ldquo;circus is to the body as tech to the mind&amp;rdquo; and her talk focused on comparing technology with different performing arts in order to give a series of tips to success. She talked about theatre, dance, juggling, acrobatics and mentioned how it is important to recover from injuries and to enjoy the &amp;ldquo;creation of the show&amp;rdquo;. The tips taken from each of the arts are:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;From theatre -&amp;gt; interaction. It is importanto to interact with other people and be open to their ideas, as having different views can help to achieve great things.&lt;/li&gt;
-&lt;li&gt;From dance -&amp;gt; priorization.&lt;/li&gt;
-&lt;li&gt;From juggling -&amp;gt; simplicity and focus. Starting simple, focusing in quality instead of quantity and increasing difficulty once the smaller tasks are achieved; always having in mind the big picture.&lt;/li&gt;
-&lt;li&gt;From acrobatics -&amp;gt; learn and achieve.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;In summary &lt;strong&gt;interact&lt;/strong&gt;, &lt;strong&gt;prioritize&lt;/strong&gt;, &lt;strong&gt;simplify&lt;/strong&gt;, &lt;strong&gt;learn &amp;amp; achieve&lt;/strong&gt;, &lt;strong&gt;recover&lt;/strong&gt; and &lt;strong&gt;enjoy&lt;/strong&gt; to be successfull. And these tips could be applied to other aspects of life apart from arts or technology. It was a really inspiring talk; probably one of the most inspiring talks I&amp;rsquo;ve ever seen.&lt;/p&gt;
-
-&lt;p&gt;&lt;img class=&#34;img-responsive post_img_left&#34; src=&#34;http://kisenshi.github.io/img/posts/women_techmakers_2017/rebecca_fiebrink_talk.jpg&#34; alt=&#34;Machine Learning as Creative Interaction Design Tool&#34;&gt;&lt;/p&gt;
-
-&lt;p&gt;Afterwards, &lt;a href=&#34;http://www.doc.gold.ac.uk/~mas01rf/Rebecca_Fiebrink_Goldsmiths/welcome.html&#34;&gt;&lt;strong&gt;Dr. Rebecca Fiebrink&lt;/strong&gt;&lt;/a&gt;, Lecturer at &lt;em&gt;Goldsmiths University&lt;/em&gt;, talked about the use of &lt;em&gt;&amp;ldquo;Machine Learning as a creative interaction design tool&amp;rdquo;&lt;/em&gt;, explaining the possibilty of using data for different creative purposes. She made a demo of &lt;a href=&#34;http://www.wekinator.org/&#34;&gt;&lt;em&gt;Wekinator&lt;/em&gt;&lt;/a&gt;, an open source tool developed by her. It is capable of learning (very fast!) different interactions with the human through the webcam (or any other interactive device) allowing a very quick prototyping and refinement without the need of using code. Its applications are wide (from creating proffesional music and building instruments, to a face expression-meme mapping), giving artists the chance of taking advantage of the technology to express their creativity without the need of having programming-skills.&lt;/p&gt;
-
-&lt;p&gt;After a break, &lt;a href=&#34;https://twitter.com/coderinheels&#34;&gt;&lt;strong&gt;Gen Ashley&lt;/strong&gt;&lt;/a&gt;, &lt;a href=&#34;https://twitter.com/Sprinzette&#34;&gt;&lt;strong&gt;Nicki Sprinz&lt;/strong&gt;&lt;/a&gt;, &lt;strong&gt;Reem Al Seed&lt;/strong&gt; and &lt;strong&gt;Svetlana Gulijajeva&lt;/strong&gt; joined Sarah for an inspirational Panel. They talked about different topics: programs promoting diversity, mentorship, (good/bad) advices and culture in the workplace. They mentioned that a good culture is based on respect and if a company is not offering what you think it is a right culture for you, it is because you are not in th right place. Based on my experience, I couldn´t agree more.&lt;/p&gt;
-
-&lt;p&gt;&lt;img class=&#34;img-responsive post_img_center&#34; src=&#34;http://kisenshi.github.io/img/posts/women_techmakers_2017/panel.jpg&#34; alt=&#34;Panel&#34;&gt;&lt;/p&gt;
-
-&lt;p&gt;The closing talk &lt;em&gt;&amp;ldquo;Research and the Next Billion Users&amp;rdquo;&lt;/em&gt; was given by &lt;strong&gt;Jeannie Foulsham&lt;/strong&gt;, Senior UX researcher at &lt;em&gt;Google&lt;/em&gt;. It was focused on the challenge of creating and developing products for emerging markets like India. It is not only needed to take into consideration the technological development constraints like devices and connectivity issues, but also the cultural differences including languages, inputs and diversity challenges.&lt;/p&gt;
-
-&lt;p&gt;It was a brilliant evening and it is definitely one of the events of the year that it worth attending; will you join me next time?&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Game AI Module Project - Portal 2D</title>
-      <link>http://kisenshi.github.io/post/2017_02_27_game_ai_module/</link>
-      <pubDate>Mon, 27 Feb 2017 00:00:00 +0000</pubDate>
-      
-      <guid>http://kisenshi.github.io/post/2017_02_27_game_ai_module/</guid>
-      <description>
-
-&lt;p&gt;As part of the Game AI module I took at &lt;em&gt;Goldsmiths University&lt;/em&gt; on February 2017 it was needed to design, implement and playtest an AI-based game. There was no technichal constraints or limitations. The idea was making something that could be useful later for my research and, as I need to use the &lt;em&gt;GVGAI Framework&lt;/em&gt;, I opted to use it in order to get familiar with it. &lt;em&gt;Valve&lt;/em&gt;&amp;rsquo;s &lt;em&gt;Portal&lt;/em&gt; series are in the top of my favourite games list (&lt;a href=&#34;http://store.steampowered.com/bundle/234/&#34;&gt;check them out&lt;/a&gt; if you haven&amp;rsquo;t),  so I decided to make my game based on them.&lt;/p&gt;
-
-&lt;h1 id=&#34;architecture&#34;&gt;Architecture&lt;/h1&gt;
-
-&lt;h2 id=&#34;gvgai-framework&#34;&gt;GVGAI Framework&lt;/h2&gt;
-
-&lt;p&gt;The &lt;a href=&#34;https://github.com/EssexUniversityMCTS/gvgai&#34;&gt;GVGAI Framework&lt;/a&gt; it is a JAVA-based open source framework used for the &lt;a href=&#34;http://www.gvgai.net/&#34;&gt;General Video Game AI Competition&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;It supports arcade-style 2D games built in &lt;em&gt;VGDL language&lt;/em&gt;. These (1 or 2 player) games can be easily set up to be played by a human or a controller. Because of the GVGAI competition, the framework is fully documented and there are lot of games an sample controllers available.&lt;/p&gt;
-
-&lt;p&gt;For the assessment, I simply forked the framework in my own repository to easily create a new game and a controller for it.&lt;/p&gt;
-
-&lt;h2 id=&#34;vgdl-language&#34;&gt;VGDL Language&lt;/h2&gt;
-
-&lt;p&gt;The &lt;em&gt;Video Game Definition Language&lt;/em&gt; (VGDL) was initially implemented in python and ported to JAVA to be used in the framework for the competition. To create a game, it is just needed to declare two files:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;p&gt;&lt;em&gt;Game description file&lt;/em&gt;. In this file it is declared the termination rules, objects, their interactions and how they should be mapped when defined in the level description file.&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;&lt;em&gt;Level description file&lt;/em&gt;. This file should contain a 2D matrix of symbols corresponding to the elements defined in the mapping section of the game description file.&lt;/p&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;As a detailed explanation about the language can be found in the framework wiki I will not get into details in here. An easy example, taken from the Framework, are the description files for the game Sokoban. As shown, just a couple of lines of code are enough to create a very simple game, pictured below.&lt;/p&gt;
-
-&lt;pre&gt;&lt;code&gt;BasicGame key_handler=Pulse square_size=40
-	SpriteSet
-        floor &amp;gt; Immovable img=newset/floor2
-        hole   &amp;gt; Immovable color=DARKBLUE img=oryx/cspell4
-        avatar &amp;gt; MovingAvatar img=oryx/knight1
-        box    &amp;gt; Passive img=newset/block1 shrinkfactor=0.8
-        wall &amp;gt; Immovable img=oryx/wall3 autotiling=True
-    LevelMapping
-        0 &amp;gt; floor hole
-        1 &amp;gt; floor box
-        w &amp;gt; floor wall
-        A &amp;gt; floor avatar
-        . &amp;gt; floor
-    InteractionSet
-    	avatar wall &amp;gt; stepBack
-    	box avatar  &amp;gt; bounceForward
-    	box wall box  &amp;gt; undoAll
-    	box hole    &amp;gt; killSprite scoreChange=1
-    TerminationSet
-    	SpriteCounter stype=box    
-    	limit=0 win=True
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;pre&gt;&lt;code&gt;wwwwwwwwwwwww
-w........w..w
-w...1.......w
-w...A.1.w.0ww
-www.w1..wwwww
-w.......w.0.w
-w.1........ww
-w..........ww
-wwwwwwwwwwwww
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;p&gt;&lt;img class=&#34;img-responsive post_img_center&#34; src=&#34;http://kisenshi.github.io/img/posts/game_ai_module/sokoban_example.png&#34; alt=&#34;Sokoban example&#34;&gt;&lt;/p&gt;
-
-&lt;h1 id=&#34;game&#34;&gt;Game&lt;/h1&gt;
-
-&lt;p&gt;The game I created for the assessment is based in &lt;em&gt;Valve&lt;/em&gt;&amp;rsquo;s &lt;em&gt;Portal&lt;/em&gt; where 2 different player have to reach a different goal in order to win:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;p&gt;&lt;strong&gt;Human (subject)&lt;/strong&gt;. Their goal is collecting the cake avoiding being killed, either being shot by the other player or steping into the traps allocated around the level. The player is allowed to move up, down, left or rignt and shoot to create Portals in the walls (one orange &amp;amp; one blue). It is possible to teleport between the Portals created in order to reach different areas of the level.&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;&lt;strong&gt;Turret&lt;/strong&gt;. Its goal is killing the &lt;em&gt;subject&lt;/em&gt; before they collect the cake. The player is allowed to move up, down, left or right and shoot a laser that immediately kills the other player.&lt;/p&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Other elements needed to implement the game are:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Floor and walls. Both characters are allowed to walk over the floor but they can&amp;rsquo;t go through walls so these define the shape of the level.&lt;/li&gt;
-&lt;li&gt;Trap. The turret character is allowed to walk through this object as it was floor but it is harmful for the human character as it kills them if they step onto it.&lt;/li&gt;
-&lt;li&gt;Cake. Items collectable by the human character that triggers their victory if collected.&lt;/li&gt;
-&lt;li&gt;Laser shot. Launched by the turret character when the action is selected. It is a missile that moves in the same direction the player is facing to and kills the human character if hitted before a wall is ecnountered.&lt;/li&gt;
-&lt;li&gt;Portal shot (blue or orange). Launched by the human character when the action is selected. It is a missile that moves in the same direction as the player is facing and creates a Portal when hitting a wall.&lt;/li&gt;
-&lt;li&gt;Portal (blue or orange). If two portals are created in the level (one orange and one blue), they allow the human character to teleport between them.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Below it has been included a screenshot of the game created containing all the elements described: The turret has shot a laser trying to reach the human player, who has moved down to avoid it. The human player has created two Portals to be able to move to the area below (from the blue Portal to the orange Portal) without stepping into the traps in order to be closer to the cake.&lt;/p&gt;
-
-&lt;p&gt;&lt;img class=&#34;img-responsive post_img_center&#34; src=&#34;http://kisenshi.github.io/img/posts/game_ai_module/game_screenshot.jpg&#34; alt=&#34;Game screenshot&#34;&gt;&lt;/p&gt;
-
-&lt;h2 id=&#34;ai-behaviour&#34;&gt;AI behaviour&lt;/h2&gt;
-
-&lt;p&gt;As part of the assessment, it was needed to include some kind of AI in the game. It was decided to develop a controller for the turret, focused on finding and killing the human. An overview of what it was implemented for the AI behaviour is:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Actions planning.&lt;/li&gt;
-&lt;li&gt;Targetting/Searching states.&lt;/li&gt;
-&lt;li&gt;Pathfinding: A*&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&#34;pathfinding&#34;&gt;Pathfinding&lt;/h3&gt;
-
-&lt;p&gt;&lt;img class=&#34;img-responsive post_img_right&#34; src=&#34;http://kisenshi.github.io/img/posts/game_ai_module/navigation_matrix.jpg&#34; alt=&#34;Navigation matrix&#34;&gt;&lt;/p&gt;
-
-&lt;p&gt;To allow an efficient way to move around the map, it was decided to use the &lt;strong&gt;A* algorithm&lt;/strong&gt;, considering every move with cost 1 and having the distance between the Start and Goal positions as the heuristic.&lt;/p&gt;
-
-&lt;p&gt;In order to implement the algorithm, it was needed to identify the navigation matrix (valid positions for the turret), which would be used to identify the valid neighbours on-the-fly when the algorithm was run. For the level created, the navigation matrix is marked in orange-colour in the image on the right.&lt;/p&gt;
-
-&lt;p&gt;Once the A* algorithm returned the list of positions that should be followed to reach the desired position, it was needed to convert these into valid actions to be followed by the turret. In the example below, as the turret is orientated to the right and the desired movement implies going down, it is needed to add an &amp;ldquo;extra&amp;rdquo; action to turn and face the desired orientation:&lt;/p&gt;
-
-&lt;p&gt;&lt;img class=&#34;img-responsive post_img_center&#34; src=&#34;http://kisenshi.github.io/img/posts/game_ai_module/positions_to_actions.png&#34; alt=&#34;Positions to actions&#34;&gt;&lt;/p&gt;
-
-&lt;h3 id=&#34;states&#34;&gt;States&lt;/h3&gt;
-
-&lt;h4 id=&#34;targetting&#34;&gt;Targetting&lt;/h4&gt;
-
-&lt;p&gt;If the human is in-sight, the logic is adapted to enter this state and plan the list of actions to kill them. If the turret has a list of actions already planned but the previous state was not &lt;em&gt;targetting&lt;/em&gt; the previous plan of actions is unrelevant as this is the most important status.&lt;/p&gt;
-
-&lt;h4 id=&#34;searching&#34;&gt;Searching&lt;/h4&gt;
-
-&lt;p&gt;When the human is not in-sight, it is needed to find the best spot to be able to target them. The pathfinding algorithm is called and the actions planned to reach the desired position. If, while these list of actions are being carried out, there is no change of status, the turret would keep following them.&lt;/p&gt;
-
-&lt;p&gt;&lt;img class=&#34;img-responsive post_img_left&#34; src=&#34;http://kisenshi.github.io/img/posts/game_ai_module/areas.jpg&#34; alt=&#34;Areas&#34;&gt;
-It was needed to take into cosideration the existance of different areas in the level, which are those limited by walls and traps where the human is forced to use a Portal to move between them.&lt;/p&gt;
-
-&lt;p&gt;It was included an interruption in the seacrhing plan for the special case of the human not being the same area as they were when the pathfinding algorithm ran. If it is detected that the human has changed from an area to another, a new search is run to update the movement-actions plan in order to get closer to the player.
-&lt;p/&gt;&lt;br/&gt;&lt;/p&gt;
-
-&lt;h3 id=&#34;logic-implementation&#34;&gt;Logic implementation&lt;/h3&gt;
-
-&lt;h4 id=&#34;checking-if-human-in-sight&#34;&gt;Checking if human in-sight&lt;/h4&gt;
-
-&lt;p&gt;To check if the human is in sight, the visible spots in-line with the current position of the character are identified (marked in blue colour in the image below).&lt;/p&gt;
-
-&lt;p&gt;Once these spots are identified, it is checked if the agent current position corresponds with one of those or not.&lt;/p&gt;
-
-&lt;p&gt;&lt;img class=&#34;img-responsive post_img_center&#34; src=&#34;http://kisenshi.github.io/img/posts/game_ai_module/human_in_sight_check.jpg&#34; alt=&#34;Human-in-sight checking&#34;&gt;&lt;/p&gt;
-
-&lt;h4 id=&#34;targetting-the-human&#34;&gt;Targetting the human&lt;/h4&gt;
-
-&lt;p&gt;When the human is in sight, the agent should shoot in the correct direction. In order to achieve this, it should change its orientation if it is not facing the human and shoot once the orientation is the correct one.&lt;/p&gt;
-
-&lt;p&gt;&lt;img class=&#34;img-responsive post_img_center&#34; src=&#34;http://kisenshi.github.io/img/posts/game_ai_module/targetting.jpg&#34; alt=&#34;Turret targetting the human&#34;&gt;&lt;/p&gt;
-
-&lt;h4 id=&#34;finding-the-best-spot-to-move-to&#34;&gt;Finding the best spot to move to&lt;/h4&gt;
-
-&lt;p&gt;The best spot of the agent is the closest from where the human is in-sight at the moment. The spots previously identified are used, taking the one of those closest to the turret as goal for the pathfinding algorithm.&lt;/p&gt;
-
-&lt;p&gt;&lt;img class=&#34;img-responsive post_img_center&#34; src=&#34;http://kisenshi.github.io/img/posts/game_ai_module/best_spot.jpg&#34; alt=&#34;Identifying the best spot&#34;&gt;&lt;/p&gt;
-
-&lt;h4 id=&#34;dumbing-the-ai&#34;&gt;&amp;ldquo;Dumbing&amp;rdquo; the AI&lt;/h4&gt;
-
-&lt;p&gt;When the AI was implemented and the game was tested, most of the feedback received was that the AI was too quick and it was &lt;del&gt;impossible&lt;/del&gt; too difficult to win the game. Because of this, it was decided to add some &lt;em&gt;doNothing&lt;/em&gt; actions when planning the actions to carry out. As a result, even when the logic is the same, it looks like the agent is slower and the player is given a chance to reach the cake before being killed by it.&lt;/p&gt;
-
-&lt;h2 id=&#34;gameplay-video&#34;&gt;Gameplay video&lt;/h2&gt;
-
-&lt;p&gt;Below it is included a gameplay for a fully working game, where the turret (Player 1) is controlled automatically by the implemented AI and the human character (player 0) is controlled by a person:&lt;/p&gt;
-
-&lt;p class=&#34;text-center&#34;&gt;
-    &lt;div class=&#34;video-container&#34;&gt;
-        &lt;iframe src=&#34;https://www.youtube.com/embed/kYGupL5YHAk&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
-    &lt;/div&gt;
-&lt;/p&gt;
-
-&lt;h2 id=&#34;the-code&#34;&gt;The code&lt;/h2&gt;
-
-&lt;p&gt;As mentioned before, the framework was forked &lt;a href=&#34;https://github.com/kisenshi/gvgai-gameAI-project&#34;&gt;into my own repository&lt;/a&gt;, where I created the game and implemented the AI logic. Some bugs were found during the playtesting session (they have been fixed) so the last up-to-date version can be found in the &lt;a href=&#34;https://github.com/kisenshi/gvgai-gameAI-project/tree/Portal2D-improvements-and-fixes&#34;&gt;&lt;em&gt;Portal2D-improvements-and-fixes&lt;/em&gt; branch&lt;/a&gt;.&lt;/p&gt;
-
-&lt;h3 id=&#34;running-the-game&#34;&gt;Running the game&lt;/h3&gt;
-
-&lt;p&gt;The files created for the game can be found at:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;em&gt;src/ModuleGame&lt;/em&gt; Main that runs the game.&lt;/li&gt;
-&lt;li&gt;&lt;em&gt;aimodule/cake.txt&lt;/em&gt; Game description file.&lt;/li&gt;
-&lt;li&gt;&lt;em&gt;aimodule/cake_lvl0.txt&lt;/em&gt; Level description file.&lt;/li&gt;
-&lt;li&gt;&lt;em&gt;src/controllers/aimodule/KillSubject/Agent.java&lt;/em&gt; Code of the controller for the turret.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;To run the game, it is suggested to follow the &lt;a href=&#34;https://github.com/EssexUniversityMCTS/gvgai/wiki/GVG-Framework&#34;&gt;instructions provided&lt;/a&gt; in the framework wiki.&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;Thank you for reading, I hope you enjoy the game!
-And don&amp;rsquo;t forget to give &lt;em&gt;Valve&lt;/em&gt;&amp;rsquo;s &lt;em&gt;Portal&lt;/em&gt; games a try because they are really good!! Just bear in mind that&amp;hellip;&lt;/p&gt;
-
-&lt;h2 class=&#34;text-center&#34;&gt;THE CAKE IS A LIE&lt;/h2&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Global Game Jam 2017 - Her Resonance</title>
-      <link>http://kisenshi.github.io/post/2017_01_23_global_game_jam_2017/</link>
-      <pubDate>Mon, 23 Jan 2017 00:00:00 +0000</pubDate>
-      
-      <guid>http://kisenshi.github.io/post/2017_01_23_global_game_jam_2017/</guid>
-      <description>&lt;p&gt;The &lt;a href+&#34;http://globalgamejam.org/&#34; target=&#34;_blank&#34;&gt;Global Game Jam&lt;/a&gt; (GGJ) is an annual &lt;em&gt;game creation&lt;/em&gt; event taking place worldwide in different physical locations. At certain time, a theme is announced and &lt;em&gt;jammers&lt;/em&gt; have 48 hours to make a game based on it. Thousands of people participate all around the world, creating thousands of games (more than 7000 games have been created in the 2017 edition) and the number increases every year.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://kisenshi.github.io/post/2016_09_04_hello_iggi/&#34;&gt;IGGI&lt;/a&gt; signs up every year as one of the GGJ local sites, taking place in one of the collaborating institutions so, as part of the programme, I spent the weekend in York making a game.&lt;/p&gt;
-
-&lt;p&gt;The theme, &lt;em&gt;Waves&lt;/em&gt;, was announced at 6pm on Friday 20th and the brainstorming started. My team of three agreed on the game surprisely quickly and, althought we were missing an artist, we managed to create something decent by Sunday.&lt;/p&gt;
-
-&lt;p&gt;We wanted to make an original 2D game where the player would experience different emotions. The concept for &lt;em&gt;Her Resonance&lt;/em&gt; was born: The game would be about a girl who sees herself as a wave and go through the journey of her life, having different experiences when bumping into other waves (people). Girl&amp;rsquo;s mood would be reflected on her assigned frequency and it would change by resonance depending on the frequency of the waves she interacts with. The idea was having different states where the music and environment would change, depending on her mood.&lt;/p&gt;
-
-&lt;p&gt;At the end, a &lt;strong&gt;poetry puzzle platformer&lt;/strong&gt; was created. The game is formed by 5 different states in the girl&amp;rsquo;s life: loneliness, exploration, calm, disturbance and acceptance. Each of the states are introduced to the player with a poem, presenting the story of the girl and the objective that should be reached to advance to the following state. As there were no artist in the team it was not possible to achieve exactly the environmental experience we were looking for. However, overall, a first version of the game was created; being possible to experience the journey with the full poetry in place, some background color updates and a beautiful soundtrack, so we were really happy with the results achieved.&lt;/p&gt;
-
-&lt;p&gt;At the York GGJ site, some prizes for different categories were given and our game, &lt;em&gt;Her Resonance&lt;/em&gt; won the prize for &lt;strong&gt;Best writing/storytelling&lt;/strong&gt; and an &lt;strong&gt;Honourable Mention for audio&lt;/strong&gt;!&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://globalgamejam.org/2017/games/her-resonance&#34; target=&#34;_blank&#34;&gt;&lt;strong&gt;&lt;em&gt;Her Resonance&lt;/em&gt;&lt;/strong&gt;&lt;/a&gt; was uploaded to the Global Game Jam site so the code and the executables for Windows and OSX can be found in there; try it out!&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Hello IGGI!</title>
-      <link>http://kisenshi.github.io/post/2016_09_04_hello_iggi/</link>
-      <pubDate>Wed, 14 Sep 2016 00:00:00 +0000</pubDate>
-      
-      <guid>http://kisenshi.github.io/post/2016_09_04_hello_iggi/</guid>
-      <description>&lt;p&gt;I am really excited to finally say &lt;strong&gt;Hello IGGI&lt;/strong&gt; as I am one of the new students in the University of Essex! It is a great opportunity and I can&amp;rsquo;t wait to see what comes out of the next 4 years!&lt;/p&gt;
-
-&lt;p&gt;&lt;h3 class=&#34;text-center&#34;&gt;But wait&amp;hellip; What is IGGI??&lt;/h3&gt;
-&lt;br/&gt;
-Right! I&amp;rsquo;ll explain!&lt;/p&gt;
-
-&lt;p&gt;The &lt;strong&gt;Intelligent Games and Game Intelligence (IGGI)&lt;/strong&gt; PhD programme is the biggest fully funded research programme in &lt;em&gt;Artificial Intelligence&lt;/em&gt; and &lt;em&gt;Games&lt;/em&gt; in the world. It is sponsored by &lt;a href=&#34;https://www.epsrc.ac.uk/&#34; target=&#34;_blank&#34;&gt;EPSRC&lt;/a&gt; and possible thanks to the collaboration of three institutions: &lt;em&gt;University of Essex&lt;/em&gt;, &lt;em&gt;Goldsmiths University of London&lt;/em&gt; and &lt;em&gt;University of York&lt;/em&gt;. For detailed information refer to the &lt;a href=&#34;http://www.iggi.org.uk/&#34; target=&#34;_blank&#34;&gt;IGGI site&lt;/a&gt;.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>My first Hackathon</title>
-      <link>http://kisenshi.github.io/post/2015_03_11_my_first_hackathon/</link>
-      <pubDate>Wed, 11 Mar 2015 15:57:49 +0000</pubDate>
-      
-      <guid>http://kisenshi.github.io/post/2015_03_11_my_first_hackathon/</guid>
-      <description>&lt;p&gt;I&amp;rsquo;ve recently realised how big the tech community is here in London (I was completely blind before) and the amount of interesting events, meetups and workshops that can be found almost daily around the city. Last weekend I decided to attend to my first Hackathon and, although on Sunday I was completely exhausted, it was such a great experience!&lt;/p&gt;
-
-&lt;p&gt;The hackathon was organised by &lt;a href=&#34;http://www.talentedheads.com/2015/02/10/female-hackathon-planned-london-celebrate-international-womens-day/&#34; target=&#34;_blank&#34;&gt;&lt;strong&gt;Talented Heads&lt;/strong&gt;&lt;/a&gt; and hosted by &lt;a href=&#34;http://www.makersacademy.com/&#34; target=&#34;_blank&#34;&gt;&lt;strong&gt;Makers Academy&lt;/strong&gt;&lt;/a&gt; to celebrate the International Women&amp;rsquo;s day, encourage diversity in tech and inspire more women to join this amazing industry.&lt;/p&gt;
-
-&lt;p&gt;When I arrived at Makers Academy (really cool) offices on Saturday morning, all I knew was that we would build a project based on the theme &lt;em&gt;Make it Happen - Diversity in Tech&lt;/em&gt; and I needed to bring my laptop, curiosity and imagination; so I could not imagine what all we were there were about to achieve!&lt;/p&gt;
-
-&lt;blockquote class=&#34;twitter-tweet tw-align-center&#34; lang=&#34;en-gb&#34;&gt;&lt;p&gt;These are the women who will &lt;a href=&#34;https://twitter.com/hashtag/MakeItHappen?src=hash&#34;&gt;#MakeItHappen&lt;/a&gt; in tech in the future. &lt;a href=&#34;https://twitter.com/hashtag/iwdhackathon?src=hash&#34;&gt;#iwdhackathon&lt;/a&gt; you go girls x &lt;a href=&#34;http://t.co/SBgSLWslvx&#34;&gt;pic.twitter.com/SBgSLWslvx&lt;/a&gt;&lt;/p&gt;&amp;mdash; Talented Heads (@TalentedHeads) &lt;a href=&#34;https://twitter.com/TalentedHeads/status/574161010057211906&#34;&gt;March 7, 2015&lt;/a&gt;&lt;/blockquote&gt;
-
-&lt;p&gt;After introducing ourselves and some talking, we were divided into groups to come up with an idea to solve one of the problems we had isolated during the brainstorming. The interesting thing at this point is that, unlike other Hackathons, where the team meanly consists of technical profiles, our teams were formed by women with different skills. This approach provided us various points of view and encouraged us to collaborate to be able to achieve our goals.&lt;/p&gt;
-
-&lt;p&gt;&lt;img class=&#34;post_img_right img-responsive&#34; src=&#34;http://kisenshi.github.io/img/posts/my_first_hackathon/cyoa_team.jpg&#34; alt=&#34;CYOA team&#34;&gt;
-My team was formed by two &lt;strong&gt;designers&lt;/strong&gt; (&lt;a href=&#34;https://twitter.com/lowndesjo&#34; target=&#34;_blank&#34;&gt;Jo&lt;/a&gt; and &lt;a href=&#34;https://twitter.com/JessicaLeach6&#34; target=&#34;_blank&#34;&gt;Jess&lt;/a&gt;), two &lt;strong&gt;marketers&lt;/strong&gt; (&lt;a href=&#34;https://twitter.com/SuzeShardlow&#34; target=&#34;_blank&#34;&gt;Suze&lt;/a&gt; and &lt;a href=&#34;https://twitter.com/alessia_camera&#34; target=&#34;_blank&#34;&gt;Alessia&lt;/a&gt;) and two &lt;strong&gt;developers&lt;/strong&gt; (&lt;a href=&#34;https://twitter.com/binaryberry&#34; target=&#34;_blank&#34;&gt;Tatiana&lt;/a&gt; and myself). I have to admit that we were very lucky as, without knowing each other at all, it turned out that we had different skills that complemented perfectly.&lt;/p&gt;
-
-&lt;p&gt;We decided to focus on &lt;strong&gt;childhood&lt;/strong&gt;. We thought that the problem starts during this period, as there are lot of stereotypes and biases surrounding boys&amp;rsquo; and girls&amp;rsquo; daily environment that may affect the way they decide to live their life, and the decisions they take in the future. In general, girls use to get frustrated and give up easily when there is a problem, and the society doesn&amp;rsquo;t encourage them to keep trying and to not be afraid of failure.&lt;/p&gt;
-
-&lt;p&gt;After lot of deliberation, we came up with an idea we all loved: develop an &lt;strong&gt;educational story-telling platform&lt;/strong&gt; to teach the basic principles of coding and problem solving through interactive exercises. Children would access the platform and create stories based in their favourite fairy tales. Depending on their actions and answers, &lt;strong&gt;the story would change&lt;/strong&gt; (or even conclude) and the more they would progress in the story following &amp;ldquo;the correct path&amp;rdquo;, the more they would be rewarded.&lt;/p&gt;
-
-&lt;p&gt;Once the idea was clear, it was time to start working and transform it in a real product to be shown the next day. It was needed a deep analysis, a marketing strategy, a research to find out possible competitors, a working prototype (oriented to the proper target), cute designs for the children&amp;hellip; and a bear, the bear was important! And we had just 24 hours to make it happen!&lt;/p&gt;
-
-&lt;blockquote class=&#34;twitter-tweet tw-align-center&#34; lang=&#34;en-gb&#34;&gt;&lt;p&gt;We are back with lots of smiles! Brainstorming whilst having breakfast. &lt;a href=&#34;https://twitter.com/hashtag/IWD2015?src=hash&#34;&gt;#IWD2015&lt;/a&gt; &lt;a href=&#34;https://twitter.com/hashtag/IWDHackathon?src=hash&#34;&gt;#IWDHackathon&lt;/a&gt; &lt;a href=&#34;https://twitter.com/hashtag/makingithappen?src=hash&#34;&gt;#makingithappen&lt;/a&gt; &lt;a href=&#34;http://t.co/4MISeaEjlw&#34;&gt;pic.twitter.com/4MISeaEjlw&lt;/a&gt;&lt;/p&gt;&amp;mdash; Daria Taylor (@daria_taylor) &lt;a href=&#34;https://twitter.com/daria_taylor/status/574513998701395968&#34;&gt;March 8, 2015&lt;/a&gt;&lt;/blockquote&gt;
-
-&lt;p&gt;For the technical part, we opted for using Ruby (with &lt;a href=&#34;http://www.sinatrarb.com/&#34; target=&#34;_blank&#34;&gt;Sinatra&lt;/a&gt;) and &lt;a href=&#34;http://getbootstrap.com/&#34; target=&#34;_blank&#34;&gt;Bootstrap&lt;/a&gt;. I had never used Ruby before so I needed to set up the environment and Tatiana spent some time explaining me the basics of Ruby and how Sinatra was structured. It took us some time to be able to actually start working in the product, but we managed quite well and I am very happy with what we were able to produce.
-Collaborating, talking, sharing different opinions and ideas (and eating all the delicious food, juices and coffee provided by the lovely organizers) all my team was able to achieve a surprising good quality work in such a short period of time; &lt;a href=&#34;https://code-your-own-adventure.herokuapp.com/&#34; target=&#34;_blank&#34;&gt;&lt;strong&gt;Code Your Own Adventure&lt;/strong&gt;&lt;/a&gt; was born and it was ready to be shown to the world!&lt;/p&gt;
-
-&lt;p class=&#34;text-center&#34;&gt;
-    &lt;a href=&#34;https://code-your-own-adventure.herokuapp.com/&#34; target=&#34;_blank&#34;&gt;
-        &lt;img src=&#34;http://kisenshi.github.io/img/posts/my_first_hackathon/cyoa_logo.png&#34; alt=&#34;CYOA logo&#34;&gt;
-    &lt;/a&gt;
-&lt;/p&gt;
-
-&lt;p&gt;Pitching time! The moment to present the product we had been working on during the weekend had arrived, and everyone was tired, but really excited. The other two teams presented some really good ideas as well. One of them was &lt;a href=&#34;https://twitter.com/techmentr&#34; target=&#34;_blank&#34;&gt;&lt;strong&gt;TechMentr&lt;/strong&gt;&lt;/a&gt;, a platform to match mentors and mentees in tech; and &lt;strong&gt;Co(de)Create&lt;/strong&gt;, an e-learning platform oriented to support small projects.&lt;/p&gt;
-
-&lt;p&gt;To judge the projects, there was a jury conformed by &lt;a href=&#34;https://twitter.com/coderinheels&#34; target=&#34;_blank&#34;&gt;Gen Ashley&lt;/a&gt;, from &lt;a href=&#34;http://www.meetup.com/Women-Who-Code-London/&#34; target=&#34;_blank&#34;&gt;&lt;em&gt;Women Who Code&lt;/em&gt;&lt;/a&gt;, &lt;a href=&#34;https://twitter.com/mseckington&#34; target=&#34;_blank&#34;&gt;Melinda&lt;/a&gt; from &lt;em&gt;FutureLearn&lt;/em&gt; and Clarice from &lt;a href=&#34;http://www.codefirstgirls.org.uk/&#34; target=&#34;_blank&#34;&gt;&lt;em&gt;Codefirst:Girls&lt;/em&gt;&lt;/a&gt;. After much deliberation, they announced &lt;strong&gt;Code Your Own Adventure&lt;/strong&gt; as the winning idea!!!!&lt;/p&gt;
-
-&lt;blockquote class=&#34;twitter-tweet tw-align-center&#34; lang=&#34;en-gb&#34;&gt;&lt;p&gt;&lt;a href=&#34;https://twitter.com/hashtag/IWDHackathon?src=hash&#34;&gt;#IWDHackathon&lt;/a&gt; teams also talked about marketing for (not just the tech aspect of) the ideas/products they developed. &lt;a href=&#34;http://t.co/91tUiEBe2X&#34;&gt;pic.twitter.com/91tUiEBe2X&lt;/a&gt;&lt;/p&gt;&amp;mdash; Gen A (@coderinheels) &lt;a href=&#34;https://twitter.com/coderinheels/status/574592772071624704&#34;&gt;March 8, 2015&lt;/a&gt;&lt;/blockquote&gt;
-
-&lt;p&gt;Amazing, &lt;strong&gt;our team had won&lt;/strong&gt;!!!! We were so happy and could not believe it!&lt;/p&gt;
-
-&lt;p&gt;Since we started working on it, I knew it was a great idea, but I didn&amp;rsquo;t expect to win. To be honest, I was having such a good time during the whole weekend and the environment was so friendly that I didn&amp;rsquo;t have the feeling to be in &amp;ldquo;a competition&amp;rdquo;, but we were; and there were &lt;strong&gt;prizes&lt;/strong&gt;!!! We are going to receive a £75 amazon voucher, isn&amp;rsquo;t that great??! My earphones broke last week (and I cannot live without music), so I have quite clear what I am going to spend it on! I include Jess&amp;rsquo; tweet below with a photo of us with the jury so you can see by yourself how happy we were!&lt;/p&gt;
-
-&lt;blockquote class=&#34;twitter-tweet tw-align-center&#34; lang=&#34;en-gb&#34;&gt;&lt;p&gt;Code Your Own Adventure! Winning team at IWD hackathon &lt;a href=&#34;https://twitter.com/SuzeShardlow&#34;&gt;@SuzeShardlow&lt;/a&gt; &lt;a href=&#34;https://twitter.com/binaryberry&#34;&gt;@binaryberry&lt;/a&gt; &lt;a href=&#34;https://twitter.com/lowndesjo&#34;&gt;@lowndesjo&lt;/a&gt; &lt;a href=&#34;https://twitter.com/CamTechWomen&#34;&gt;@CamTechWomen&lt;/a&gt; &lt;a href=&#34;http://t.co/5KuODwN28v&#34;&gt;pic.twitter.com/5KuODwN28v&lt;/a&gt;&lt;/p&gt;&amp;mdash; Jessica Leach (@JessicaLeach6) &lt;a href=&#34;https://twitter.com/JessicaLeach6/status/574665613551013889&#34;&gt;March 8, 2015&lt;/a&gt;&lt;/blockquote&gt;
-
-&lt;p&gt;In summary, it was a &lt;strong&gt;great experience&lt;/strong&gt;, I met &lt;strong&gt;amazing women&lt;/strong&gt; passionate about &lt;strong&gt;tech&lt;/strong&gt;, I had fun and learnt a lot. Although on Sunday afternoon I was exhausted (both mentally and physically), it worth it and I would do it again! I have the feeling that I will be seen participating in many other Hackathons in the future.&lt;/p&gt;
-
-&lt;p&gt;Thanks the rest of attendees, the jury and the organizers for the amazing pics. It was possible and&amp;hellip;&lt;/p&gt;
-
-&lt;h2 class=&#34;text-center&#34;&gt;WE MADE IT HAPPEN!&lt;/h2&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Hello world!</title>
-      <link>http://kisenshi.github.io/post/2015_03_10_hello_world/</link>
-      <pubDate>Tue, 10 Mar 2015 23:54:28 +0000</pubDate>
-      
-      <guid>http://kisenshi.github.io/post/2015_03_10_hello_world/</guid>
-      <description>&lt;p&gt;The first post has to be this one!&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>A little bit about me</title>
-      <link>http://kisenshi.github.io/page/about/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://kisenshi.github.io/page/about/</guid>
-      <description>
-
-&lt;h3 id=&#34;hello-world&#34;&gt;Hello world!&lt;/h3&gt;
-
-&lt;p&gt;I&amp;rsquo;m Cris; a Spaniard in love with London, where I&amp;rsquo;ve been living since 2013. Although I had always enjoyed creative tasks as drawing and painting; I opted for a more technical career and I absolutely love it! I am passionate about solving problems, coding and the feel when something you have built actually works!&lt;/p&gt;
-
-&lt;p&gt;I worked as a web developer for a couple of years before I decided to make a change to the exciting world of AI and games. Currently I&amp;rsquo;m studying a PhD in &lt;em&gt;Intelligent Games and Games Intelligence&lt;/em&gt; (&lt;a href=&#34;http://www.iggi.org.uk/&#34;&gt;&lt;em&gt;IGGI&lt;/em&gt;&lt;/a&gt;) at &lt;em&gt;Queen Mary University of London&lt;/em&gt;, which I&amp;rsquo;m really excited about! I also like travelling, music, TV series, cinema and discovering new places in the city. I try to keep active outside the sedentary PhD life, mostly walking around the city, cycling and attempting different sports. Random facts are that my favorite game is Portal, I like medieval stuff (specially swords!) and my chosen superpower would be teleportation.&lt;/p&gt;
-
-&lt;p&gt;You might be wondering why the name of the site… Well, cheese can be added to anything and everything tastes better with cheese so it was perfect adding it to my personal site as well!&lt;/p&gt;
-
-&lt;p&gt;Thanks for reading!&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>For more details...</title>
-      <link>http://kisenshi.github.io/portfolio/more/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://kisenshi.github.io/portfolio/more/</guid>
-      <description>&lt;p&gt;For detailed information about my professional experience and education, please refer to my LinkedIn profile or drop me a line!&lt;/p&gt;
-
-&lt;p&gt;&lt;a target=&#34;_blank&#34; title=&#34;My LinkedIn profile&#34; href=&#34;https://uk.linkedin.com/in/cguerreromero/en&#34;&gt;&lt;img class=&#34;logo_img&#34; src=&#34;http://kisenshi.github.io/img/portfolio/logo_linkedIn.png&#34; alt=&#34;LinkedIn&#34;/&gt;&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
     
     <item>
       <title>Tech I know</title>
@@ -412,55 +18,10 @@ Collaborating, talking, sharing different opinions and ideas (and eating all the
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://kisenshi.github.io/portfolio/tech/</guid>
-      <description>
-
-&lt;p&gt;Here&amp;rsquo;s a list of some of the tech I&amp;rsquo;ve crossed path with since the beginning of times&amp;hellip; Just some examples, I&amp;rsquo;m an &lt;strong&gt;easy-learner and flexible&lt;/strong&gt; person so I try to adapt to use whatever is needed or best for the task. Being open minded in tech is a must!
-&lt;hr&gt;&lt;/p&gt;
-
-&lt;h4 id=&#34;full-stack-web-development&#34;&gt;Full stack web development&lt;/h4&gt;
-
-&lt;p&gt;&lt;a target=&#34;_blank&#34; title=&#34;Python&#34; href=&#34;https://www.python.org/&#34;&gt;&lt;img class=&#34;logo_img&#34; src=&#34;http://kisenshi.github.io/img/portfolio/logo_python.png&#34; alt=&#34;Python&#34;/&gt;&lt;/a&gt;
-&lt;a target=&#34;_blank&#34; title=&#34;PHP&#34; href=&#34;http://php.net/&#34;&gt;&lt;img class=&#34;logo_img&#34; src=&#34;http://kisenshi.github.io/img/portfolio/logo_php.png&#34; alt=&#34;PHP&#34;/&gt;&lt;/a&gt;
-&lt;a title=&#34;JavaScript&#34; href=&#34;#&#34;&gt;&lt;img class=&#34;logo_img&#34; src=&#34;http://kisenshi.github.io/img/portfolio/logo_js.png&#34; alt=&#34;JavaScript&#34;/&gt;&lt;/a&gt;
-&lt;a target=&#34;_blank&#34; title=&#34;jQuery&#34; href=&#34;http://jquery.com/&#34;&gt;&lt;img class=&#34;logo_img&#34; src=&#34;http://kisenshi.github.io/img/portfolio/logo_jquery.png&#34; alt=&#34;jQuery&#34;/&gt;&lt;/a&gt;
-&lt;a target=&#34;_blank&#34; title=&#34;mySQL&#34; href=&#34;http://www.mysql.com/&#34;&gt;&lt;img class=&#34;logo_img&#34; src=&#34;http://kisenshi.github.io/img/portfolio/logo_mysql.png&#34; alt=&#34;mySQL&#34;/&gt;&lt;/a&gt;
-&lt;a target=&#34;_blank&#34; title=&#34;PostgreSQL&#34; href=&#34;http://www.postgresql.org/&#34;&gt;&lt;img class=&#34;logo_img&#34; src=&#34;http://kisenshi.github.io/img/portfolio/logo_postgresql.png&#34; alt=&#34;PostgreSQL&#34;/&gt;&lt;/a&gt;
-&lt;a title=&#34;HTML&#34; href=&#34;#&#34;&gt;&lt;img class=&#34;logo_img&#34; src=&#34;http://kisenshi.github.io/img/portfolio/logo_html5.png&#34; alt=&#34;HTML&#34;/&gt;&lt;/a&gt;
-&lt;a title=&#34;CSS&#34; href=&#34;#&#34;&gt;&lt;img class=&#34;logo_img&#34; src=&#34;http://kisenshi.github.io/img/portfolio/logo_css3.png&#34; alt=&#34;CSS&#34;/&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;h4 id=&#34;other-programming-languages&#34;&gt;Other programming languages&lt;/h4&gt;
-
-&lt;p&gt;&lt;a title=&#34;JAVA&#34; href=&#34;#&#34;&gt;&lt;img class=&#34;logo_img&#34; src=&#34;http://kisenshi.github.io/img/portfolio/logo_java.png&#34; alt=&#34;JAVA&#34;/&gt;&lt;/a&gt;
-&lt;a title=&#34;ANSI C&#34; href=&#34;#&#34;&gt;&lt;img class=&#34;logo_img&#34; src=&#34;http://kisenshi.github.io/img/portfolio/logo_c.png&#34; alt=&#34;C&#34;/&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;h4 id=&#34;also&#34;&gt;Also&lt;/h4&gt;
-
-&lt;p&gt;VGDL, LISP, Prolog and VBA
-&lt;hr&gt;&lt;/p&gt;
-
-&lt;h4 id=&#34;coding-tools-software-frameworks&#34;&gt;Coding / Tools / Software / Frameworks&lt;/h4&gt;
-
-&lt;p&gt;&lt;a target=&#34;_blank&#34; title=&#34;Django&#34; href=&#34;https://www.djangoproject.com/&#34;&gt;&lt;img class=&#34;logo_img&#34; src=&#34;http://kisenshi.github.io/img/portfolio/logo_django.png&#34; alt=&#34;Django&#34;/&gt;&lt;/a&gt;
-&lt;a target=&#34;_blank&#34; title=&#34;PyCharm&#34; href=&#34;https://www.jetbrains.com/pycharm/&#34;&gt;&lt;img class=&#34;logo_img&#34; src=&#34;http://kisenshi.github.io/img/portfolio/logo_pycharm.png&#34; alt=&#34;PyCharm&#34;/&gt;&lt;/a&gt;
-&lt;a target=&#34;_blank&#34; title=&#34;Sublime Text&#34; href=&#34;http://www.sublimetext.com/&#34;&gt;&lt;img class=&#34;logo_img&#34; src=&#34;http://kisenshi.github.io/img/portfolio/logo_sublime_text.png&#34; alt=&#34;Sublime Text&#34;/&gt;&lt;/a&gt;
-&lt;a target=&#34;_blank&#34; title=&#34;Notepad++&#34; href=&#34;http://notepad-plus-plus.org/&#34;&gt;&lt;img class=&#34;logo_img&#34; src=&#34;http://kisenshi.github.io/img/portfolio/logo_notepad_plus_plus.png&#34; alt=&#34;Notepad++&#34;/&gt;&lt;/a&gt;
-&lt;a target=&#34;_blank&#34; title=&#34;GIT&#34; href=&#34;http://git-scm.com/&#34;&gt;&lt;img class=&#34;logo_img&#34; src=&#34;http://kisenshi.github.io/img/portfolio/logo_git.png&#34; alt=&#34;GIT&#34;/&gt;&lt;/a&gt;
-&lt;a target=&#34;_blank&#34; title=&#34;Trello&#34; href=&#34;https://trello.com/&#34;&gt;&lt;img class=&#34;logo_img&#34; src=&#34;http://kisenshi.github.io/img/portfolio/logo_trello.png&#34; alt=&#34;Trello&#34;/&gt;&lt;/a&gt;
-&lt;a target=&#34;_blank&#34; title=&#34;Microsoft Office&#34; href=&#34;http://products.office.com/en-GB/&#34;&gt;&lt;img class=&#34;logo_img&#34; src=&#34;http://kisenshi.github.io/img/portfolio/logo_moffice.png&#34; alt=&#34;Microsoft Office&#34;/&gt;&lt;/a&gt;
-&lt;hr&gt;&lt;/p&gt;
-
-&lt;h4 id=&#34;os&#34;&gt;OS&lt;/h4&gt;
-
-&lt;p&gt;&lt;a target=&#34;_blank&#34; title=&#34;Mac OS X&#34; href=&#34;http://www.apple.com/uk/osx/&#34;&gt;&lt;img class=&#34;logo_img&#34; src=&#34;http://kisenshi.github.io/img/portfolio/logo_mac.png&#34; alt=&#34;Mac OS X&#34;/&gt;&lt;/a&gt;
-&lt;a target=&#34;_blank&#34; title=&#34;Windows&#34; href=&#34;http://windows.microsoft.com/&#34;&gt;&lt;img class=&#34;logo_img&#34; src=&#34;http://kisenshi.github.io/img/portfolio/logo_windows.png&#34; alt=&#34;Windows&#34;/&gt;&lt;/a&gt;
-&lt;a target=&#34;_blank&#34; title=&#34;Linux - Ubuntu&#34; href=&#34;http://www.ubuntu.com/&#34;&gt;&lt;img class=&#34;logo_img&#34; src=&#34;http://kisenshi.github.io/img/portfolio/logo_linux.png&#34; alt=&#34;Linux Ubuntu&#34;/&gt;&lt;/a&gt;
-&lt;hr&gt;&lt;/p&gt;
-
-&lt;h4 id=&#34;spoken-languages&#34;&gt;Spoken languages&lt;/h4&gt;
-
-&lt;p&gt;&lt;a title=&#34;English&#34; href=&#34;#&#34;&gt;&lt;img class=&#34;logo_img&#34; src=&#34;http://kisenshi.github.io/img/portfolio/logo_english.png&#34; alt=&#34;English&#34;/&gt;&lt;/a&gt;
-&lt;a title=&#34;Spanish&#34; href=&#34;#&#34;&gt;&lt;img class=&#34;logo_img&#34; src=&#34;http://kisenshi.github.io/img/portfolio/logo_spanish.png&#34; alt=&#34;Spanish&#34;/&gt;&lt;/a&gt;&lt;/p&gt;
-</description>
+      <description>Here&amp;rsquo;s a list of some of the tech I&amp;rsquo;ve crossed path with since the beginning of times&amp;hellip; Just some examples, I&amp;rsquo;m an easy-learner and flexible person so I try to adapt to use whatever is needed or best for the task. Being open minded in tech is a must! 
+Full stack web development        
+Other programming languages  
+Also VGDL, LISP, Prolog and VBA</description>
     </item>
     
     <item>
@@ -469,51 +30,9 @@ Collaborating, talking, sharing different opinions and ideas (and eating all the
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://kisenshi.github.io/portfolio/projects/</guid>
-      <description>
-
-&lt;p&gt;Some code that can be shared with the world&lt;/p&gt;
-
-&lt;h4 id=&#34;a-target-blank-href-https-github-com-kisenshi-kisenshi-github-io-img-src-img-portfolio-logo-github-small-png-alt-github-a-kisenshi-github-io&#34;&gt;&lt;a target=&#34;_blank&#34; href=&#34;https://github.com/kisenshi/kisenshi.github.io&#34;&gt;&lt;img src=&#34;http://kisenshi.github.io/img/portfolio/logo_github_small.png&#34; alt=&#34;GitHub&#34;/&gt;&lt;/a&gt; kisenshi.github.io&lt;/h4&gt;
-
-&lt;p&gt;I use something called &lt;a target=&#34;_blank&#34; href=&#34;http://gohugo.io/&#34;&gt;Hugo&lt;/a&gt;, which is an amazing static webeite engine that allows me to have 100% control of the site; exactly what I was looking for. This repository contains the static code once it has been generated to be published. Basically, it&amp;rsquo;s the site you are visiting at the moment!
-&lt;hr&gt;&lt;/p&gt;
-
-&lt;h4 id=&#34;a-target-blank-href-https-github-com-kisenshi-gvgai-gameai-project-img-src-img-portfolio-logo-github-small-png-alt-github-a-portal-2d&#34;&gt;&lt;a target=&#34;_blank&#34; href=&#34;https://github.com/kisenshi/gvgai-gameAI-project&#34;&gt;&lt;img src=&#34;http://kisenshi.github.io/img/portfolio/logo_github_small.png&#34; alt=&#34;GitHub&#34;/&gt;&lt;/a&gt; Portal 2D&lt;/h4&gt;
-
-&lt;p&gt;Game developed using the GVGAI framework (forked into my repository) as assessment for the &lt;em&gt;Game AI Module&lt;/em&gt; took at &lt;em&gt;Goldsmiths University&lt;/em&gt; in February 2017. The most up-to-date version can be found in the &lt;a href=&#34;https://github.com/kisenshi/gvgai-gameAI-project/tree/Portal2D-improvements-and-fixes&#34;&gt;&lt;em&gt;Portal2D-improvements-and-fixes&lt;/em&gt;&lt;/a&gt; branch.
-&lt;hr&gt;&lt;/p&gt;
-
-&lt;h4 id=&#34;a-target-blank-href-http-globalgamejam-org-2017-games-her-resonance-img-src-img-portfolio-logo-ggj-png-alt-ggj-a-her-resonance&#34;&gt;&lt;a target=&#34;_blank&#34; href=&#34;http://globalgamejam.org/2017/games/her-resonance&#34;&gt;&lt;img src=&#34;http://kisenshi.github.io/img/portfolio/logo_GGJ.png&#34; alt=&#34;GGJ&#34;/&gt;&lt;/a&gt; Her Resonance&lt;/h4&gt;
-
-&lt;p&gt;Game developed in Unity for the &lt;em&gt;Global Game Jam 2017 (#GGJ17)&lt;/em&gt;  in the 20th-22nd of January 2017.
-&lt;hr&gt;&lt;/p&gt;
-
-&lt;h4 id=&#34;a-target-blank-href-https-github-com-kisenshi-hungrypenguinsgame-img-src-img-portfolio-logo-github-small-png-alt-github-a-hungrypenguinsgame&#34;&gt;&lt;a target=&#34;_blank&#34; href=&#34;https://github.com/kisenshi/HungryPenguinsGame&#34;&gt;&lt;img src=&#34;http://kisenshi.github.io/img/portfolio/logo_github_small.png&#34; alt=&#34;GitHub&#34;/&gt;&lt;/a&gt; HungryPenguinsGame&lt;/h4&gt;
-
-&lt;p&gt;Game developed in Unity as assessment for the &lt;em&gt;Game Development Module&lt;/em&gt; took at &lt;em&gt;Goldsmiths University&lt;/em&gt; in November 2016.
-&lt;hr&gt;&lt;/p&gt;
-
-&lt;h4 id=&#34;a-target-blank-href-https-github-com-kisenshi-project-euler-solutions-img-src-img-portfolio-logo-github-small-png-alt-github-a-project-euler-solutions&#34;&gt;&lt;a target=&#34;_blank&#34; href=&#34;https://github.com/kisenshi/project_euler_solutions&#34;&gt;&lt;img src=&#34;http://kisenshi.github.io/img/portfolio/logo_github_small.png&#34; alt=&#34;GitHub&#34;/&gt;&lt;/a&gt; project_euler_solutions&lt;/h4&gt;
-
-&lt;p&gt;My solutions to &lt;a target=&#34;_blank&#34; href=&#34;https://projecteuler.net/&#34;&gt;&lt;strong&gt;Project Euler&lt;/strong&gt;&lt;/a&gt; problems. For those who don´t know, Project Euler is an online platform that contains lot of problems to solve. I like solving problems and I thought it was a fun way to start using &lt;strong&gt;Python&lt;/strong&gt; and get familiar with the language.&lt;/p&gt;
-
-&lt;p&gt;Please note that I publish in here my solutions, if you are using the platform I recommend &lt;strong&gt;not to spoil yourself&lt;/strong&gt;, give a try and solve them in your own; where is the fun in using my solutions as yours?
-&lt;hr&gt;&lt;/p&gt;
-
-&lt;h4 id=&#34;a-target-blank-href-https-github-com-kisenshi-hackerrank-solutions-img-src-img-portfolio-logo-github-small-png-alt-github-a-hackerrank-solutions&#34;&gt;&lt;a target=&#34;_blank&#34; href=&#34;https://github.com/kisenshi/hackerrank_solutions&#34;&gt;&lt;img src=&#34;http://kisenshi.github.io/img/portfolio/logo_github_small.png&#34; alt=&#34;GitHub&#34;/&gt;&lt;/a&gt; hackerrank_solutions&lt;/h4&gt;
-
-&lt;p&gt;My solutions to &lt;a target=&#34;_blank&#34; href=&#34;https://www.hackerrank.com/&#34;&gt;&lt;strong&gt;Hackerrank&lt;/strong&gt;&lt;/a&gt; challenges, which is another cool platform with lot of problems related with algorithms, statistics, machine learning, natural language processing&amp;hellip; and contests.&lt;/p&gt;
-
-&lt;p&gt;Please try to &lt;strong&gt;solve the problems&lt;/strong&gt; on your own; do not use my solutions as yours, where would be the fun on that?
-&lt;hr&gt;&lt;/p&gt;
-
-&lt;h4 id=&#34;a-target-blank-href-https-github-com-binaryberry-code-your-own-aventure-img-src-img-portfolio-logo-github-small-png-alt-github-a-code-your-own-adventure&#34;&gt;&lt;a target=&#34;_blank&#34; href=&#34;https://github.com/binaryberry/Code-Your-Own-Aventure&#34;&gt;&lt;img src=&#34;http://kisenshi.github.io/img/portfolio/logo_github_small.png&#34; alt=&#34;GitHub&#34;/&gt;&lt;/a&gt; Code-Your-Own-Adventure&lt;/h4&gt;
-
-&lt;p&gt;Prototype built with &lt;strong&gt;&lt;em&gt;Ruby&lt;/em&gt;&lt;/strong&gt; Sinatra and &lt;strong&gt;&lt;em&gt;Bootstrap&lt;/em&gt;&lt;/strong&gt; for the &lt;strong&gt;&lt;em&gt;IWDHackathon&lt;/em&gt;&lt;/strong&gt; organised by &lt;a target=&#34;_blank&#34; href=&#34;http://www.talentedheads.com/2015/02/10/female-hackathon-planned-london-celebrate-international-womens-day/&#34;&gt;Talented Heads&lt;/a&gt; the weekend of the 7th and 8th of March of 2015.
-The theme was &lt;em&gt;Make it Happen – Diversity in Tech&lt;/em&gt;. The winning solution developed was a story telling platform to teach children coding basics and encourage them to keep trying until they are able to create the perfect story.&lt;/p&gt;
-
-&lt;p&gt;For more details, refer to &lt;a href=&#34;http://kisenshi.github.io/post/2015_03_11_my_first_hackathon&#34;&gt;this blog entrance&lt;/a&gt;.&lt;/p&gt;
-</description>
+      <description>Some code that can be shared with the world
+ kisenshi.github.io I use something called Hugo, which is an amazing static webeite engine that allows me to have 100% control of the site; exactly what I was looking for. This repository contains the static code once it has been generated to be published. Basically, it&amp;rsquo;s the site you are visiting at the moment! 
+ Portal 2D Game developed using the GVGAI framework (forked into my repository) as assessment for the Game AI Module took at Goldsmiths University in February 2017.</description>
     </item>
     
     <item>
@@ -522,13 +41,7 @@ The theme was &lt;em&gt;Make it Happen – Diversity in Tech&lt;/em&gt;. The win
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://kisenshi.github.io/portfolio/publications/</guid>
-      <description>
-
-&lt;h4 id=&#34;2017&#34;&gt;2017&lt;/h4&gt;
-
-&lt;p&gt;C. Guerrero-Romero, A. Louis, and D. Perez-Liebana, &lt;a target=&#34;_blank&#34; href=&#34;http://kisenshi.github.io/files/201708_PlayingDiversifying.pdf&#34;&gt;&lt;em&gt;&lt;strong&gt;&amp;ldquo;Beyond Playing to Win: Diversifying
-Heuristics for GVGAI&amp;rdquo;&lt;/strong&gt;&lt;/em&gt;&lt;/a&gt;, &lt;em&gt;Computational Intelligence and Games (CIG)&lt;/em&gt;. IEEE, 2017&lt;/p&gt;
-</description>
+      <description>2017 C. Guerrero-Romero, A. Louis, and D. Perez-Liebana, &amp;ldquo;Beyond Playing to Win: Diversifying Heuristics for GVGAI&amp;rdquo;, Computational Intelligence and Games (CIG). IEEE, 2017</description>
     </item>
     
     <item>
@@ -537,14 +50,7 @@ Heuristics for GVGAI&amp;rdquo;&lt;/strong&gt;&lt;/em&gt;&lt;/a&gt;, &lt;em&gt;C
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://kisenshi.github.io/portfolio/research/</guid>
-      <description>
-
-&lt;h4 id=&#34;gvgp-agents-to-evaluate-automatic-generated-levels&#34;&gt;GVGP​ ​agents​ ​to​ ​evaluate​ ​automatic​ ​generated​ ​levels&lt;/h4&gt;
-
-&lt;p&gt;Procedural Content generation (PCG) refers to the generation of game content via automated processes. The validity of these artifacts should be checked to ensure their playability. Common approaches are game-specific and, although they ensure the playability of the generated content, they are limited by the game they are defined for. To solve this limitation, a strong connection between PCG and General Video Game Playing (referring to algorithms that do not take game-specific knowledge into account) could be established, as general controllers could be used to validate content generated for any game.&lt;/p&gt;
-
-&lt;p&gt;The ultimate goal of my research is creating a system capable of using General Video Game Playing (GVGP) agents to play and evaluate new automated generated levels for games. The evaluator would be formed by different controllers and would be capable of analyzing a provided level of a game without having any previous knowledge about the level or the game. The idea is giving an answer that would determine if a level should be included into the game or not, based on the expectations.&lt;/p&gt;
-</description>
+      <description>GVGP​ ​agents​ ​to​ ​evaluate​ ​automatic​ ​generated​ ​levels Procedural Content generation (PCG) refers to the generation of game content via automated processes. The validity of these artifacts should be checked to ensure their playability. Common approaches are game-specific and, although they ensure the playability of the generated content, they are limited by the game they are defined for. To solve this limitation, a strong connection between PCG and General Video Game Playing (referring to algorithms that do not take game-specific knowledge into account) could be established, as general controllers could be used to validate content generated for any game.</description>
     </item>
     
     <item>
@@ -553,27 +59,97 @@ Heuristics for GVGAI&amp;rdquo;&lt;/strong&gt;&lt;/em&gt;&lt;/a&gt;, &lt;em&gt;C
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://kisenshi.github.io/portfolio/summary/</guid>
-      <description>
-
-&lt;h4 id=&#34;what-i-do&#34;&gt;What I do&lt;/h4&gt;
-
-&lt;p&gt;I&amp;rsquo;m an &lt;em&gt;Intelligent Games and Games Intelligence (IGGI)&lt;/em&gt; &lt;strong&gt;PhD student&lt;/strong&gt; at &lt;em&gt;Queen Mary University of London&lt;/em&gt;.
-&lt;hr&gt;&lt;/p&gt;
-
-&lt;h4 id=&#34;what-i-ve-done&#34;&gt;What I&amp;rsquo;ve done&lt;/h4&gt;
-
-&lt;p&gt;I studied &lt;strong&gt;Computer Engineering&lt;/strong&gt; at &lt;em&gt;Universidad Autonoma de Madrid&lt;/em&gt; (Spain), moved to London and worked as a web developer (in different languages) for a couple of years. I decided to make a change in my career and opted for the Artificial Intelligence and games world, which I&amp;rsquo;m really excited about!
-&lt;hr&gt;&lt;/p&gt;
-
-&lt;h4 id=&#34;my-interests&#34;&gt;My interests&lt;/h4&gt;
-
-&lt;p&gt;My interests include &lt;strong&gt;General Video Game Playing&lt;/strong&gt; (&lt;em&gt;GVGP&lt;/em&gt;), &lt;strong&gt;Procedural Content Generation&lt;/strong&gt; (&lt;em&gt;PCG&lt;/em&gt;) and &lt;strong&gt;automatic evaluation&lt;/strong&gt;.
-&lt;hr&gt;&lt;/p&gt;
-
-&lt;h4 id=&#34;the-iggi-programme&#34;&gt;The IGGI programme&lt;/h4&gt;
-
-&lt;p&gt;I&amp;rsquo;m lucky to be one of the students in the &lt;strong&gt;IGGI&lt;/strong&gt; programme, which is a fully funded research programme in &lt;em&gt;Artificial Intelligence&lt;/em&gt; and &lt;em&gt;Games&lt;/em&gt;, sponsored by &lt;a href=&#34;https://www.epsrc.ac.uk/&#34; target=&#34;_blank&#34;&gt;EPSRC&lt;/a&gt; and possible thanks to the collaboration of the following institutions: &lt;em&gt;Queen Mary University of London&lt;/em&gt;, &lt;em&gt;University of Essex&lt;/em&gt;, &lt;em&gt;Goldsmiths University of London&lt;/em&gt; and &lt;em&gt;University of York&lt;/em&gt;. For detailed information please refer to the &lt;a href=&#34;http://www.iggi.org.uk/&#34;&gt;IGGI site&lt;/a&gt;.&lt;/p&gt;
-</description>
+      <description>What I do I&amp;rsquo;m an Intelligent Games and Games Intelligence (IGGI) PhD student at Queen Mary University of London. 
+What I&amp;rsquo;ve done I studied Computer Engineering at Universidad Autonoma de Madrid (Spain), moved to London and worked as a web developer (in different languages) for a couple of years. I decided to make a change in my career and opted for the Artificial Intelligence and games world, which I&amp;rsquo;m really excited about!</description>
+    </item>
+    
+    <item>
+      <title>DEN Entrepreneurship Workshop 2017</title>
+      <link>http://kisenshi.github.io/post/2017_09_19_entrepreneurship_workshop/</link>
+      <pubDate>Thu, 28 Sep 2017 19:27:34 +0100</pubDate>
+      
+      <guid>http://kisenshi.github.io/post/2017_09_19_entrepreneurship_workshop/</guid>
+      <description>On 19-20th September 2017, the Digital Economy Network (DEN), in collaboration with Digital Catapult, organised a two-days entrepreneurship workshop for EPSRC Digital Economy PhD students. As part of IGGI, I had the chance to attend.
+On Tuesday I went to the Digital Catapult&amp;rsquo;s offices (where they have amazing views of St. Pancras!) with the idea of learning as much as possible from those two days, and I certainly did!
+Philip Treleaven, professor at UCL, gave a series of lessons in entrepreneurship, including how to identify the idea, branding and vision, suggestions for the pitch and funding sources.</description>
+    </item>
+    
+    <item>
+      <title>Women Techmakers Summit 2017</title>
+      <link>http://kisenshi.github.io/post/2017_03_23_wtm2017_google/</link>
+      <pubDate>Sat, 25 Mar 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://kisenshi.github.io/post/2017_03_23_wtm2017_google/</guid>
+      <description>On 22nd of March 2017, I went to the super cool new Google offices in St Pancras Square to attend the annual Google&amp;rsquo;s International Women&amp;rsquo;s Day Summit organised by WomenTechmakers and, once again, I felt really inspired and lucky to belong to the amazing tech community.
+The agenda looked really interesting so I was really looking forward to it. The registration opened up almost an hour before Sarah Drinkwater kicked off the event, which gave enough time to eat some cheese and delicious cupcakes and meet some of the other amazing attendees.</description>
+    </item>
+    
+    <item>
+      <title>Game AI Module Project - Portal 2D</title>
+      <link>http://kisenshi.github.io/post/2017_02_27_game_ai_module/</link>
+      <pubDate>Mon, 27 Feb 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://kisenshi.github.io/post/2017_02_27_game_ai_module/</guid>
+      <description>As part of the Game AI module I took at Goldsmiths University on February 2017 it was needed to design, implement and playtest an AI-based game. There was no technichal constraints or limitations. The idea was making something that could be useful later for my research and, as I need to use the GVGAI Framework, I opted to use it in order to get familiar with it. Valve&amp;rsquo;s Portal series are in the top of my favourite games list (check them out if you haven&amp;rsquo;t), so I decided to make my game based on them.</description>
+    </item>
+    
+    <item>
+      <title>Global Game Jam 2017 - Her Resonance</title>
+      <link>http://kisenshi.github.io/post/2017_01_23_global_game_jam_2017/</link>
+      <pubDate>Mon, 23 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://kisenshi.github.io/post/2017_01_23_global_game_jam_2017/</guid>
+      <description>The Global Game Jam (GGJ) is an annual game creation event taking place worldwide in different physical locations. At certain time, a theme is announced and jammers have 48 hours to make a game based on it. Thousands of people participate all around the world, creating thousands of games (more than 7000 games have been created in the 2017 edition) and the number increases every year.
+IGGI signs up every year as one of the GGJ local sites, taking place in one of the collaborating institutions so, as part of the programme, I spent the weekend in York making a game.</description>
+    </item>
+    
+    <item>
+      <title>Hello IGGI!</title>
+      <link>http://kisenshi.github.io/post/2016_09_04_hello_iggi/</link>
+      <pubDate>Wed, 14 Sep 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://kisenshi.github.io/post/2016_09_04_hello_iggi/</guid>
+      <description>I am really excited to finally say Hello IGGI as I am one of the new students in the University of Essex! It is a great opportunity and I can&amp;rsquo;t wait to see what comes out of the next 4 years!
+But wait&amp;hellip; What is IGGI??  Right! I&amp;rsquo;ll explain!
+The Intelligent Games and Game Intelligence (IGGI) PhD programme is the biggest fully funded research programme in Artificial Intelligence and Games in the world.</description>
+    </item>
+    
+    <item>
+      <title>My first Hackathon</title>
+      <link>http://kisenshi.github.io/post/2015_03_11_my_first_hackathon/</link>
+      <pubDate>Wed, 11 Mar 2015 15:57:49 +0000</pubDate>
+      
+      <guid>http://kisenshi.github.io/post/2015_03_11_my_first_hackathon/</guid>
+      <description>I&amp;rsquo;ve recently realised how big the tech community is here in London (I was completely blind before) and the amount of interesting events, meetups and workshops that can be found almost daily around the city. Last weekend I decided to attend to my first Hackathon and, although on Sunday I was completely exhausted, it was such a great experience!
+The hackathon was organised by Talented Heads and hosted by Makers Academy to celebrate the International Women&amp;rsquo;s day, encourage diversity in tech and inspire more women to join this amazing industry.</description>
+    </item>
+    
+    <item>
+      <title>Hello world!</title>
+      <link>http://kisenshi.github.io/post/2015_03_10_hello_world/</link>
+      <pubDate>Tue, 10 Mar 2015 23:54:28 +0000</pubDate>
+      
+      <guid>http://kisenshi.github.io/post/2015_03_10_hello_world/</guid>
+      <description>The first post has to be this one!</description>
+    </item>
+    
+    <item>
+      <title>A little bit about me</title>
+      <link>http://kisenshi.github.io/page/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://kisenshi.github.io/page/about/</guid>
+      <description>Hello world! I&amp;rsquo;m Cris; a Spaniard in love with London, where I&amp;rsquo;ve been living since 2013. Although I had always enjoyed creative tasks as drawing and painting; I opted for a more technical career and I absolutely love it! I am passionate about solving problems, coding and the feel when something you have built actually works!
+I worked as a web developer for a couple of years before I decided to make a change to the exciting world of AI and games.</description>
+    </item>
+    
+    <item>
+      <title>For more details...</title>
+      <link>http://kisenshi.github.io/portfolio/more/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://kisenshi.github.io/portfolio/more/</guid>
+      <description>For detailed information about my professional experience and education, please refer to my LinkedIn profile or drop me a line!</description>
     </item>
     
   </channel>
