@@ -28,7 +28,7 @@
   </url>
   
   <url>
-    <loc>http://kisenshi.github.io/post/2017_03_23_wtm2017_google/</loc>
+    <loc>http://kisenshi.github.io/post/2017_03_23_wtm2017/</loc>
     <lastmod>2017-03-25T00:00:00+00:00</lastmod>
   </url>
   
@@ -79,14 +79,14 @@
   </url>
   
   <url>
-    <loc>http://kisenshi.github.io/categories/event/</loc>
-    <lastmod>2017-09-28T19:27:34+01:00</lastmod>
+    <loc>http://kisenshi.github.io/tags/event/</loc>
+    <lastmod>2017-03-25T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://kisenshi.github.io/tags/event/</loc>
-    <lastmod>2017-03-25T00:00:00+00:00</lastmod>
+    <loc>http://kisenshi.github.io/categories/event/</loc>
+    <lastmod>2017-09-28T19:27:34+01:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -189,13 +189,13 @@
   </url>
   
   <url>
-    <loc>http://kisenshi.github.io/categories/workshop/</loc>
+    <loc>http://kisenshi.github.io/tags/workshop/</loc>
     <lastmod>2017-09-28T19:27:34+01:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://kisenshi.github.io/tags/workshop/</loc>
+    <loc>http://kisenshi.github.io/categories/workshop/</loc>
     <lastmod>2017-09-28T19:27:34+01:00</lastmod>
     <priority>0</priority>
   </url>
