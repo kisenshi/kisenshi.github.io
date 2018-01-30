@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>The content of this site is licensed under a Creative Commons Attribution 4.0 International License</copyright>
-    <lastBuildDate>Thu, 28 Sep 2017 19:27:34 +0100</lastBuildDate>
+    <lastBuildDate>Tue, 30 Jan 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="http://kisenshi.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Global Game Jam 2018 - Pass my Pants (aka Pants Mission)</title>
+      <link>http://kisenshi.github.io/post/2018_01_29_global_game_jam_2018/</link>
+      <pubDate>Tue, 30 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://kisenshi.github.io/post/2018_01_29_global_game_jam_2018/</guid>
+      <description>The Global Game Jam (GGJ) is an annual game creation event taking place worldwide in different physical locations. Jammers have 48 hours to make a game based on a certain theme. This year it was transmission.
+Last year I used Unity to develop a poetry puzzle platformer and, even when it was pretty chilled because my team took the decision to enjoy the experience, I had in mind doing something different this time; preferably avoiding the pain of setting up complicated environments and tools.</description>
+    </item>
     
     <item>
       <title>DEN Entrepreneurship Workshop 2017</title>

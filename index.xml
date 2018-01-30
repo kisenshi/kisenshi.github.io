@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>The content of this site is licensed under a Creative Commons Attribution 4.0 International License</copyright>
-    <lastBuildDate>Thu, 28 Sep 2017 19:27:34 +0100</lastBuildDate>
+    <lastBuildDate>Tue, 30 Jan 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="http://kisenshi.github.io/index.xml" rel="self" type="application/rss+xml" />
     
@@ -61,6 +61,16 @@ Also VGDL, LISP, Prolog and VBA</description>
       <guid>http://kisenshi.github.io/portfolio/summary/</guid>
       <description>What I do I&amp;rsquo;m an Intelligent Games and Games Intelligence (IGGI) PhD student at Queen Mary University of London. 
 What I&amp;rsquo;ve done I studied Computer Engineering at Universidad Autonoma de Madrid (Spain), moved to London and worked as a web developer (in different languages) for a couple of years. I decided to make a change in my career and opted for the Artificial Intelligence and games world, which I&amp;rsquo;m really excited about!</description>
+    </item>
+    
+    <item>
+      <title>Global Game Jam 2018 - Pass my Pants (aka Pants Mission)</title>
+      <link>http://kisenshi.github.io/post/2018_01_29_global_game_jam_2018/</link>
+      <pubDate>Tue, 30 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://kisenshi.github.io/post/2018_01_29_global_game_jam_2018/</guid>
+      <description>The Global Game Jam (GGJ) is an annual game creation event taking place worldwide in different physical locations. Jammers have 48 hours to make a game based on a certain theme. This year it was transmission.
+Last year I used Unity to develop a poetry puzzle platformer and, even when it was pretty chilled because my team took the decision to enjoy the experience, I had in mind doing something different this time; preferably avoiding the pain of setting up complicated environments and tools.</description>
     </item>
     
     <item>

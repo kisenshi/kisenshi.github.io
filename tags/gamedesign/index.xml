@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Gamejam on Cheese with posts</title>
-    <link>http://kisenshi.github.io/tags/gamejam/</link>
-    <description>Recent content in Gamejam on Cheese with posts</description>
+    <title>Gamedesign on Cheese with posts</title>
+    <link>http://kisenshi.github.io/tags/gamedesign/</link>
+    <description>Recent content in Gamedesign on Cheese with posts</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>The content of this site is licensed under a Creative Commons Attribution 4.0 International License</copyright>
     <lastBuildDate>Tue, 30 Jan 2018 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://kisenshi.github.io/tags/gamejam/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://kisenshi.github.io/tags/gamedesign/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -20,16 +20,6 @@
       <guid>http://kisenshi.github.io/post/2018_01_29_global_game_jam_2018/</guid>
       <description>The Global Game Jam (GGJ) is an annual game creation event taking place worldwide in different physical locations. Jammers have 48 hours to make a game based on a certain theme. This year it was transmission.
 Last year I used Unity to develop a poetry puzzle platformer and, even when it was pretty chilled because my team took the decision to enjoy the experience, I had in mind doing something different this time; preferably avoiding the pain of setting up complicated environments and tools.</description>
-    </item>
-    
-    <item>
-      <title>Global Game Jam 2017 - Her Resonance</title>
-      <link>http://kisenshi.github.io/post/2017_01_23_global_game_jam_2017/</link>
-      <pubDate>Mon, 23 Jan 2017 00:00:00 +0000</pubDate>
-      
-      <guid>http://kisenshi.github.io/post/2017_01_23_global_game_jam_2017/</guid>
-      <description>The Global Game Jam (GGJ) is an annual game creation event taking place worldwide in different physical locations. At certain time, a theme is announced and jammers have 48 hours to make a game based on it. Thousands of people participate all around the world, creating thousands of games (more than 7000 games have been created in the 2017 edition) and the number increases every year.
-IGGI signs up every year as one of the GGJ local sites, taking place in one of the collaborating institutions so, as part of the programme, I spent the weekend in York making a game.</description>
     </item>
     
   </channel>
