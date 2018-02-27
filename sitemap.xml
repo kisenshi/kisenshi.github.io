@@ -3,6 +3,10 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://kisenshi.github.io/portfolio/more/</loc>
+  </url>
+  
+  <url>
     <loc>http://kisenshi.github.io/portfolio/tech/</loc>
   </url>
   
@@ -12,10 +16,6 @@
   
   <url>
     <loc>http://kisenshi.github.io/portfolio/publications/</loc>
-  </url>
-  
-  <url>
-    <loc>http://kisenshi.github.io/portfolio/research/</loc>
   </url>
   
   <url>
@@ -89,19 +89,15 @@
   </url>
   
   <url>
-    <loc>http://kisenshi.github.io/categories/event/</loc>
-    <lastmod>2018-01-30T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>http://kisenshi.github.io/tags/event/</loc>
     <lastmod>2017-03-25T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://kisenshi.github.io/portfolio/more/</loc>
+    <loc>http://kisenshi.github.io/categories/event/</loc>
+    <lastmod>2018-01-30T00:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -205,13 +201,13 @@
   </url>
   
   <url>
-    <loc>http://kisenshi.github.io/categories/workshop/</loc>
+    <loc>http://kisenshi.github.io/tags/workshop/</loc>
     <lastmod>2017-09-28T19:27:34+01:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://kisenshi.github.io/tags/workshop/</loc>
+    <loc>http://kisenshi.github.io/categories/workshop/</loc>
     <lastmod>2017-09-28T19:27:34+01:00</lastmod>
     <priority>0</priority>
   </url>
