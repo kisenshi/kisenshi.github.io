@@ -22,7 +22,7 @@
     </item>
     
     <item>
-      <title>Tech I know</title>
+      <title>Some tech</title>
       <link>http://kisenshi.github.io/portfolio/tech/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -34,14 +34,16 @@ Also VGDL, LISP, Prolog and VBA</description>
     </item>
     
     <item>
-      <title>I&#39;m in Github!</title>
-      <link>http://kisenshi.github.io/portfolio/projects/</link>
+      <title>Talks</title>
+      <link>http://kisenshi.github.io/portfolio/talks/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://kisenshi.github.io/portfolio/projects/</guid>
-      <description>Some code that can be shared with the world
- kisenshi.github.io I use something called Hugo, which is an amazing static website engine that allows me to have 100% control of the site; exactly what I was looking for. This repository contains the static code once it has been generated to be published. Basically, it&amp;rsquo;s the site you are visiting at the moment! 
- Portal 2D Game developed using the GVGAI framework (forked into my repository) as assessment for the Game AI Module took at Goldsmiths University in February 2017.</description>
+      <guid>http://kisenshi.github.io/portfolio/talks/</guid>
+      <description> IGGI Conference September 2017, York, UK
+“The General Video Game Playing Challenge: Improving RHEA &amp;amp; Playing Beyond Win”, with Raluca D. Gaina.
+ IEEE Computational Intelligence and Games (CIG) August 2017, New York, USA
+Presentation of &amp;ldquo;Beyond Playing to Win: Diversifying Heuristics for GVGAI&amp;rdquo; paper, Special Session on General Video Game AI
+--  </description>
     </item>
     
     <item>
@@ -54,13 +56,24 @@ Also VGDL, LISP, Prolog and VBA</description>
     </item>
     
     <item>
+      <title>Projects</title>
+      <link>http://kisenshi.github.io/portfolio/projects/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://kisenshi.github.io/portfolio/projects/</guid>
+      <description>Some code that can be shared with the world 
+ kisenshi.github.io I use something called Hugo, which is an amazing static website engine that allows me to have 100% control of the site; exactly what I was looking for. This repository contains the static code once it has been generated to be published. Basically, it&amp;rsquo;s the site you are visiting at the moment! 
+ Portal 2D Game developed using the GVGAI framework (forked into my repository) as assessment for the Game AI Module took at Goldsmiths University in February 2017.</description>
+    </item>
+    
+    <item>
       <title>Biography - Cristina Guerrero-Romero</title>
       <link>http://kisenshi.github.io/portfolio/summary/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://kisenshi.github.io/portfolio/summary/</guid>
-      <description>What I do I&amp;rsquo;m an Intelligent Games and Games Intelligence (IGGI) PhD student at Queen Mary University of London. 
-What I&amp;rsquo;ve done I studied Computer Engineering at Universidad Autonoma de Madrid (Spain), moved to London and worked as a web developer (in different languages) for a couple of years. I decided to make a change in my career and opted for the Artificial Intelligence and games world, which I&amp;rsquo;m really excited about!</description>
+      <description>What I do I&amp;rsquo;m a PhD student at Queen Mary University of London. 
+What I&amp;rsquo;ve done I studied Computer and Software Engineering at Universidad Autonoma de Madrid (Spain), moved to London and worked as a web developer (in different languages) for a couple of years. I decided to make a change in my career and opted for the Artificial Intelligence and games world, which I&amp;rsquo;m really excited about!</description>
     </item>
     
     <item>
