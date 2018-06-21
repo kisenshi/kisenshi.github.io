@@ -70,7 +70,19 @@
   
   
   <url>
+    <loc>http://kisenshi.github.io/files/.DS_Store</loc>
+  </url>
+  
+  <url>
     <loc>http://kisenshi.github.io/files/201708_PlayingDiversifying.pdf</loc>
+  </url>
+  
+  <url>
+    <loc>http://kisenshi.github.io/files/paper-team-general-ai-assist.pdf</loc>
+  </url>
+  
+  <url>
+    <loc>http://kisenshi.github.io/files/slides-beyond-playing-to-win.pdf</loc>
   </url>
   
 </urlset>
