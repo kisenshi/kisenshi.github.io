@@ -27,10 +27,22 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://kisenshi.github.io/portfolio/tech/</guid>
-      <description>Here&amp;rsquo;s a list of some of the tech I&amp;rsquo;ve crossed path with since the beginning of times&amp;hellip; Just some examples, I&amp;rsquo;m an easy-learner and flexible person so I try to adapt to use whatever is needed or best for the task. Being open minded in tech is a must! 
+      <description>Here&amp;rsquo;s a list of some of the tech I&amp;rsquo;ve crossed path with since the beginning of times&amp;hellip; Just some examples, I&amp;rsquo;m an easy-learner and flexible person, so I try to adapt to use whatever is needed or best for the task. Being open-minded in tech is a must! 
 Full stack (and web development)        
 Other programming languages  
 Also VGDL, LISP, Prolog and VBA</description>
+    </item>
+    
+    <item>
+      <title>Conferences organisation</title>
+      <link>http://kisenshi.github.io/portfolio/conferences/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://kisenshi.github.io/portfolio/conferences/</guid>
+      <description>2019 IEEE Conference on Games (CoG) August 2019, London, UK
+Webmaster
+ IGGI Conference September 2018, London, UK
+Workshop chair</description>
     </item>
     
     <item>
@@ -43,7 +55,7 @@ Also VGDL, LISP, Prolog and VBA</description>
 “The General Video Game Playing Challenge: Improving RHEA &amp;amp; Playing Beyond Win”, with Raluca D. Gaina.
  IEEE Computational Intelligence and Games (CIG) August 2017, New York, USA
 Presentation of &amp;ldquo;Beyond Playing to Win: Diversifying Heuristics for GVGAI&amp;rdquo; paper, Special Session on General Video Game AI
---  </description>
+-- </description>
     </item>
     
     <item>
@@ -52,7 +64,8 @@ Presentation of &amp;ldquo;Beyond Playing to Win: Diversifying Heuristics for GV
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://kisenshi.github.io/portfolio/publications/</guid>
-      <description>2017 C. Guerrero-Romero, A. Louis, and D. Perez-Liebana, &amp;ldquo;Beyond Playing to Win: Diversifying Heuristics for GVGAI&amp;rdquo;, Computational Intelligence and Games (CIG). IEEE, 2017</description>
+      <description>2018 Cristina Guerrero-Romero, Simon M Lucas and Diego Perez-Liebana, &amp;ldquo;Using a Team of General AI Algorithms to Assist Game Design and Testing&amp;rdquo;, Computational Intelligence and Games (CIG). IEEE, 2018. To appear.
+ 2017 Cristina Guerrero-Romero, Simon M Lucas and Diego Perez-Liebana, &amp;ldquo;Beyond Playing to Win: Diversifying Heuristics for GVGAI&amp;rdquo;, Computational Intelligence and Games (CIG). IEEE, 2017</description>
     </item>
     
     <item>
@@ -62,7 +75,7 @@ Presentation of &amp;ldquo;Beyond Playing to Win: Diversifying Heuristics for GV
       
       <guid>http://kisenshi.github.io/portfolio/projects/</guid>
       <description>Some code that can be shared with the world 
- kisenshi.github.io I use something called Hugo, which is an amazing static website engine that allows me to have 100% control of the site; exactly what I was looking for. This repository contains the static code once it has been generated to be published. Basically, it&amp;rsquo;s the site you are visiting at the moment! 
+ kisenshi.github.io I use something called Hugo, which is a fantastic static website engine that allows me to have 100% control of the site; precisely what I was looking for. This repository contains the static code once it has been generated to be published. Basically, it’s the site you are visiting at the moment! 
  Portal 2D Game developed using the GVGAI framework (forked into my repository) as assessment for the Game AI Module took at Goldsmiths University in February 2017.</description>
     </item>
     
@@ -172,7 +185,7 @@ The hackathon was organised by Talented Heads and hosted by Makers Academy to ce
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://kisenshi.github.io/page/about/</guid>
-      <description>Hello world! I&amp;rsquo;m Cris; a Spaniard in love with London, where I&amp;rsquo;ve been living since 2013. Although I had always enjoyed creative tasks as drawing and painting; I opted for a more technical career and I absolutely love it! I am passionate about solving problems, coding and the feel when something you have built actually works!
+      <description>Hello world! I’m Cris; a Spaniard in love with London, where I’ve been living since 2013. Although I had always enjoyed creative tasks like drawing and painting; I opted for a more technical career, and I absolutely love it! I am passionate about solving problems, coding and the feel when something you have built actually works!
 I worked as a web developer for a couple of years before I decided to make a change to the exciting world of AI and games.</description>
     </item>
     
