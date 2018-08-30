@@ -21,5 +21,15 @@
 I worked as a web developer for a couple of years before I decided to make a change to the exciting world of AI and games.</description>
     </item>
     
+    <item>
+      <title>Publications</title>
+      <link>http://kisenshi.github.io/page/publications/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://kisenshi.github.io/page/publications/</guid>
+      <description>2018 Cristina Guerrero-Romero, Simon M Lucas and Diego Perez-Liebana, &amp;ldquo;Using a Team of General AI Algorithms to Assist Game Design and Testing&amp;rdquo;, Computational Intelligence and Games (CIG). IEEE, 2018
+ 2017 Cristina Guerrero-Romero, Annie Louis and Diego Perez-Liebana, &amp;ldquo;Beyond Playing to Win: Diversifying Heuristics for GVGAI&amp;rdquo;, Computational Intelligence and Games (CIG). IEEE, 2017</description>
+    </item>
+    
   </channel>
 </rss>
