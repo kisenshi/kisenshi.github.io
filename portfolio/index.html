@@ -33,19 +33,6 @@
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
 <meta itemprop="name" content="Portfolios">
 <meta itemprop="description" content="Personal blog and portfolio">
 
@@ -55,12 +42,16 @@
 <meta name="twitter:description" content="Personal blog and portfolio"/>
 
 
-<script>
-window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
-ga('create', 'UA-97610923-1', 'auto');
-ga('send', 'pageview');
+<script type="application/javascript">
+var doNotTrack = false;
+if (!doNotTrack) {
+	window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+	ga('create', 'UA-97610923-1', 'auto');
+	
+	ga('send', 'pageview');
+}
 </script>
-<script async src='//www.google-analytics.com/analytics.js'></script>
+<script async src='https://www.google-analytics.com/analytics.js'></script>
 
 </head>
 <body lang="en">
@@ -87,7 +78,8 @@ ga('send', 'pageview');
 		</div>
 	</div>
 
-<div class="container">	
+
+<div class="container">
 	<div class="row">
 		<div class="col-md-offset-1 col-md-10">
 			<div class="media">
@@ -407,7 +399,7 @@ Heuristics for GVGAI&rdquo;</em></a> paper, Special Session on <em>General Video
 		<div class="col-md-12">
 			<hr>
 		</div>
-	</div>	
+	</div>
 </div>
 
     <div class="container footer_container">
@@ -438,3 +430,4 @@ Heuristics for GVGAI&rdquo;</em></a> paper, Special Session on <em>General Video
     <script src="/js/bootstrap.min-3.1.1.js"></script>
     </body>
 </html>
+
