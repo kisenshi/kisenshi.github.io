@@ -18,7 +18,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://kisenshi.github.io/portfolio/more/</guid>
-      <description>For detailed information about my professional experience and education, please refer to my LinkedIn profile or drop me a line!</description>
+      <description>For detailed information about my professional experience and education, please refer to my LinkedIn profile.</description>
     </item>
     
     <item>
@@ -42,6 +42,24 @@ Other programming languages (during my undergrad)  VGDL, Assembly language, LISP
 Webmaster
  IGGI Conference September 2018, London, UK
 Workshop chair</description>
+    </item>
+    
+    <item>
+      <title>Contact me</title>
+      <link>http://kisenshi.github.io/research/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://kisenshi.github.io/research/contact/</guid>
+      <description>Feel free to drop me a line to c.guerreroromero[at]qmul.ac.uk</description>
+    </item>
+    
+    <item>
+      <title>Demo: Diversifying Heuristics for GVGAI</title>
+      <link>http://kisenshi.github.io/research/demos/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://kisenshi.github.io/research/demos/</guid>
+      <description>This demo shows the different behaviours of a general agent (Random Search) when using four different heuristics (goals): Winning Maximization (WMH), Exploration Maximization (EMH), Knowledge Discovery (KDH) and Knowledge Estimation (KEH).  The game is one of the games provided in the GVGAI framework, Butterflies. To win the game, all the butterflies must be captured before the time runs out or before all the cocoons are opened. Catching butterflies increases the score +2, so the more butterflies captured, higher the final score is.</description>
     </item>
     
     <item>
@@ -83,13 +101,25 @@ Slides
     </item>
     
     <item>
+      <title>Publications</title>
+      <link>http://kisenshi.github.io/research/publications/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://kisenshi.github.io/research/publications/</guid>
+      <description>2019 Damien Anderson, Cristina Guerrero-Romero, Diego Perez-Liebana, Philip Rodgers and John Levine, &amp;ldquo;Ensemble Decision Systems for General Video Game Playing&amp;rdquo;, Conference on Games (CoG). IEEE, 2019
+
+ 2018 Cristina Guerrero-Romero, Simon M Lucas and Diego Perez-Liebana, &amp;ldquo;Using a Team of General AI Algorithms to Assist Game Design and Testing&amp;rdquo;, Computational Intelligence and Games (CIG). IEEE, 2018
+ 2017 Cristina Guerrero-Romero, Annie Louis and Diego Perez-Liebana, &amp;ldquo;Beyond Playing to Win: Diversifying Heuristics for GVGAI&amp;rdquo;, Computational Intelligence and Games (CIG).</description>
+    </item>
+    
+    <item>
       <title>Biography - Cristina Guerrero-Romero</title>
       <link>http://kisenshi.github.io/portfolio/summary/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://kisenshi.github.io/portfolio/summary/</guid>
       <description>What I do I&amp;rsquo;m a PhD student at Queen Mary University of London. I did the first year of my PhD at University of Essex. 
-What I&amp;rsquo;ve done I studied Software and Computer Engineering at Universidad Autonoma de Madrid (Spain), moved to London and worked as a web developer (in different languages) for a couple of years. I decided to make a change in my career and opted for the Artificial Intelligence and games world, which I&amp;rsquo;m really excited about!</description>
+What I&amp;rsquo;ve done I studied Software and Computer Engineering at Universidad Autonoma de Madrid (Spain), moved to London and worked as a web developer (in different languages) for a couple of years. I decided to make a change in my career and started the PhD in AI and games.</description>
     </item>
     
     <item>

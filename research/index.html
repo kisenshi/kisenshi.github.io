@@ -86,21 +86,15 @@ if (!doNotTrack) {
 		<div class="col-md-offset-1 col-md-10">
 			<div class="media">
 				<div class="media-body">
-					<p><h3>Research: Game Testing in Industry Interviews</h3>
-<hr>
-<strong>Note:</strong> I am not actively running these interviews anymore, but if you are interested on providing your feedback or have any questions, please feel free to drop me a line to <a class="mail" href="mailto:c.guerreroromero@[avoidspam.]qmul.ac.uk"><strong>c.guerreroromero[at]qmul.ac.uk</strong></a>
-<hr>
-<h4>Do you work in the games industry?</h4></p>
+					<h3>Beyond Playing to Win: Broadening the Study and Use of General Agents</h3>
 
-<p>I am a PhD student at the Queen Mary University of London, and my research focuses on using a team of Artificial Intelligence (AI) <strong>agents with different play-styles for automatic testing</strong>.</p>
+<hr/>
 
-<p>I am <strong>running interviews</strong> to better understand what the games industry is looking for when testing a game, either when using <strong>human testers or automatic testing</strong>, and how these processes are carried out.</p>
+<p>A significant part of Game AI research actively explores and advances the play strength of general agents, which are able to play video games without having specific knowledge about them. Progress in this area would mean reaching a level of generalisation and  portability of AI that cannot be matched by game-specific agents, as it skips the need of hand-crafting complicated heuristics specific to the game under consideration. The popularity of this line of research in the past years leads to the existence of a wide range of general algorithms.</p>
 
-<p>The <strong>purpose</strong> of these interviews is to collect data that will shape the implementation of my experiments and future studies. Check the <a href="/files/research/game_testing_interviews_consent_form.pdf" target="_blank"><strong>information sheet</strong></a> for more detailed information.</p>
+<p>My work proposes to take advantage of the progress in this area and broaden the research of GVGP beyond playing games with the objective of winning at them. I am focusing on three approaches: diversifying their heuristics, taking advantage of the distinct behaviours given by them and analysing their strengths from a Player Experience perspective instead of their performance.</p>
 
-<p>The interview process consists on a <strong>series of questions related to game testing</strong>, including the procedures carried out by each company in the industry (both when using human playtesters and automatic testing). The questions are also designed to find the shortfalls in the current approaches and how they could be improved.</p>
-
-<p>These interviews can be done in person or filling out an online form, based on your availability and preference.</p>
+<p>Expanding the research in GVGP by exploring these different approaches is considered important as general agents have a big potential that is largely unexplored. Games have had a big role in the improvement of these agents and this work can return the favour by expanding the use of GVGP agents to have an impact in games and improving them, either participating in the development process or by being integrated in them.</p>
 
 <script type="text/javascript">
 window.onload = function () {
@@ -119,6 +113,108 @@ window.onload = function () {
 		<div class="col-md-offset-1 col-md-10">
 			<br>
 			<div class="panel-group" id="accordion" role="tablist" aria-multiselectable="true">
+				
+					<div class="panel panel-default">
+						<div class="panel-heading" role="tab" id="headingpublications">
+							<h4 class="panel-title">
+								<a data-toggle="collapse" data-parent="#accordion" href="#collapsepublications" aria-expanded="true" aria-controls="collapsepublications">
+									Publications
+								</a>
+							</h4>
+						</div>
+						<div id="collapsepublications" class='panel-collapse collapse ' role="tabpanel" aria-labelledby="headingpublications">
+							<div class="panel-body">
+								
+
+<h4 id="2019">2019</h4>
+
+<p>Damien Anderson, Cristina Guerrero-Romero, Diego Perez-Liebana, Philip Rodgers and John Levine, <a target="_blank" href="/files/paper-eds-gvgp.pdf"><em><strong>&ldquo;Ensemble Decision Systems for General Video Game Playing&rdquo;</strong></em></a>, <em>Conference on Games (CoG)</em>. IEEE, 2019</p>
+
+<p><a target="_blank" href="https://github.com/Damorin/PhD-Ensemble-GVGAI/tree/master/src/COGPaper"><img src="/img/portfolio/logo_github.png" class="logo_img" alt="Github repository"/></a></p>
+
+<hr>
+
+<h4 id="2018">2018</h4>
+
+<p>Cristina Guerrero-Romero, Simon M Lucas and Diego Perez-Liebana, <a target="_blank" href="/files/paper-team-general-ai-assist.pdf"><em><strong>&ldquo;Using a Team of General AI Algorithms to Assist Game Design and Testing&rdquo;</strong></em></a>, <em>Computational Intelligence and Games (CIG)</em>. IEEE, 2018</p>
+
+<hr>
+
+<h4 id="2017">2017</h4>
+
+<p>Cristina Guerrero-Romero, Annie Louis and Diego Perez-Liebana, <a target="_blank" href="/files/201708_PlayingDiversifying.pdf"><em><strong>&ldquo;Beyond Playing to Win: Diversifying Heuristics for GVGAI&rdquo;</strong></em></a>, <em>Computational Intelligence and Games (CIG)</em>. IEEE, 2017</p>
+
+<p><a target="_blank" href="https://github.com/kisenshi/gvgai-experiments"><img src="/img/portfolio/logo_github.png" class="logo_img" alt="Github repository"/></a></p>
+
+							</div>
+						</div>
+					</div>
+				
+					<div class="panel panel-default">
+						<div class="panel-heading" role="tab" id="headingdemos1">
+							<h4 class="panel-title">
+								<a data-toggle="collapse" data-parent="#accordion" href="#collapsedemos1" aria-expanded="true" aria-controls="collapsedemos1">
+									Demo: Diversifying Heuristics for GVGAI
+								</a>
+							</h4>
+						</div>
+						<div id="collapsedemos1" class='panel-collapse collapse ' role="tabpanel" aria-labelledby="headingdemos1">
+							<div class="panel-body">
+								<p>
+This demo shows the different behaviours of a general agent (Random Search) when using four different heuristics (goals): Winning Maximization (WMH), Exploration Maximization (EMH), Knowledge Discovery (KDH) and Knowledge Estimation (KEH).
+</p>
+
+<p>
+The game is one of the games provided in the GVGAI framework, <i>Butterflies</i>. To win the game, all the butterflies must be captured before the time runs out or before all the cocoons are opened. Catching butterflies increases the score +2, so the more butterflies captured, higher the final score is.
+</p>
+
+<p class="text-center">
+    <div class="video-container">
+        <iframe src="https://www.youtube-nocookie.com/embed/aLgPm9kbfY8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    </div>
+</p><br/>
+
+<p>
+<b>Winning Maximization Heuristic (WMH).</b> The goal is winning or, if not possible, maximising the score. In the beginning, the agent stays around the same area without moving much because the butterflies, which gives the score, are too far to be aware of them. At the moment one of the butterflies is close enough to be noticed by the agent, it is clear how it moves to catch it and, as a result, the rest of the butterflies around. The agent manages to capture all the butterflies and win the game.
+</p>
+
+<p>
+<b>Exploration Maximization Heuristic (EMH).</b> The goal is visiting as many different positions on the map as possible. In the video, the spots already visited by the agent are highlighted. The agent moves all the time until the map is completely visited, not caring about the butterflies around.
+</p>
+
+<p>
+<b>Knowledge Discovery Heuristic (KDH).</b> The aim, in this case, is interacting with the game as much as possible. This heuristic is focused on maximising the discovery of the different sprites present in the game, and trying to perform interactions with all of them. If no new sprites emerge in the next
+state reached, it prioritises carrying out new interactions. Ultimately, if no new interactions are at their disposal either, the heuristic rewards interactions that have occurred in the past, but if they happen now in different locations of the level. In this game, there are only two elements to interact with: trees and butterflies. The agent moves around the map close to the trees, interacting with them in different positions. It rarely covers the big spaces in the middle of the map, unless there are butterflies around, as it tends to interact with them as well.
+</p>
+
+<p>
+<b>Knowledge Estimation Heuristic (KEH).</b> The goal of this heuristic is to predict the outcome of interacting with sprites, both changes in the victory status and in score modifiers. Unlike with the Knowledge Discovery Heuristic, it does not try to interact with elements based on their position but aims for a uniformed interaction with all the elements in the game. At the end of the game, estimations with each of the elements are calculated, trying to predict the score change resulted for each of them and the possible outcome (win/lose) of the game. For the trees (id 0), it is not predicted score change at all (and there is not in the game). For butterflies (id 5) it is predicted a score change of 2, which is accurate.
+</p>
+
+<hr/>
+
+<p>Detailed information about the heuristics and their implementation can be found in the paper  <a target="_blank" href="/files/201708_PlayingDiversifying.pdf">&ldquo;Beyond Playing to Win: Diversifying Heuristics for GVGAI&rdquo;</a>.
+</p></p>
+
+							</div>
+						</div>
+					</div>
+				
+					<div class="panel panel-default">
+						<div class="panel-heading" role="tab" id="headingcontact">
+							<h4 class="panel-title">
+								<a data-toggle="collapse" data-parent="#accordion" href="#collapsecontact" aria-expanded="true" aria-controls="collapsecontact">
+									Contact me
+								</a>
+							</h4>
+						</div>
+						<div id="collapsecontact" class='panel-collapse collapse ' role="tabpanel" aria-labelledby="headingcontact">
+							<div class="panel-body">
+								<p>Feel free to drop me a line to <a class="mail" href="mailto:c.guerreroromero@[avoidspam.]qmul.ac.uk"><strong>c.guerreroromero[at]qmul.ac.uk</strong></a></p>
+
+							</div>
+						</div>
+					</div>
 				
 			</div>
 		</div>
