@@ -27,10 +27,11 @@ I worked as a web developer for a couple of years before I decided to make a cha
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://kisenshi.github.io/page/publications/</guid>
-      <description>2019 Damien Anderson, Cristina Guerrero-Romero, Diego Perez-Liebana, Philip Rodgers and John Levine, &amp;ldquo;Ensemble Decision Systems for General Video Game Playing&amp;rdquo;, Conference on Games (CoG). IEEE, 2019
-
- 2018 Cristina Guerrero-Romero, Simon M Lucas and Diego Perez-Liebana, &amp;ldquo;Using a Team of General AI Algorithms to Assist Game Design and Testing&amp;rdquo;, Computational Intelligence and Games (CIG). IEEE, 2018
- 2017 Cristina Guerrero-Romero, Annie Louis and Diego Perez-Liebana, &amp;ldquo;Beyond Playing to Win: Diversifying Heuristics for GVGAI&amp;rdquo;, Computational Intelligence and Games (CIG).</description>
+      <description>2021 Cristina Guerrero-Romero and Diego Perez-Liebana. &amp;ldquo;MAP-Elites to Generate a Team of Agents that Elicits Diverse Automated Gameplay&amp;rdquo;, Proceedings of the 2021 IEEE Conference on Games (CoG), 2021.
+ 
+Related demo
+ Diego Perez-Liebana, Cristina Guerrero-Romero, Alexander Dockhorn, Dominik Jeurissen and Linjie Xu. &amp;ldquo;Generating Diverse and Competitive Play-Styles for Strategy Games&amp;rdquo;. Proceedings of the 2021 IEEE Conference on Games (CoG), 2021.
+ 2020 Cristina Guerrero-Romero, Shringi Kumari, Diego Perez-Liebana and Sebastian Deterding.</description>
     </item>
     
   </channel>

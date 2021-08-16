@@ -8,16 +8,6 @@
   </url>
   
   <url>
-    <loc>http://kisenshi.github.io/post/2017_09_19_entrepreneurship_workshop/</loc>
-    <lastmod>2017-09-28T19:27:34+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://kisenshi.github.io/post/2017_03_23_wtm2017/</loc>
-    <lastmod>2017-03-25T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>http://kisenshi.github.io/post/2017_02_27_game_ai_module/</loc>
     <lastmod>2017-02-27T00:00:00+00:00</lastmod>
   </url>
@@ -105,11 +95,35 @@
       
         
           <url>
+            <loc>http://kisenshi.github.io/files/paper-generate-diverse-play-styles-strategy-games.pdf</loc>
+          </url>
+          
+      
+    
+  
+    
+      
+        
+          <url>
             <loc>http://kisenshi.github.io/files/paper-gvgp-px.pdf</loc>
           </url>
+          
+      
+    
+  
+    
+      
+        
           <url>
             <loc>http://kisenshi.github.io/files/paper-map-elites-generation-team-agents-behaviour.pdf</loc>
           </url>
+          
+      
+    
+  
+    
+      
+        
           <url>
             <loc>http://kisenshi.github.io/files/paper-team-general-ai-assist.pdf</loc>
           </url>
